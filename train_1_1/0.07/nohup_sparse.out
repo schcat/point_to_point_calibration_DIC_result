@@ -1,0 +1,2668 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 55.740985 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 523.288210 seconds.
+Elapsed time is 551.375973 seconds.
+Elapsed time is 572.367127 seconds.
+Elapsed time is 587.965046 seconds.
+Elapsed time is 636.205415 seconds.
+Elapsed time is 675.550657 seconds.
+Elapsed time is 676.506286 seconds.
+Elapsed time is 679.595711 seconds.
+Elapsed time is 738.193384 seconds.
+Elapsed time is 741.278481 seconds.
+Elapsed time is 748.086258 seconds.
+Elapsed time is 781.168596 seconds.
+Elapsed time is 814.799372 seconds.
+Elapsed time is 826.633233 seconds.
+Elapsed time is 850.380356 seconds.
+Elapsed time is 890.596846 seconds.
+Elapsed time is 897.095894 seconds.
+Elapsed time is 903.688112 seconds.
+Elapsed time is 920.030856 seconds.
+Elapsed time is 959.129000 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 641.977687 seconds.
+Elapsed time is 652.081500 seconds.
+Elapsed time is 681.537524 seconds.
+Elapsed time is 725.187898 seconds.
+Elapsed time is 731.403285 seconds.
+Elapsed time is 753.207101 seconds.
+Elapsed time is 756.055749 seconds.
+Elapsed time is 756.822173 seconds.
+Elapsed time is 776.145873 seconds.
+Elapsed time is 785.589932 seconds.
+Elapsed time is 798.568398 seconds.
+Elapsed time is 816.754936 seconds.
+Elapsed time is 818.768448 seconds.
+Elapsed time is 819.584626 seconds.
+Elapsed time is 840.282267 seconds.
+Elapsed time is 850.763301 seconds.
+Elapsed time is 898.331030 seconds.
+Elapsed time is 917.270820 seconds.
+Elapsed time is 931.184058 seconds.
+Elapsed time is 936.065309 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371006924164162                   0   0.982067782995135
+                   0   1.357055256010012   0.527758530333183
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.114300071882863
+
+Elapsed time is 65.791088 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 517.503247 seconds.
+Elapsed time is 530.711998 seconds.
+Elapsed time is 540.220186 seconds.
+Elapsed time is 553.623969 seconds.
+Elapsed time is 579.947333 seconds.
+Elapsed time is 583.329292 seconds.
+Elapsed time is 621.341485 seconds.
+Elapsed time is 625.215805 seconds.
+Elapsed time is 646.082642 seconds.
+Elapsed time is 676.401257 seconds.
+Elapsed time is 695.077589 seconds.
+Elapsed time is 702.624575 seconds.
+Elapsed time is 705.762277 seconds.
+Elapsed time is 746.851659 seconds.
+Elapsed time is 791.517030 seconds.
+Elapsed time is 802.614690 seconds.
+Elapsed time is 806.135838 seconds.
+Elapsed time is 834.208971 seconds.
+Elapsed time is 835.017105 seconds.
+Elapsed time is 866.434271 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 454.411465 seconds.
+Elapsed time is 493.896798 seconds.
+Elapsed time is 529.906687 seconds.
+Elapsed time is 568.722926 seconds.
+Elapsed time is 570.951552 seconds.
+Elapsed time is 587.789306 seconds.
+Elapsed time is 607.137648 seconds.
+Elapsed time is 609.748168 seconds.
+Elapsed time is 624.665844 seconds.
+Elapsed time is 627.044616 seconds.
+Elapsed time is 627.205594 seconds.
+Elapsed time is 643.769269 seconds.
+Elapsed time is 646.164631 seconds.
+Elapsed time is 652.152395 seconds.
+Elapsed time is 698.214245 seconds.
+Elapsed time is 706.097749 seconds.
+Elapsed time is 709.886507 seconds.
+Elapsed time is 766.722813 seconds.
+Elapsed time is 767.206194 seconds.
+Elapsed time is 783.246932 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371077754883234                   0   0.982022876882947
+                   0   1.357157326600008   0.527802604110455
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.113824231071273
+
+Elapsed time is 59.741940 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 485.877408 seconds.
+Elapsed time is 490.292712 seconds.
+Elapsed time is 494.295440 seconds.
+Elapsed time is 499.803752 seconds.
+Elapsed time is 514.918937 seconds.
+Elapsed time is 516.465534 seconds.
+Elapsed time is 540.508042 seconds.
+Elapsed time is 568.503804 seconds.
+Elapsed time is 571.569018 seconds.
+Elapsed time is 575.568354 seconds.
+Elapsed time is 597.415192 seconds.
+Elapsed time is 626.217736 seconds.
+Elapsed time is 644.892267 seconds.
+Elapsed time is 728.143686 seconds.
+Elapsed time is 729.717180 seconds.
+Elapsed time is 735.829395 seconds.
+Elapsed time is 738.115617 seconds.
+Elapsed time is 752.536340 seconds.
+Elapsed time is 757.629479 seconds.
+Elapsed time is 797.221306 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 476.720767 seconds.
+Elapsed time is 477.172920 seconds.
+Elapsed time is 514.006934 seconds.
+Elapsed time is 526.254066 seconds.
+Elapsed time is 544.826280 seconds.
+Elapsed time is 545.428107 seconds.
+Elapsed time is 564.159905 seconds.
+Elapsed time is 572.197252 seconds.
+Elapsed time is 582.271431 seconds.
+Elapsed time is 586.208008 seconds.
+Elapsed time is 601.991881 seconds.
+Elapsed time is 605.899500 seconds.
+Elapsed time is 608.505086 seconds.
+Elapsed time is 629.453117 seconds.
+Elapsed time is 654.599705 seconds.
+Elapsed time is 655.541982 seconds.
+Elapsed time is 663.143001 seconds.
+Elapsed time is 675.314680 seconds.
+Elapsed time is 698.365070 seconds.
+Elapsed time is 739.501471 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371656166870410                   0   0.982750232601900
+                   0   1.358256010534962   0.528109403382855
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.155926061705730
+
+Elapsed time is 52.402147 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 278.468570 seconds.
+Elapsed time is 312.307076 seconds.
+Elapsed time is 330.542929 seconds.
+Elapsed time is 340.114492 seconds.
+Elapsed time is 351.490979 seconds.
+Elapsed time is 353.893893 seconds.
+Elapsed time is 358.548596 seconds.
+Elapsed time is 392.732936 seconds.
+Elapsed time is 423.249882 seconds.
+Elapsed time is 424.419229 seconds.
+Elapsed time is 428.221122 seconds.
+Elapsed time is 433.490991 seconds.
+Elapsed time is 502.171310 seconds.
+Elapsed time is 512.237494 seconds.
+Elapsed time is 545.292717 seconds.
+Elapsed time is 552.135030 seconds.
+Elapsed time is 555.697765 seconds.
+Elapsed time is 561.249800 seconds.
+Elapsed time is 565.840170 seconds.
+Elapsed time is 606.408118 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 330.323870 seconds.
+Elapsed time is 332.584593 seconds.
+Elapsed time is 363.519309 seconds.
+Elapsed time is 365.845487 seconds.
+Elapsed time is 381.905370 seconds.
+Elapsed time is 388.633184 seconds.
+Elapsed time is 391.439610 seconds.
+Elapsed time is 394.515199 seconds.
+Elapsed time is 403.416592 seconds.
+Elapsed time is 418.021821 seconds.
+Elapsed time is 429.365289 seconds.
+Elapsed time is 454.934574 seconds.
+Elapsed time is 460.408160 seconds.
+Elapsed time is 469.018472 seconds.
+Elapsed time is 500.866933 seconds.
+Elapsed time is 507.492916 seconds.
+Elapsed time is 525.000807 seconds.
+Elapsed time is 527.033662 seconds.
+Elapsed time is 553.209940 seconds.
+Elapsed time is 564.332846 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371141329995102                   0   0.982044886592584
+                   0   1.357262279001410   0.527857476143218
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.113399276300075
+
+Elapsed time is 52.037883 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 279.350327 seconds.
+Elapsed time is 314.625243 seconds.
+Elapsed time is 329.345982 seconds.
+Elapsed time is 338.666336 seconds.
+Elapsed time is 350.851143 seconds.
+Elapsed time is 353.219649 seconds.
+Elapsed time is 359.604785 seconds.
+Elapsed time is 391.629604 seconds.
+Elapsed time is 415.554223 seconds.
+Elapsed time is 424.046126 seconds.
+Elapsed time is 426.239282 seconds.
+Elapsed time is 431.269601 seconds.
+Elapsed time is 500.364804 seconds.
+Elapsed time is 516.012389 seconds.
+Elapsed time is 555.598061 seconds.
+Elapsed time is 559.235965 seconds.
+Elapsed time is 564.719660 seconds.
+Elapsed time is 565.508296 seconds.
+Elapsed time is 566.201084 seconds.
+Elapsed time is 601.786725 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 326.980589 seconds.
+Elapsed time is 330.543376 seconds.
+Elapsed time is 363.902069 seconds.
+Elapsed time is 365.625384 seconds.
+Elapsed time is 380.998027 seconds.
+Elapsed time is 385.963563 seconds.
+Elapsed time is 389.242601 seconds.
+Elapsed time is 395.731504 seconds.
+Elapsed time is 410.554361 seconds.
+Elapsed time is 415.071673 seconds.
+Elapsed time is 441.175461 seconds.
+Elapsed time is 445.376548 seconds.
+Elapsed time is 452.299340 seconds.
+Elapsed time is 480.620283 seconds.
+Elapsed time is 505.119249 seconds.
+Elapsed time is 513.469728 seconds.
+Elapsed time is 525.180456 seconds.
+Elapsed time is 531.112856 seconds.
+Elapsed time is 548.862657 seconds.
+Elapsed time is 549.411147 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371167077944848                   0   0.982027923727369
+                   0   1.357332472607916   0.527920007378373
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.113224454266727
+
+Elapsed time is 52.433531 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 276.678395 seconds.
+Elapsed time is 315.406757 seconds.
+Elapsed time is 332.493648 seconds.
+Elapsed time is 340.094812 seconds.
+Elapsed time is 354.112009 seconds.
+Elapsed time is 354.475303 seconds.
+Elapsed time is 371.293549 seconds.
+Elapsed time is 392.567374 seconds.
+Elapsed time is 414.061172 seconds.
+Elapsed time is 418.178024 seconds.
+Elapsed time is 425.500690 seconds.
+Elapsed time is 427.525656 seconds.
+Elapsed time is 500.237491 seconds.
+Elapsed time is 521.140616 seconds.
+Elapsed time is 545.406259 seconds.
+Elapsed time is 555.762761 seconds.
+Elapsed time is 560.139095 seconds.
+Elapsed time is 567.309532 seconds.
+Elapsed time is 567.980285 seconds.
+Elapsed time is 601.758169 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 328.665646 seconds.
+Elapsed time is 333.028008 seconds.
+Elapsed time is 363.726979 seconds.
+Elapsed time is 364.971903 seconds.
+Elapsed time is 380.364746 seconds.
+Elapsed time is 385.527418 seconds.
+Elapsed time is 390.266559 seconds.
+Elapsed time is 401.927057 seconds.
+Elapsed time is 403.190146 seconds.
+Elapsed time is 424.883972 seconds.
+Elapsed time is 425.070947 seconds.
+Elapsed time is 442.752930 seconds.
+Elapsed time is 455.894911 seconds.
+Elapsed time is 466.661682 seconds.
+Elapsed time is 507.955245 seconds.
+Elapsed time is 509.842302 seconds.
+Elapsed time is 523.354501 seconds.
+Elapsed time is 537.835642 seconds.
+Elapsed time is 550.457641 seconds.
+Elapsed time is 551.142989 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371184205405860                   0   0.982040344130128
+                   0   1.357329970291818   0.527924712757801
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.112765923101258
+
+Elapsed time is 52.979071 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 278.547912 seconds.
+Elapsed time is 323.397789 seconds.
+Elapsed time is 332.474732 seconds.
+Elapsed time is 338.708239 seconds.
+Elapsed time is 353.530463 seconds.
+Elapsed time is 354.545716 seconds.
+Elapsed time is 360.296762 seconds.
+Elapsed time is 395.101465 seconds.
+Elapsed time is 415.196601 seconds.
+Elapsed time is 421.410165 seconds.
+Elapsed time is 424.863810 seconds.
+Elapsed time is 427.238722 seconds.
+Elapsed time is 502.770769 seconds.
+Elapsed time is 513.853415 seconds.
+Elapsed time is 547.224494 seconds.
+Elapsed time is 551.395302 seconds.
+Elapsed time is 558.494205 seconds.
+Elapsed time is 563.511063 seconds.
+Elapsed time is 570.823485 seconds.
+Elapsed time is 605.011394 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 323.407009 seconds.
+Elapsed time is 334.641943 seconds.
+Elapsed time is 365.171820 seconds.
+Elapsed time is 371.247619 seconds.
+Elapsed time is 379.175022 seconds.
+Elapsed time is 382.991162 seconds.
+Elapsed time is 385.875169 seconds.
+Elapsed time is 398.514031 seconds.
+Elapsed time is 400.452681 seconds.
+Elapsed time is 411.609208 seconds.
+Elapsed time is 429.435875 seconds.
+Elapsed time is 452.178524 seconds.
+Elapsed time is 457.869937 seconds.
+Elapsed time is 476.299771 seconds.
+Elapsed time is 506.036470 seconds.
+Elapsed time is 512.427805 seconds.
+Elapsed time is 525.649181 seconds.
+Elapsed time is 526.954391 seconds.
+Elapsed time is 550.509532 seconds.
+Elapsed time is 555.551774 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371251897617118                   0   0.982020277016358
+                   0   1.357375362590690   0.527930266134963
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.112774312975592
+
+Elapsed time is 52.545787 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 282.155668 seconds.
+Elapsed time is 315.100803 seconds.
+Elapsed time is 328.674679 seconds.
+Elapsed time is 351.951498 seconds.
+Elapsed time is 352.669643 seconds.
+Elapsed time is 352.892139 seconds.
+Elapsed time is 360.536094 seconds.
+Elapsed time is 391.130734 seconds.
+Elapsed time is 412.727277 seconds.
+Elapsed time is 425.675650 seconds.
+Elapsed time is 425.716274 seconds.
+Elapsed time is 448.017917 seconds.
+Elapsed time is 501.432737 seconds.
+Elapsed time is 516.801357 seconds.
+Elapsed time is 546.056966 seconds.
+Elapsed time is 565.165244 seconds.
+Elapsed time is 565.550186 seconds.
+Elapsed time is 568.083041 seconds.
+Elapsed time is 580.402232 seconds.
+Elapsed time is 601.094888 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 323.507838 seconds.
+Elapsed time is 339.233217 seconds.
+Elapsed time is 366.686704 seconds.
+Elapsed time is 371.760349 seconds.
+Elapsed time is 386.610982 seconds.
+Elapsed time is 386.805406 seconds.
+Elapsed time is 387.905061 seconds.
+Elapsed time is 397.305082 seconds.
+Elapsed time is 412.676473 seconds.
+Elapsed time is 419.659618 seconds.
+Elapsed time is 421.436455 seconds.
+Elapsed time is 445.229824 seconds.
+Elapsed time is 453.675153 seconds.
+Elapsed time is 468.113182 seconds.
+Elapsed time is 502.238411 seconds.
+Elapsed time is 503.373058 seconds.
+Elapsed time is 531.839234 seconds.
+Elapsed time is 538.377226 seconds.
+Elapsed time is 547.428521 seconds.
+Elapsed time is 551.110270 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371292441109207                   0   0.982002162383581
+                   0   1.357421312724211   0.527919051627896
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.112748621973045
+
+Elapsed time is 52.176880 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 277.075272 seconds.
+Elapsed time is 314.568890 seconds.
+Elapsed time is 342.991928 seconds.
+Elapsed time is 343.457330 seconds.
+Elapsed time is 353.258675 seconds.
+Elapsed time is 360.428984 seconds.
+Elapsed time is 363.565534 seconds.
+Elapsed time is 398.810124 seconds.
+Elapsed time is 418.261111 seconds.
+Elapsed time is 420.689240 seconds.
+Elapsed time is 428.610708 seconds.
+Elapsed time is 428.982987 seconds.
+Elapsed time is 506.439731 seconds.
+Elapsed time is 513.817238 seconds.
+Elapsed time is 546.191504 seconds.
+Elapsed time is 552.794938 seconds.
+Elapsed time is 561.259392 seconds.
+Elapsed time is 561.354030 seconds.
+Elapsed time is 568.228155 seconds.
+Elapsed time is 598.750479 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 324.748233 seconds.
+Elapsed time is 339.508128 seconds.
+Elapsed time is 365.480073 seconds.
+Elapsed time is 366.396926 seconds.
+Elapsed time is 385.000880 seconds.
+Elapsed time is 389.900262 seconds.
+Elapsed time is 390.981484 seconds.
+Elapsed time is 395.051756 seconds.
+Elapsed time is 403.346850 seconds.
+Elapsed time is 419.517624 seconds.
+Elapsed time is 431.357076 seconds.
+Elapsed time is 448.684216 seconds.
+Elapsed time is 454.000620 seconds.
+Elapsed time is 472.742297 seconds.
+Elapsed time is 501.904095 seconds.
+Elapsed time is 508.675140 seconds.
+Elapsed time is 526.749501 seconds.
+Elapsed time is 534.822819 seconds.
+Elapsed time is 549.599906 seconds.
+Elapsed time is 554.029093 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371290879466567                   0   0.981964906613458
+                   0   1.357417582644691   0.527966797844118
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.112651935075834
+
+Elapsed time is 52.424933 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 279.164308 seconds.
+Elapsed time is 315.226423 seconds.
+Elapsed time is 330.429170 seconds.
+Elapsed time is 338.134175 seconds.
+Elapsed time is 351.307223 seconds.
+Elapsed time is 351.699958 seconds.
+Elapsed time is 363.918684 seconds.
+Elapsed time is 392.014138 seconds.
+Elapsed time is 417.674136 seconds.
+Elapsed time is 424.164546 seconds.
+Elapsed time is 424.450042 seconds.
+Elapsed time is 430.593437 seconds.
+Elapsed time is 499.643306 seconds.
+Elapsed time is 516.884539 seconds.
+Elapsed time is 541.039901 seconds.
+Elapsed time is 558.970094 seconds.
+Elapsed time is 567.258653 seconds.
+Elapsed time is 567.727671 seconds.
+Elapsed time is 597.703799 seconds.
+Elapsed time is 601.812493 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 325.204792 seconds.
+Elapsed time is 337.725663 seconds.
+Elapsed time is 365.885392 seconds.
+Elapsed time is 370.305969 seconds.
+Elapsed time is 379.191015 seconds.
+Elapsed time is 388.814718 seconds.
+Elapsed time is 391.802366 seconds.
+Elapsed time is 397.143399 seconds.
+Elapsed time is 405.580389 seconds.
+Elapsed time is 419.619513 seconds.
+Elapsed time is 424.188610 seconds.
+Elapsed time is 448.487611 seconds.
+Elapsed time is 450.730939 seconds.
+Elapsed time is 473.410459 seconds.
+Elapsed time is 502.733396 seconds.
+Elapsed time is 504.251150 seconds.
+Elapsed time is 531.296306 seconds.
+Elapsed time is 535.712545 seconds.
+Elapsed time is 546.087112 seconds.
+Elapsed time is 559.102466 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371227895326808                   0   0.981983411505421
+                   0   1.357396249907545   0.528005547741562
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.112536516749948
+
+Elapsed time is 52.187651 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 277.562070 seconds.
+Elapsed time is 314.189573 seconds.
+Elapsed time is 334.389243 seconds.
+Elapsed time is 337.738175 seconds.
+Elapsed time is 349.921636 seconds.
+Elapsed time is 354.740796 seconds.
+Elapsed time is 364.747287 seconds.
+Elapsed time is 393.126476 seconds.
+Elapsed time is 414.165586 seconds.
+Elapsed time is 419.148173 seconds.
+Elapsed time is 427.450661 seconds.
+Elapsed time is 427.909005 seconds.
+Elapsed time is 502.473346 seconds.
+Elapsed time is 515.819952 seconds.
+Elapsed time is 543.261341 seconds.
+Elapsed time is 551.381323 seconds.
+Elapsed time is 562.779799 seconds.
+Elapsed time is 563.128143 seconds.
+Elapsed time is 569.924886 seconds.
+Elapsed time is 603.368925 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 326.413547 seconds.
+Elapsed time is 332.152247 seconds.
+Elapsed time is 367.145751 seconds.
+Elapsed time is 377.323375 seconds.
+Elapsed time is 380.221396 seconds.
+Elapsed time is 383.366657 seconds.
+Elapsed time is 385.903262 seconds.
+Elapsed time is 402.442906 seconds.
+Elapsed time is 407.418197 seconds.
+Elapsed time is 418.350090 seconds.
+Elapsed time is 435.236837 seconds.
+Elapsed time is 448.582670 seconds.
+Elapsed time is 460.207987 seconds.
+Elapsed time is 465.536228 seconds.
+Elapsed time is 483.889810 seconds.
+Elapsed time is 507.964821 seconds.
+Elapsed time is 526.507152 seconds.
+Elapsed time is 531.805230 seconds.
+Elapsed time is 543.669727 seconds.
+Elapsed time is 550.476402 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371217631939574                   0   0.981989362866246
+                   0   1.357361986866083   0.528005372355419
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.112297569999246
+
+Elapsed time is 52.866645 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 280.078079 seconds.
+Elapsed time is 313.552020 seconds.
+Elapsed time is 335.649136 seconds.
+Elapsed time is 339.012933 seconds.
+Elapsed time is 351.709716 seconds.
+Elapsed time is 352.425991 seconds.
+Elapsed time is 366.405952 seconds.
+Elapsed time is 391.740329 seconds.
+Elapsed time is 416.814398 seconds.
+Elapsed time is 418.975449 seconds.
+Elapsed time is 426.877902 seconds.
+Elapsed time is 436.668335 seconds.
+Elapsed time is 512.088788 seconds.
+Elapsed time is 514.568476 seconds.
+Elapsed time is 539.568315 seconds.
+Elapsed time is 552.269824 seconds.
+Elapsed time is 559.934121 seconds.
+Elapsed time is 562.038909 seconds.
+Elapsed time is 568.248152 seconds.
+Elapsed time is 603.881414 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 325.826340 seconds.
+Elapsed time is 335.794940 seconds.
+Elapsed time is 363.754268 seconds.
+Elapsed time is 368.229278 seconds.
+Elapsed time is 380.857035 seconds.
+Elapsed time is 384.068269 seconds.
+Elapsed time is 394.491677 seconds.
+Elapsed time is 397.992165 seconds.
+Elapsed time is 405.464422 seconds.
+Elapsed time is 419.249101 seconds.
+Elapsed time is 430.590957 seconds.
+Elapsed time is 456.314917 seconds.
+Elapsed time is 460.439046 seconds.
+Elapsed time is 460.761222 seconds.
+Elapsed time is 508.385776 seconds.
+Elapsed time is 511.621263 seconds.
+Elapsed time is 525.344086 seconds.
+Elapsed time is 533.449684 seconds.
+Elapsed time is 551.932225 seconds.
+Elapsed time is 555.420059 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.371173421525443                   0   0.981973683649325
+                   0   1.357328136871877   0.528014585890871
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.112223406921964
+
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
