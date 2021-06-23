@@ -1,0 +1,434 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+initres =
+
+   9.567050448943702
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Analyzing and transferring files to the workers ...done.
+{Error using ncorr_class_roi/set_roi (line 57)
+An UndefinedFunction error was thrown on the workers for
+'ncorr_alg_formregions'.  This might be because the file containing
+'ncorr_alg_formregions' is not accessible on the workers.  Use
+addAttachedFiles(pool, files) to specify the required files to be attached.
+See the documentation for 'parallel.Pool/addAttachedFiles' for more details.
+
+Error in fun_dic (line 54)
+roi_prelim.set_roi('load',struct('mask',mask_load_prelim,'cutoff',2000));
+
+Error in fun_mapopt (line 56)
+parfor k=1:1:n
+
+Error in lsqnonlin (line 196)
+            initVals.F = feval(funfcn{3},xCurrent,varargin{:});
+
+Error in patent2_InAndOut (line 68)
+[x,nor,res,exitflag,output] = lsqnonlin( @fun_mapopt, para, [],[],options);
+
+Caused by:
+    Undefined function 'ncorr_alg_formregions' for input arguments of type
+    'int32'.
+    Failure in initial objective function evaluation. LSQNONLIN cannot
+    continue.
+} 
+  message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 86.504006 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Analyzing and transferring files to the workers ...done.
+{Error using ncorr_class_roi/set_roi (line 57)
+An UndefinedFunction error was thrown on the workers for
+'ncorr_alg_formregions'.  This might be because the file containing
+'ncorr_alg_formregions' is not accessible on the workers.  Use
+addAttachedFiles(pool, files) to specify the required files to be attached.
+See the documentation for 'parallel.Pool/addAttachedFiles' for more details.
+
+Error in fun_dic (line 54)
+roi_prelim.set_roi('load',struct('mask',mask_load_prelim,'cutoff',2000));
+
+Error in fun_test (line 58)
+parfor k=1:1:n
+
+Error in fun_test_all (line 1)
+fun_test(['../result/train_2_2_70/para_temp_10.txt']);
+
+Caused by:
+    Undefined function 'ncorr_alg_formregions' for input arguments of type
+    'int32'.
+} 
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 69.210748 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+{Error using imread>get_full_filename (line 516)
+File "../image/ROI_proj_test_1.png" does not exist.
+
+Error in imread (line 340)
+    fullname = get_full_filename(filename);
+
+Error in fun_dic (line 51)
+mask_img_prelim.set_img(type_roi,struct('img',imread(fullfile(pathname,filename_roi)),'name',filename_roi,'path',pathname));
+
+Error in fun_test (line 58)
+parfor k=1:1:n
+
+Error in fun_test_all (line 1)
+fun_test(['../result/train_2_2_70/para_temp_10.txt']);
+} 
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 75.931865 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Analyzing and transferring files to the workers ...done.
+{Error using ncorr_class_roi/set_roi (line 57)
+An UndefinedFunction error was thrown on the workers for
+'ncorr_alg_formregions'.  This might be because the file containing
+'ncorr_alg_formregions' is not accessible on the workers.  Use
+addAttachedFiles(pool, files) to specify the required files to be attached.
+See the documentation for 'parallel.Pool/addAttachedFiles' for more details.
+
+Error in fun_dic (line 54)
+roi_prelim.set_roi('load',struct('mask',mask_load_prelim,'cutoff',2000));
+
+Error in fun_test (line 58)
+parfor k=1:1:n
+
+Error in fun_test_all (line 1)
+fun_test(['../result/train_2_2_70/para_temp_10.txt']);
+
+Caused by:
+    Undefined function 'ncorr_alg_formregions' for input arguments of type
+    'int32'.
+} 
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 75.269129 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 3705.175547 seconds.
+Elapsed time is 4246.642894 seconds.
+Elapsed time is 4430.038484 seconds.
+Elapsed time is 4836.038622 seconds.
+Elapsed time is 5003.558315 seconds.
+Elapsed time is 5072.000348 seconds.
+Elapsed time is 5119.949818 seconds.
+Elapsed time is 5333.102137 seconds.
+Elapsed time is 5412.418540 seconds.
+Elapsed time is 5460.315622 seconds.
+Elapsed time is 5581.637157 seconds.
+Elapsed time is 5622.652543 seconds.
+Elapsed time is 5734.129024 seconds.
+Elapsed time is 6176.212755 seconds.
+Elapsed time is 6267.898184 seconds.
+Elapsed time is 6422.529204 seconds.
+Elapsed time is 6670.881717 seconds.
+Elapsed time is 6921.788782 seconds.
+Elapsed time is 7247.415381 seconds.
+Elapsed time is 8047.818485 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+{Error using imread>get_full_filename (line 516)
+File "../image/train_2_2/speckle_pattern_4000_pad_0111_20_15000_1000.png" does
+not exist.
+
+Error in imread (line 340)
+    fullname = get_full_filename(filename);
+
+Error in fun_dic (line 47)
+ref_prelim.set_img(type_ref,struct('img',imread(fullfile(pathname,filename_ref)),'name',filename_ref,'path',pathname));
+
+Error in fun_test (line 177)
+parfor k=1:1:n
+
+Error in fun_test_all (line 1)
+fun_test(['../result/train_2_2_70/para_temp_10.txt']);
+} 
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 4990.791322 seconds.
+Elapsed time is 5037.268575 seconds.
+Elapsed time is 5176.360746 seconds.
+Elapsed time is 5456.821270 seconds.
+Elapsed time is 5585.265517 seconds.
+Elapsed time is 5727.991690 seconds.
+Elapsed time is 5856.196340 seconds.
+Elapsed time is 5875.303441 seconds.
+Elapsed time is 5890.315322 seconds.
+Elapsed time is 5931.698945 seconds.
+Elapsed time is 5982.649395 seconds.
+Elapsed time is 6488.569121 seconds.
+Elapsed time is 6595.254311 seconds.
+Elapsed time is 6810.148070 seconds.
+Elapsed time is 7076.188284 seconds.
+Elapsed time is 7097.570681 seconds.
+Elapsed time is 8581.556808 seconds.
+Elapsed time is 8586.956029 seconds.
+Elapsed time is 8866.347732 seconds.
+Elapsed time is 8961.830424 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.379056719053441                   0   0.949225051618128
+                   0   1.363636902449055   0.538089950276079
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.084568239921569
+
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
