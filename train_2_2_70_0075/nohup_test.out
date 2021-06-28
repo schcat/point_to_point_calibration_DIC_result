@@ -9,52 +9,52 @@ MATLAB is selecting SOFTWARE OPENGL rendering.
 To get started, type one of these: helpwin, helpdesk, or demo.
 For product information, visit www.mathworks.com.
  
-Elapsed time is 55.921265 seconds.
+Elapsed time is 188.152097 seconds.
 Starting parallel pool (parpool) using the 'local' profile ...
 connected to 20 workers.
-Elapsed time is 6506.961175 seconds.
-Elapsed time is 6870.981138 seconds.
-Elapsed time is 7088.008317 seconds.
-Elapsed time is 8424.049452 seconds.
-Elapsed time is 8456.407852 seconds.
-Elapsed time is 8722.184093 seconds.
-Elapsed time is 8773.714339 seconds.
-Elapsed time is 8813.859214 seconds.
-Elapsed time is 9098.367103 seconds.
-Elapsed time is 9233.349220 seconds.
-Elapsed time is 9316.310606 seconds.
-Elapsed time is 9321.762201 seconds.
-Elapsed time is 9748.831728 seconds.
-Elapsed time is 10532.659583 seconds.
-Elapsed time is 10549.892156 seconds.
-Elapsed time is 10776.327079 seconds.
-Elapsed time is 10953.732905 seconds.
-Elapsed time is 11094.365112 seconds.
-Elapsed time is 11447.753729 seconds.
-Elapsed time is 12565.132920 seconds.
+Elapsed time is 7131.037366 seconds.
+Elapsed time is 8640.328359 seconds.
+Elapsed time is 8674.085840 seconds.
+Elapsed time is 8686.251191 seconds.
+Elapsed time is 8702.701589 seconds.
+Elapsed time is 8715.306695 seconds.
+Elapsed time is 9150.792079 seconds.
+Elapsed time is 9270.690606 seconds.
+Elapsed time is 9379.250248 seconds.
+Elapsed time is 9507.852479 seconds.
+Elapsed time is 9587.578118 seconds.
+Elapsed time is 9701.297999 seconds.
+Elapsed time is 9709.012179 seconds.
+Elapsed time is 10027.163126 seconds.
+Elapsed time is 10286.436490 seconds.
+Elapsed time is 10306.400396 seconds.
+Elapsed time is 10342.456626 seconds.
+Elapsed time is 10610.054081 seconds.
+Elapsed time is 11321.039496 seconds.
+Elapsed time is 11992.025274 seconds.
 Parallel pool using the 'local' profile is shutting down.
 Starting parallel pool (parpool) using the 'local' profile ...
 connected to 20 workers.
-Elapsed time is 8903.747205 seconds.
-Elapsed time is 9799.355864 seconds.
-Elapsed time is 9805.649152 seconds.
-Elapsed time is 9930.411525 seconds.
-Elapsed time is 10079.458819 seconds.
-Elapsed time is 10199.702875 seconds.
-Elapsed time is 10343.462457 seconds.
-Elapsed time is 10356.725353 seconds.
-Elapsed time is 10560.019872 seconds.
-Elapsed time is 11248.849429 seconds.
-Elapsed time is 11729.430835 seconds.
-Elapsed time is 11957.185250 seconds.
-Elapsed time is 11998.901773 seconds.
-Elapsed time is 12456.714983 seconds.
-Elapsed time is 12509.376760 seconds.
-Elapsed time is 12652.760590 seconds.
-Elapsed time is 13644.793512 seconds.
-Elapsed time is 13970.593171 seconds.
-Elapsed time is 14024.842262 seconds.
-Elapsed time is 14178.385997 seconds.
+Elapsed time is 9289.820306 seconds.
+Elapsed time is 9545.982674 seconds.
+Elapsed time is 9550.091296 seconds.
+Elapsed time is 9943.297578 seconds.
+Elapsed time is 10035.721422 seconds.
+Elapsed time is 10464.898330 seconds.
+Elapsed time is 10865.214423 seconds.
+Elapsed time is 11032.393662 seconds.
+Elapsed time is 11081.315389 seconds.
+Elapsed time is 11502.463697 seconds.
+Elapsed time is 11550.079063 seconds.
+Elapsed time is 11570.279514 seconds.
+Elapsed time is 12075.974701 seconds.
+Elapsed time is 12126.230771 seconds.
+Elapsed time is 12477.998386 seconds.
+Elapsed time is 12739.680679 seconds.
+Elapsed time is 13811.255176 seconds.
+Elapsed time is 13843.723984 seconds.
+Elapsed time is 14187.568275 seconds.
+Elapsed time is 14395.018183 seconds.
 Parallel pool using the 'local' profile is shutting down.
 
 Local minimum possible.
@@ -221,14 +221,14 @@ A =
 
    1.0e+03 *
 
-   1.378971318547884                   0   0.949549620881378
-                   0   1.363503704114776   0.538082797028529
+   1.378814782717320                   0   0.949528204887420
+                   0   1.363508847542519   0.537930500005388
                    0                   0   0.001000000000000
 
 
 initres =
 
-   0.082847718924445
+   0.081884280561326
 
   message with properties:
 
