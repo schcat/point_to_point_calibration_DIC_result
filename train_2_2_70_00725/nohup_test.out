@@ -1,0 +1,260 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 67.851680 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 2432.374819 seconds.
+Elapsed time is 2694.067375 seconds.
+Elapsed time is 2775.286521 seconds.
+Elapsed time is 2959.927967 seconds.
+Elapsed time is 3237.519598 seconds.
+Elapsed time is 3257.133507 seconds.
+Elapsed time is 3271.656668 seconds.
+Elapsed time is 3407.259035 seconds.
+Elapsed time is 3436.493611 seconds.
+Elapsed time is 3515.116499 seconds.
+Elapsed time is 3535.244679 seconds.
+Elapsed time is 3557.687131 seconds.
+Elapsed time is 3815.857244 seconds.
+Elapsed time is 4065.522357 seconds.
+Elapsed time is 4112.652217 seconds.
+Elapsed time is 4282.307076 seconds.
+Elapsed time is 4444.965943 seconds.
+Elapsed time is 4458.450187 seconds.
+Elapsed time is 4866.059159 seconds.
+Elapsed time is 5554.016636 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 830.534369 seconds.
+Elapsed time is 874.031213 seconds.
+Elapsed time is 877.565466 seconds.
+Elapsed time is 937.671998 seconds.
+Elapsed time is 959.341782 seconds.
+Elapsed time is 971.123781 seconds.
+Elapsed time is 975.453231 seconds.
+Elapsed time is 1054.953488 seconds.
+Elapsed time is 1061.174475 seconds.
+Elapsed time is 1063.667832 seconds.
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 2960.652022 seconds.
+Elapsed time is 3407.914413 seconds.
+Elapsed time is 3415.517872 seconds.
+Elapsed time is 3423.578187 seconds.
+Elapsed time is 3438.162848 seconds.
+Elapsed time is 3498.025943 seconds.
+Elapsed time is 3598.977855 seconds.
+Elapsed time is 3910.686712 seconds.
+Elapsed time is 3943.458971 seconds.
+Elapsed time is 4033.778762 seconds.
+Elapsed time is 4076.478129 seconds.
+Elapsed time is 4246.072807 seconds.
+Elapsed time is 4545.037865 seconds.
+Elapsed time is 4587.014514 seconds.
+Elapsed time is 4629.783364 seconds.
+Elapsed time is 5013.540569 seconds.
+Elapsed time is 5846.843134 seconds.
+Elapsed time is 5885.158497 seconds.
+Elapsed time is 5963.494472 seconds.
+Elapsed time is 6452.003748 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.378972051104338                   0   0.949593902533340
+                   0   1.363477650203620   0.537989703534008
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.081526098617170
+
+  message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
