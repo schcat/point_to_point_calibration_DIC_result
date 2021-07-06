@@ -9,52 +9,75 @@ MATLAB is selecting SOFTWARE OPENGL rendering.
 To get started, type one of these: helpwin, helpdesk, or demo.
 For product information, visit www.mathworks.com.
  
-Elapsed time is 59.011846 seconds.
+Elapsed time is 67.851680 seconds.
 Starting parallel pool (parpool) using the 'local' profile ...
 connected to 20 workers.
-Elapsed time is 2311.290764 seconds.
-Elapsed time is 2660.617905 seconds.
-Elapsed time is 2746.779987 seconds.
-Elapsed time is 2948.236354 seconds.
-Elapsed time is 3088.056410 seconds.
-Elapsed time is 3130.432131 seconds.
-Elapsed time is 3202.911627 seconds.
-Elapsed time is 3292.458055 seconds.
-Elapsed time is 3331.773801 seconds.
-Elapsed time is 3460.049721 seconds.
-Elapsed time is 3469.811711 seconds.
-Elapsed time is 3488.200612 seconds.
-Elapsed time is 3698.746024 seconds.
-Elapsed time is 3903.771516 seconds.
-Elapsed time is 4084.921908 seconds.
-Elapsed time is 4251.210026 seconds.
-Elapsed time is 4284.719008 seconds.
-Elapsed time is 4389.728970 seconds.
-Elapsed time is 4783.522755 seconds.
-Elapsed time is 5433.239013 seconds.
+Elapsed time is 2432.374819 seconds.
+Elapsed time is 2694.067375 seconds.
+Elapsed time is 2775.286521 seconds.
+Elapsed time is 2959.927967 seconds.
+Elapsed time is 3237.519598 seconds.
+Elapsed time is 3257.133507 seconds.
+Elapsed time is 3271.656668 seconds.
+Elapsed time is 3407.259035 seconds.
+Elapsed time is 3436.493611 seconds.
+Elapsed time is 3515.116499 seconds.
+Elapsed time is 3535.244679 seconds.
+Elapsed time is 3557.687131 seconds.
+Elapsed time is 3815.857244 seconds.
+Elapsed time is 4065.522357 seconds.
+Elapsed time is 4112.652217 seconds.
+Elapsed time is 4282.307076 seconds.
+Elapsed time is 4444.965943 seconds.
+Elapsed time is 4458.450187 seconds.
+Elapsed time is 4866.059159 seconds.
+Elapsed time is 5554.016636 seconds.
 Parallel pool using the 'local' profile is shutting down.
 Starting parallel pool (parpool) using the 'local' profile ...
 connected to 20 workers.
-Elapsed time is 3011.462991 seconds.
-Elapsed time is 3310.253085 seconds.
-Elapsed time is 3358.770097 seconds.
-Elapsed time is 3360.474019 seconds.
-Elapsed time is 3495.465351 seconds.
-Elapsed time is 3597.238612 seconds.
-Elapsed time is 3606.896915 seconds.
-Elapsed time is 3906.364920 seconds.
-Elapsed time is 3977.663571 seconds.
-Elapsed time is 4049.570577 seconds.
-Elapsed time is 4069.155940 seconds.
-Elapsed time is 4275.637694 seconds.
-Elapsed time is 4358.578850 seconds.
-Elapsed time is 4636.986976 seconds.
-Elapsed time is 4709.372181 seconds.
-Elapsed time is 4967.494719 seconds.
-Elapsed time is 5723.989758 seconds.
-Elapsed time is 6074.346627 seconds.
-Elapsed time is 6124.021883 seconds.
-Elapsed time is 6271.663897 seconds.
+Elapsed time is 830.534369 seconds.
+Elapsed time is 874.031213 seconds.
+Elapsed time is 877.565466 seconds.
+Elapsed time is 937.671998 seconds.
+Elapsed time is 959.341782 seconds.
+Elapsed time is 971.123781 seconds.
+Elapsed time is 975.453231 seconds.
+Elapsed time is 1054.953488 seconds.
+Elapsed time is 1061.174475 seconds.
+Elapsed time is 1063.667832 seconds.
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 2960.652022 seconds.
+Elapsed time is 3407.914413 seconds.
+Elapsed time is 3415.517872 seconds.
+Elapsed time is 3423.578187 seconds.
+Elapsed time is 3438.162848 seconds.
+Elapsed time is 3498.025943 seconds.
+Elapsed time is 3598.977855 seconds.
+Elapsed time is 3910.686712 seconds.
+Elapsed time is 3943.458971 seconds.
+Elapsed time is 4033.778762 seconds.
+Elapsed time is 4076.478129 seconds.
+Elapsed time is 4246.072807 seconds.
+Elapsed time is 4545.037865 seconds.
+Elapsed time is 4587.014514 seconds.
+Elapsed time is 4629.783364 seconds.
+Elapsed time is 5013.540569 seconds.
+Elapsed time is 5846.843134 seconds.
+Elapsed time is 5885.158497 seconds.
+Elapsed time is 5963.494472 seconds.
+Elapsed time is 6452.003748 seconds.
 Parallel pool using the 'local' profile is shutting down.
 
 Local minimum possible.
@@ -221,14 +244,14 @@ A =
 
    1.0e+03 *
 
-    1.3790         0    0.9493
-         0    1.3634    0.5380
-         0         0    0.0010
+   1.378972051104338                   0   0.949593902533340
+                   0   1.363477650203620   0.537989703534008
+                   0                   0   0.001000000000000
 
 
 initres =
 
-    0.0832
+   0.081526098617170
 
   message with properties:
 
