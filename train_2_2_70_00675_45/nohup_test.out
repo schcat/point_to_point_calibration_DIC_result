@@ -11,26 +11,26 @@ For product information, visit www.mathworks.com.
  
 Starting parallel pool (parpool) using the 'local' profile ...
 connected to 20 workers.
-Elapsed time is 6691.538622 seconds.
-Elapsed time is 6844.520602 seconds.
-Elapsed time is 7292.919850 seconds.
-Elapsed time is 7521.744310 seconds.
-Elapsed time is 7721.135504 seconds.
-Elapsed time is 7761.573113 seconds.
-Elapsed time is 7910.385258 seconds.
-Elapsed time is 7990.904751 seconds.
-Elapsed time is 8010.044618 seconds.
-Elapsed time is 8073.995585 seconds.
-Elapsed time is 8570.329889 seconds.
-Elapsed time is 8572.703039 seconds.
-Elapsed time is 8659.205399 seconds.
-Elapsed time is 8958.075258 seconds.
-Elapsed time is 9246.379546 seconds.
-Elapsed time is 9435.846452 seconds.
-Elapsed time is 10107.414999 seconds.
-Elapsed time is 10872.922759 seconds.
-Elapsed time is 11032.114999 seconds.
-Elapsed time is 11804.942283 seconds.
+Elapsed time is 7050.904727 seconds.
+Elapsed time is 7208.775359 seconds.
+Elapsed time is 7578.324016 seconds.
+Elapsed time is 7655.197202 seconds.
+Elapsed time is 7693.739204 seconds.
+Elapsed time is 7745.809964 seconds.
+Elapsed time is 8182.157784 seconds.
+Elapsed time is 8355.995461 seconds.
+Elapsed time is 8372.435496 seconds.
+Elapsed time is 8582.094816 seconds.
+Elapsed time is 9007.522252 seconds.
+Elapsed time is 9134.210367 seconds.
+Elapsed time is 9281.328116 seconds.
+Elapsed time is 9305.713792 seconds.
+Elapsed time is 9350.404206 seconds.
+Elapsed time is 9655.092983 seconds.
+Elapsed time is 9963.857740 seconds.
+Elapsed time is 10321.129366 seconds.
+Elapsed time is 10664.883979 seconds.
+Elapsed time is 11487.179459 seconds.
 Parallel pool using the 'local' profile is shutting down.
 
 Local minimum possible.
@@ -197,14 +197,14 @@ A =
 
    1.0e+03 *
 
-   1.379162956967980                   0   0.949396867006385
-                   0   1.363661537046262   0.538067508744753
+   1.378959492433449                   0   0.949413422556909
+                   0   1.363447785997301   0.537985070596563
                    0                   0   0.001000000000000
 
 
 initres =
 
-   0.085855480681624
+   0.082834775158547
 
   message with properties:
 

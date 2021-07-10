@@ -1,0 +1,297 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 43.726655 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 3680.439614 seconds.
+Elapsed time is 4137.269363 seconds.
+Elapsed time is 4159.717836 seconds.
+Elapsed time is 4518.125211 seconds.
+Elapsed time is 4672.338200 seconds.
+Elapsed time is 4706.374654 seconds.
+Elapsed time is 4817.617469 seconds.
+Elapsed time is 5079.032365 seconds.
+Elapsed time is 5327.541471 seconds.
+Elapsed time is 5591.285186 seconds.
+Elapsed time is 5681.782328 seconds.
+Elapsed time is 5699.958870 seconds.
+Elapsed time is 5810.649074 seconds.
+Elapsed time is 6011.083183 seconds.
+Elapsed time is 6015.734684 seconds.
+Elapsed time is 6253.880888 seconds.
+Elapsed time is 6398.449012 seconds.
+Elapsed time is 6529.398794 seconds.
+Elapsed time is 6744.938676 seconds.
+Elapsed time is 7740.971588 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 5073.733468 seconds.
+Elapsed time is 5321.802892 seconds.
+{Error using fun_dic (line 78)
+Can not write file
+/root/project/result/train_2_2_70_00675_40/speckle_correct_8.mat.
+
+Error in fun_test (line 179)
+parfor k=1:1:n
+
+Error in fun_test_all (line 1)
+fun_test(['../result/train_2_2_70_00675_40/para_temp_54.txt']);
+} 
+Exception in thread "AWT-EventQueue-0" java.lang.RuntimeException: std::exception for "matlab.workingfolder.LastFolderPath": fl:filesystem:SystemError
+	at com.mathworks.services.settings.Setting.nativeSet(Native Method)
+	at com.mathworks.services.settings.Setting.set(Setting.java:913)
+	at com.mathworks.services.settings.Setting.set(Setting.java:769)
+	at com.mathworks.services.settings.Setting.set(Setting.java:709)
+	at com.mathworks.mlwidgets.prefs.InitialWorkingFolder.setStringSettingValue(InitialWorkingFolder.java:50)
+	at com.mathworks.mlwidgets.prefs.InitialWorkingFolder.access$000(InitialWorkingFolder.java:15)
+	at com.mathworks.mlwidgets.prefs.InitialWorkingFolder$1.actionPerformed(InitialWorkingFolder.java:34)
+	at com.mathworks.jmi.MatlabPath$DeferredActionEvent.dispatch(MatlabPath.java:155)
+	at com.mathworks.util.QueueEvent$QueueTarget.processEvent(QueueEvent.java:85)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+  message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 20 workers.
+Elapsed time is 4587.858802 seconds.
+Elapsed time is 4910.746522 seconds.
+Elapsed time is 4981.123566 seconds.
+Elapsed time is 5245.389255 seconds.
+Elapsed time is 5359.564335 seconds.
+Elapsed time is 5452.320355 seconds.
+Elapsed time is 5801.691366 seconds.
+Elapsed time is 6080.823665 seconds.
+Elapsed time is 6527.982921 seconds.
+Elapsed time is 6705.800024 seconds.
+Elapsed time is 6716.963275 seconds.
+Elapsed time is 6781.710380 seconds.
+Elapsed time is 7231.822716 seconds.
+Elapsed time is 7252.817327 seconds.
+Elapsed time is 7309.769188 seconds.
+Elapsed time is 7331.649344 seconds.
+Elapsed time is 7375.040730 seconds.
+Elapsed time is 8689.052352 seconds.
+Elapsed time is 8968.672803 seconds.
+Elapsed time is 9457.668754 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.379147567568244                   0   0.949348751514347
+                   0   1.363644879517203   0.538121270223451
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.083435911417869
+
+  message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
