@@ -1,0 +1,3888 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 32 workers.
+Parallel pool using the 'local' profile is shutting down.
+Elapsed time is 9905.231218 seconds.
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 34 workers.
+Parallel pool using the 'local' profile is shutting down.
+Elapsed time is 9004.028551 seconds.
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 36 workers.
+Parallel pool using the 'local' profile is shutting down.
+Elapsed time is 7338.627702 seconds.
+  message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 38 workers.
+Parallel pool using the 'local' profile is shutting down.
+Elapsed time is 8063.715125 seconds.
+>>   message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 40 workers.
+Parallel pool using the 'local' profile is shutting down.
+Elapsed time is 7002.044446 seconds.
+  message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+initres =
+
+    8.6007
+
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 34 workers.
+Elapsed time is 67.523725 seconds.
+Elapsed time is 63.207143 seconds.
+Elapsed time is 63.470101 seconds.
+Elapsed time is 65.097282 seconds.
+Elapsed time is 70.344752 seconds.
+Elapsed time is 65.004826 seconds.
+Elapsed time is 63.626666 seconds.
+Elapsed time is 65.838215 seconds.
+Elapsed time is 62.459128 seconds.
+Elapsed time is 61.393050 seconds.
+Elapsed time is 63.070038 seconds.
+Elapsed time is 65.342954 seconds.
+Elapsed time is 67.347826 seconds.
+Elapsed time is 63.895948 seconds.
+Elapsed time is 65.567319 seconds.
+Elapsed time is 66.731736 seconds.
+Elapsed time is 65.254657 seconds.
+Elapsed time is 66.179863 seconds.
+Elapsed time is 65.561226 seconds.
+Elapsed time is 63.072578 seconds.
+Elapsed time is 64.252428 seconds.
+Elapsed time is 65.281140 seconds.
+Elapsed time is 64.848659 seconds.
+Elapsed time is 64.450428 seconds.
+Elapsed time is 64.676512 seconds.
+Elapsed time is 65.291583 seconds.
+Elapsed time is 68.108148 seconds.
+Elapsed time is 69.364649 seconds.
+Elapsed time is 67.232870 seconds.
+Elapsed time is 62.509677 seconds.
+Elapsed time is 62.906655 seconds.
+Elapsed time is 63.845832 seconds.
+Elapsed time is 65.047471 seconds.
+Elapsed time is 62.968036 seconds.
+Elapsed time is 65.199517 seconds.
+Elapsed time is 66.349056 seconds.
+Elapsed time is 66.014827 seconds.
+Elapsed time is 68.285780 seconds.
+Elapsed time is 69.699945 seconds.
+Elapsed time is 64.642190 seconds.
+Elapsed time is 65.327765 seconds.
+Elapsed time is 64.887804 seconds.
+Elapsed time is 64.986908 seconds.
+Elapsed time is 65.953292 seconds.
+Elapsed time is 63.244871 seconds.
+Elapsed time is 64.432157 seconds.
+Elapsed time is 65.103845 seconds.
+Elapsed time is 63.815103 seconds.
+Elapsed time is 65.539528 seconds.
+Elapsed time is 64.473539 seconds.
+Elapsed time is 65.889648 seconds.
+Elapsed time is 64.205064 seconds.
+Elapsed time is 65.065474 seconds.
+Elapsed time is 67.433035 seconds.
+Elapsed time is 67.926597 seconds.
+Elapsed time is 66.204179 seconds.
+Elapsed time is 65.379684 seconds.
+Elapsed time is 62.513904 seconds.
+Elapsed time is 77.453513 seconds.
+Elapsed time is 71.080920 seconds.
+Elapsed time is 63.816243 seconds.
+Elapsed time is 75.829135 seconds.
+Elapsed time is 70.978989 seconds.
+Elapsed time is 62.920688 seconds.
+Elapsed time is 63.857550 seconds.
+Elapsed time is 65.920755 seconds.
+Elapsed time is 65.437714 seconds.
+Elapsed time is 65.379232 seconds.
+Elapsed time is 66.281429 seconds.
+Elapsed time is 65.927787 seconds.
+Elapsed time is 66.971406 seconds.
+Elapsed time is 66.092203 seconds.
+Elapsed time is 67.730777 seconds.
+Elapsed time is 68.878808 seconds.
+Elapsed time is 71.754811 seconds.
+Elapsed time is 69.001296 seconds.
+Elapsed time is 79.127100 seconds.
+Elapsed time is 73.227786 seconds.
+Elapsed time is 76.831357 seconds.
+Elapsed time is 71.739143 seconds.
+Elapsed time is 70.206915 seconds.
+Elapsed time is 69.013296 seconds.
+Elapsed time is 63.037194 seconds.
+Elapsed time is 66.767013 seconds.
+Elapsed time is 63.945169 seconds.
+Elapsed time is 64.679972 seconds.
+Elapsed time is 65.140102 seconds.
+Elapsed time is 64.796161 seconds.
+Elapsed time is 66.113747 seconds.
+Elapsed time is 66.863735 seconds.
+Elapsed time is 64.796048 seconds.
+Elapsed time is 65.702514 seconds.
+Elapsed time is 70.668231 seconds.
+Elapsed time is 71.319272 seconds.
+Elapsed time is 83.418493 seconds.
+Elapsed time is 68.636151 seconds.
+Elapsed time is 63.539029 seconds.
+Elapsed time is 63.814574 seconds.
+Elapsed time is 64.526701 seconds.
+Elapsed time is 62.557644 seconds.
+Elapsed time is 64.776975 seconds.
+Elapsed time is 68.752715 seconds.
+Elapsed time is 62.792365 seconds.
+Elapsed time is 64.961739 seconds.
+Elapsed time is 63.446047 seconds.
+Elapsed time is 68.177380 seconds.
+Elapsed time is 63.600723 seconds.
+Elapsed time is 67.091038 seconds.
+Elapsed time is 70.354521 seconds.
+Elapsed time is 67.070235 seconds.
+Elapsed time is 64.779936 seconds.
+Elapsed time is 63.725707 seconds.
+Elapsed time is 64.150747 seconds.
+Elapsed time is 69.289088 seconds.
+Elapsed time is 76.977980 seconds.
+Elapsed time is 75.466229 seconds.
+Elapsed time is 67.050347 seconds.
+Elapsed time is 64.800708 seconds.
+Elapsed time is 69.552282 seconds.
+Elapsed time is 67.888499 seconds.
+Elapsed time is 65.047658 seconds.
+Elapsed time is 66.848589 seconds.
+Elapsed time is 66.040268 seconds.
+Elapsed time is 67.093773 seconds.
+Elapsed time is 69.805155 seconds.
+Elapsed time is 69.733639 seconds.
+Elapsed time is 65.383835 seconds.
+Elapsed time is 67.473261 seconds.
+Elapsed time is 63.718964 seconds.
+Elapsed time is 63.510413 seconds.
+Elapsed time is 63.169872 seconds.
+Elapsed time is 66.301461 seconds.
+Elapsed time is 71.368994 seconds.
+Elapsed time is 67.076518 seconds.
+Elapsed time is 78.912833 seconds.
+Elapsed time is 76.962941 seconds.
+Elapsed time is 72.115279 seconds.
+Elapsed time is 73.288423 seconds.
+Elapsed time is 82.674782 seconds.
+Elapsed time is 74.550418 seconds.
+Elapsed time is 72.287239 seconds.
+Elapsed time is 82.801326 seconds.
+Elapsed time is 95.055314 seconds.
+Elapsed time is 90.026801 seconds.
+Elapsed time is 78.818277 seconds.
+Elapsed time is 74.164503 seconds.
+Elapsed time is 67.863820 seconds.
+Elapsed time is 92.846891 seconds.
+Elapsed time is 70.665788 seconds.
+Elapsed time is 68.875811 seconds.
+Elapsed time is 69.562014 seconds.
+Elapsed time is 67.820457 seconds.
+Elapsed time is 72.211651 seconds.
+Elapsed time is 75.335817 seconds.
+Elapsed time is 76.449411 seconds.
+Elapsed time is 72.010433 seconds.
+Elapsed time is 71.213054 seconds.
+Elapsed time is 74.854529 seconds.
+Elapsed time is 81.820881 seconds.
+Elapsed time is 79.802256 seconds.
+Elapsed time is 78.822357 seconds.
+Elapsed time is 74.702828 seconds.
+Elapsed time is 75.274448 seconds.
+Elapsed time is 79.629913 seconds.
+Elapsed time is 76.171510 seconds.
+Elapsed time is 94.194941 seconds.
+Elapsed time is 80.887563 seconds.
+Elapsed time is 100.482917 seconds.
+Elapsed time is 113.162711 seconds.
+Elapsed time is 130.226001 seconds.
+Elapsed time is 131.676528 seconds.
+Elapsed time is 129.688763 seconds.
+Elapsed time is 118.351742 seconds.
+Elapsed time is 103.761783 seconds.
+Elapsed time is 96.627710 seconds.
+Elapsed time is 93.582342 seconds.
+Elapsed time is 87.010334 seconds.
+Elapsed time is 77.411379 seconds.
+Elapsed time is 76.953081 seconds.
+Elapsed time is 80.545856 seconds.
+Elapsed time is 72.185975 seconds.
+Elapsed time is 72.543397 seconds.
+Elapsed time is 68.122080 seconds.
+Elapsed time is 70.178550 seconds.
+Elapsed time is 72.071241 seconds.
+Elapsed time is 73.935308 seconds.
+Elapsed time is 70.312047 seconds.
+Elapsed time is 76.687631 seconds.
+Elapsed time is 79.197249 seconds.
+Elapsed time is 80.468870 seconds.
+Elapsed time is 93.206555 seconds.
+Elapsed time is 98.947609 seconds.
+Elapsed time is 95.474879 seconds.
+Elapsed time is 92.965125 seconds.
+Elapsed time is 100.892934 seconds.
+Elapsed time is 86.813717 seconds.
+Elapsed time is 90.179271 seconds.
+Elapsed time is 69.647251 seconds.
+Elapsed time is 67.352980 seconds.
+Elapsed time is 71.469687 seconds.
+Elapsed time is 75.251106 seconds.
+Elapsed time is 82.330292 seconds.
+Elapsed time is 93.885037 seconds.
+Elapsed time is 108.963150 seconds.
+Elapsed time is 122.285573 seconds.
+Elapsed time is 108.380711 seconds.
+Elapsed time is 100.686383 seconds.
+Elapsed time is 103.329981 seconds.
+Elapsed time is 98.481341 seconds.
+
+                                        First-Order                    Norm of 
+ Iteration  Func-count    Residual       optimality      Lambda           step
+     0         209         19857.8         9.2e+06         0.01
+Elapsed time is 86.265131 seconds.
+Elapsed time is 104.876678 seconds.
+Elapsed time is 95.575246 seconds.
+Elapsed time is 78.972144 seconds.
+Elapsed time is 69.226935 seconds.
+Elapsed time is 77.236058 seconds.
+Elapsed time is 77.377949 seconds.
+Elapsed time is 79.872584 seconds.
+Elapsed time is 82.624220 seconds.
+Elapsed time is 82.653790 seconds.
+Elapsed time is 70.746094 seconds.
+Elapsed time is 75.026721 seconds.
+Elapsed time is 78.067530 seconds.
+Elapsed time is 71.289222 seconds.
+Elapsed time is 74.344447 seconds.
+Elapsed time is 79.891974 seconds.
+Elapsed time is 79.684596 seconds.
+Elapsed time is 77.454848 seconds.
+Elapsed time is 90.810778 seconds.
+Elapsed time is 103.050435 seconds.
+Elapsed time is 89.944046 seconds.
+Elapsed time is 93.690398 seconds.
+Elapsed time is 81.977538 seconds.
+Elapsed time is 74.392362 seconds.
+Elapsed time is 75.191587 seconds.
+Elapsed time is 73.173079 seconds.
+Elapsed time is 75.135955 seconds.
+Elapsed time is 74.888267 seconds.
+Elapsed time is 79.970615 seconds.
+Elapsed time is 88.591289 seconds.
+Elapsed time is 83.021751 seconds.
+Elapsed time is 87.635347 seconds.
+Elapsed time is 88.878961 seconds.
+Elapsed time is 89.780433 seconds.
+Elapsed time is 86.803337 seconds.
+Elapsed time is 75.303190 seconds.
+Elapsed time is 66.326644 seconds.
+Elapsed time is 74.435321 seconds.
+Elapsed time is 100.220963 seconds.
+Elapsed time is 86.703387 seconds.
+Elapsed time is 77.321385 seconds.
+Elapsed time is 128.873483 seconds.
+Elapsed time is 119.479598 seconds.
+Elapsed time is 90.759645 seconds.
+Elapsed time is 73.515290 seconds.
+Elapsed time is 77.571820 seconds.
+Elapsed time is 91.617478 seconds.
+Elapsed time is 84.268919 seconds.
+Elapsed time is 94.207075 seconds.
+Elapsed time is 88.641113 seconds.
+Elapsed time is 77.034791 seconds.
+Elapsed time is 65.172024 seconds.
+Elapsed time is 85.881910 seconds.
+Elapsed time is 93.736139 seconds.
+Elapsed time is 92.815319 seconds.
+Elapsed time is 95.751560 seconds.
+Elapsed time is 94.420795 seconds.
+Elapsed time is 76.682212 seconds.
+Elapsed time is 86.019713 seconds.
+Elapsed time is 104.456421 seconds.
+Elapsed time is 88.278015 seconds.
+Elapsed time is 93.078214 seconds.
+Elapsed time is 69.573977 seconds.
+Elapsed time is 86.935310 seconds.
+Elapsed time is 71.911060 seconds.
+Elapsed time is 74.463950 seconds.
+Elapsed time is 88.618143 seconds.
+Elapsed time is 106.066004 seconds.
+Elapsed time is 95.872266 seconds.
+Elapsed time is 90.563178 seconds.
+Elapsed time is 96.652588 seconds.
+Elapsed time is 106.355579 seconds.
+Elapsed time is 115.004433 seconds.
+Elapsed time is 106.128726 seconds.
+Elapsed time is 129.697920 seconds.
+Elapsed time is 123.616267 seconds.
+Elapsed time is 115.652912 seconds.
+Elapsed time is 92.902848 seconds.
+Elapsed time is 86.828354 seconds.
+Elapsed time is 80.768535 seconds.
+Elapsed time is 82.080555 seconds.
+Elapsed time is 76.480016 seconds.
+Elapsed time is 84.624938 seconds.
+Elapsed time is 78.762599 seconds.
+Elapsed time is 84.783563 seconds.
+Elapsed time is 86.357246 seconds.
+Elapsed time is 93.489346 seconds.
+Elapsed time is 84.280670 seconds.
+Elapsed time is 92.239970 seconds.
+Elapsed time is 74.762424 seconds.
+Elapsed time is 78.138827 seconds.
+Elapsed time is 82.180155 seconds.
+Elapsed time is 95.758618 seconds.
+Elapsed time is 105.942758 seconds.
+Elapsed time is 97.591858 seconds.
+Elapsed time is 101.222001 seconds.
+Elapsed time is 95.925008 seconds.
+Elapsed time is 99.193460 seconds.
+Elapsed time is 90.749120 seconds.
+Elapsed time is 86.361528 seconds.
+Elapsed time is 86.758830 seconds.
+Elapsed time is 76.335249 seconds.
+Elapsed time is 83.356360 seconds.
+Elapsed time is 70.943796 seconds.
+Elapsed time is 77.833153 seconds.
+Elapsed time is 80.476553 seconds.
+Elapsed time is 80.610373 seconds.
+Elapsed time is 73.668558 seconds.
+Elapsed time is 79.896188 seconds.
+Elapsed time is 70.570829 seconds.
+Elapsed time is 81.362198 seconds.
+Elapsed time is 88.678559 seconds.
+Elapsed time is 102.444830 seconds.
+Elapsed time is 117.044827 seconds.
+Elapsed time is 104.685066 seconds.
+Elapsed time is 108.456328 seconds.
+Elapsed time is 93.520787 seconds.
+Elapsed time is 87.887393 seconds.
+Elapsed time is 92.119649 seconds.
+Elapsed time is 91.383349 seconds.
+Elapsed time is 91.638556 seconds.
+Elapsed time is 85.007734 seconds.
+Elapsed time is 93.211434 seconds.
+Elapsed time is 83.108496 seconds.
+Elapsed time is 86.686116 seconds.
+Elapsed time is 74.418077 seconds.
+Elapsed time is 68.397639 seconds.
+Elapsed time is 77.619501 seconds.
+Elapsed time is 86.953318 seconds.
+Elapsed time is 85.348133 seconds.
+Elapsed time is 117.712274 seconds.
+Elapsed time is 101.237797 seconds.
+Elapsed time is 99.982055 seconds.
+Elapsed time is 89.129356 seconds.
+Elapsed time is 91.641777 seconds.
+Elapsed time is 79.017028 seconds.
+Elapsed time is 79.034419 seconds.
+Elapsed time is 77.990157 seconds.
+Elapsed time is 67.073607 seconds.
+Elapsed time is 73.610492 seconds.
+Elapsed time is 85.418462 seconds.
+Elapsed time is 81.979854 seconds.
+Elapsed time is 73.936950 seconds.
+Elapsed time is 74.198419 seconds.
+Elapsed time is 104.066681 seconds.
+Elapsed time is 113.943891 seconds.
+Elapsed time is 124.624283 seconds.
+Elapsed time is 120.794345 seconds.
+Elapsed time is 103.812046 seconds.
+Elapsed time is 100.344660 seconds.
+Elapsed time is 101.982829 seconds.
+Elapsed time is 76.610275 seconds.
+Elapsed time is 77.294142 seconds.
+Elapsed time is 72.525836 seconds.
+Elapsed time is 73.993914 seconds.
+Elapsed time is 71.328158 seconds.
+Elapsed time is 90.798419 seconds.
+Elapsed time is 95.838892 seconds.
+Elapsed time is 113.995604 seconds.
+Elapsed time is 94.128366 seconds.
+Elapsed time is 117.023728 seconds.
+Elapsed time is 125.693819 seconds.
+Elapsed time is 109.070268 seconds.
+Elapsed time is 103.376956 seconds.
+Elapsed time is 85.924440 seconds.
+Elapsed time is 74.439562 seconds.
+Elapsed time is 79.245668 seconds.
+Elapsed time is 88.282254 seconds.
+Elapsed time is 80.573838 seconds.
+Elapsed time is 85.856840 seconds.
+Elapsed time is 73.909435 seconds.
+Elapsed time is 73.389850 seconds.
+Elapsed time is 68.081084 seconds.
+Elapsed time is 71.256893 seconds.
+Elapsed time is 67.621111 seconds.
+Elapsed time is 72.648257 seconds.
+Elapsed time is 77.814678 seconds.
+Elapsed time is 80.434511 seconds.
+Elapsed time is 81.949330 seconds.
+Elapsed time is 73.237163 seconds.
+Elapsed time is 75.084420 seconds.
+Elapsed time is 73.100557 seconds.
+Elapsed time is 71.115282 seconds.
+Elapsed time is 72.096076 seconds.
+Elapsed time is 76.595697 seconds.
+Elapsed time is 78.719942 seconds.
+Elapsed time is 87.995541 seconds.
+Elapsed time is 90.385534 seconds.
+Elapsed time is 77.588096 seconds.
+Elapsed time is 72.085291 seconds.
+Elapsed time is 68.179264 seconds.
+Elapsed time is 71.282693 seconds.
+Elapsed time is 78.440411 seconds.
+Elapsed time is 78.288017 seconds.
+Elapsed time is 73.872349 seconds.
+Elapsed time is 76.822263 seconds.
+Elapsed time is 69.739654 seconds.
+Elapsed time is 72.142603 seconds.
+Elapsed time is 68.803481 seconds.
+Elapsed time is 69.024397 seconds.
+Elapsed time is 89.945809 seconds.
+Elapsed time is 82.318345 seconds.
+Elapsed time is 73.335200 seconds.
+Elapsed time is 75.153787 seconds.
+Elapsed time is 68.689789 seconds.
+Elapsed time is 72.614563 seconds.
+Elapsed time is 78.775243 seconds.
+Elapsed time is 72.307125 seconds.
+Elapsed time is 81.935454 seconds.
+     1         418         8188.37        4.46e+06        0.001       0.042863
+Elapsed time is 91.396370 seconds.
+Elapsed time is 101.821617 seconds.
+Elapsed time is 92.063849 seconds.
+Elapsed time is 101.333984 seconds.
+Elapsed time is 77.038821 seconds.
+Elapsed time is 70.419342 seconds.
+Elapsed time is 71.695644 seconds.
+Elapsed time is 72.725426 seconds.
+Elapsed time is 76.018853 seconds.
+Elapsed time is 90.649638 seconds.
+Elapsed time is 88.199739 seconds.
+Elapsed time is 72.493006 seconds.
+Elapsed time is 74.186909 seconds.
+Elapsed time is 75.710757 seconds.
+Elapsed time is 68.996120 seconds.
+Elapsed time is 79.382708 seconds.
+Elapsed time is 90.281388 seconds.
+Elapsed time is 116.623703 seconds.
+Elapsed time is 129.712158 seconds.
+Elapsed time is 127.360552 seconds.
+Elapsed time is 142.506166 seconds.
+Elapsed time is 136.969342 seconds.
+Elapsed time is 130.123243 seconds.
+Elapsed time is 106.282758 seconds.
+Elapsed time is 100.651705 seconds.
+Elapsed time is 105.465393 seconds.
+Elapsed time is 108.687210 seconds.
+Elapsed time is 108.013294 seconds.
+Elapsed time is 95.800910 seconds.
+Elapsed time is 119.003143 seconds.
+Elapsed time is 81.990993 seconds.
+Elapsed time is 70.976143 seconds.
+Elapsed time is 71.392461 seconds.
+Elapsed time is 75.101106 seconds.
+Elapsed time is 76.716322 seconds.
+Elapsed time is 70.290623 seconds.
+Elapsed time is 77.434788 seconds.
+Elapsed time is 71.934993 seconds.
+Elapsed time is 77.565624 seconds.
+Elapsed time is 83.157809 seconds.
+Elapsed time is 73.906867 seconds.
+Elapsed time is 77.786358 seconds.
+Elapsed time is 74.530048 seconds.
+Elapsed time is 77.848381 seconds.
+Elapsed time is 80.100756 seconds.
+Elapsed time is 81.547536 seconds.
+Elapsed time is 79.500962 seconds.
+Elapsed time is 70.470925 seconds.
+Elapsed time is 78.645611 seconds.
+Elapsed time is 79.906250 seconds.
+Elapsed time is 69.397442 seconds.
+Elapsed time is 71.303795 seconds.
+Elapsed time is 76.657876 seconds.
+Elapsed time is 78.135446 seconds.
+Elapsed time is 77.230769 seconds.
+Elapsed time is 76.627164 seconds.
+Elapsed time is 75.946765 seconds.
+Elapsed time is 68.174009 seconds.
+Elapsed time is 70.251091 seconds.
+Elapsed time is 67.855137 seconds.
+Elapsed time is 68.511716 seconds.
+Elapsed time is 73.970305 seconds.
+Elapsed time is 74.920609 seconds.
+Elapsed time is 77.136203 seconds.
+Elapsed time is 66.940301 seconds.
+Elapsed time is 71.658675 seconds.
+Elapsed time is 68.880010 seconds.
+Elapsed time is 70.949870 seconds.
+Elapsed time is 69.406702 seconds.
+Elapsed time is 71.946469 seconds.
+Elapsed time is 67.988757 seconds.
+Elapsed time is 70.117909 seconds.
+Elapsed time is 69.550693 seconds.
+Elapsed time is 69.992975 seconds.
+Elapsed time is 72.309921 seconds.
+Elapsed time is 78.931648 seconds.
+Elapsed time is 81.497676 seconds.
+Elapsed time is 80.466234 seconds.
+Elapsed time is 73.106170 seconds.
+Elapsed time is 76.278952 seconds.
+Elapsed time is 81.000086 seconds.
+Elapsed time is 72.796865 seconds.
+Elapsed time is 80.443924 seconds.
+Elapsed time is 78.298022 seconds.
+Elapsed time is 76.270893 seconds.
+Elapsed time is 87.767307 seconds.
+Elapsed time is 74.361841 seconds.
+Elapsed time is 80.764758 seconds.
+Elapsed time is 71.598484 seconds.
+Elapsed time is 78.051523 seconds.
+Elapsed time is 81.372593 seconds.
+Elapsed time is 89.243426 seconds.
+Elapsed time is 93.222689 seconds.
+Elapsed time is 78.402310 seconds.
+Elapsed time is 80.332615 seconds.
+Elapsed time is 85.505209 seconds.
+Elapsed time is 92.095116 seconds.
+Elapsed time is 87.891829 seconds.
+Elapsed time is 78.712445 seconds.
+Elapsed time is 82.694558 seconds.
+Elapsed time is 97.756954 seconds.
+Elapsed time is 103.907159 seconds.
+Elapsed time is 104.958414 seconds.
+Elapsed time is 93.919636 seconds.
+Elapsed time is 86.492929 seconds.
+Elapsed time is 86.749789 seconds.
+Elapsed time is 92.542977 seconds.
+Elapsed time is 92.858630 seconds.
+Elapsed time is 93.551175 seconds.
+Elapsed time is 81.981335 seconds.
+Elapsed time is 80.645259 seconds.
+Elapsed time is 77.825478 seconds.
+Elapsed time is 86.451898 seconds.
+Elapsed time is 97.357160 seconds.
+Elapsed time is 69.889756 seconds.
+Elapsed time is 68.411586 seconds.
+Elapsed time is 79.845481 seconds.
+Elapsed time is 90.586822 seconds.
+Elapsed time is 80.468458 seconds.
+Elapsed time is 85.091314 seconds.
+Elapsed time is 87.379406 seconds.
+Elapsed time is 96.006134 seconds.
+Elapsed time is 94.836179 seconds.
+Elapsed time is 105.031502 seconds.
+Elapsed time is 81.907132 seconds.
+Elapsed time is 79.579916 seconds.
+Elapsed time is 90.834665 seconds.
+Elapsed time is 92.398845 seconds.
+Elapsed time is 73.048017 seconds.
+Elapsed time is 79.059023 seconds.
+Elapsed time is 75.617790 seconds.
+Elapsed time is 67.410338 seconds.
+Elapsed time is 69.518129 seconds.
+Elapsed time is 74.537998 seconds.
+Elapsed time is 85.918115 seconds.
+Elapsed time is 78.431315 seconds.
+Elapsed time is 74.995789 seconds.
+Elapsed time is 72.813804 seconds.
+Elapsed time is 76.663231 seconds.
+Elapsed time is 65.138410 seconds.
+Elapsed time is 69.692220 seconds.
+Elapsed time is 72.325678 seconds.
+Elapsed time is 72.085263 seconds.
+Elapsed time is 66.910675 seconds.
+Elapsed time is 76.023318 seconds.
+Elapsed time is 73.552775 seconds.
+Elapsed time is 89.830441 seconds.
+Elapsed time is 106.561322 seconds.
+Elapsed time is 101.222746 seconds.
+Elapsed time is 103.147093 seconds.
+Elapsed time is 82.990115 seconds.
+Elapsed time is 92.221462 seconds.
+Elapsed time is 87.296399 seconds.
+Elapsed time is 92.805725 seconds.
+Elapsed time is 95.693938 seconds.
+Elapsed time is 88.371347 seconds.
+Elapsed time is 82.318501 seconds.
+Elapsed time is 72.554992 seconds.
+Elapsed time is 72.067403 seconds.
+Elapsed time is 78.582697 seconds.
+Elapsed time is 75.957751 seconds.
+Elapsed time is 62.873032 seconds.
+Elapsed time is 72.082619 seconds.
+Elapsed time is 68.507496 seconds.
+Elapsed time is 67.994368 seconds.
+Elapsed time is 85.491299 seconds.
+Elapsed time is 96.986296 seconds.
+Elapsed time is 78.044688 seconds.
+Elapsed time is 68.029117 seconds.
+Elapsed time is 72.422719 seconds.
+Elapsed time is 81.491365 seconds.
+Elapsed time is 84.988021 seconds.
+Elapsed time is 82.992060 seconds.
+Elapsed time is 76.259935 seconds.
+Elapsed time is 80.332364 seconds.
+Elapsed time is 82.994177 seconds.
+Elapsed time is 83.708638 seconds.
+Elapsed time is 73.062524 seconds.
+Elapsed time is 73.426364 seconds.
+Elapsed time is 71.171233 seconds.
+Elapsed time is 70.539805 seconds.
+Elapsed time is 67.115820 seconds.
+Elapsed time is 66.458863 seconds.
+Elapsed time is 73.302792 seconds.
+Elapsed time is 64.406103 seconds.
+Elapsed time is 66.342214 seconds.
+Elapsed time is 64.769768 seconds.
+Elapsed time is 72.393036 seconds.
+Elapsed time is 63.092137 seconds.
+Elapsed time is 65.723671 seconds.
+Elapsed time is 65.244003 seconds.
+Elapsed time is 65.614842 seconds.
+Elapsed time is 66.812441 seconds.
+Elapsed time is 65.326131 seconds.
+Elapsed time is 65.140177 seconds.
+Elapsed time is 64.508171 seconds.
+Elapsed time is 65.649511 seconds.
+Elapsed time is 64.919340 seconds.
+Elapsed time is 69.979877 seconds.
+Elapsed time is 64.072764 seconds.
+Elapsed time is 61.678810 seconds.
+Elapsed time is 62.103961 seconds.
+Elapsed time is 62.025327 seconds.
+Elapsed time is 62.125404 seconds.
+Elapsed time is 66.479007 seconds.
+Elapsed time is 64.182512 seconds.
+Elapsed time is 64.872633 seconds.
+Elapsed time is 62.324345 seconds.
+Elapsed time is 61.343410 seconds.
+     2         627          5334.8        1.68e+06       0.0001      0.0281852
+Elapsed time is 70.732766 seconds.
+Elapsed time is 65.681342 seconds.
+Elapsed time is 65.172415 seconds.
+Elapsed time is 63.372695 seconds.
+Elapsed time is 74.836452 seconds.
+Elapsed time is 71.453755 seconds.
+Elapsed time is 67.791587 seconds.
+Elapsed time is 65.145250 seconds.
+Elapsed time is 67.400999 seconds.
+Elapsed time is 74.071470 seconds.
+Elapsed time is 68.584693 seconds.
+Elapsed time is 71.131306 seconds.
+Elapsed time is 67.406546 seconds.
+Elapsed time is 65.460165 seconds.
+Elapsed time is 68.960611 seconds.
+Elapsed time is 74.229280 seconds.
+Elapsed time is 75.891851 seconds.
+Elapsed time is 68.526180 seconds.
+Elapsed time is 70.289378 seconds.
+Elapsed time is 71.340528 seconds.
+Elapsed time is 67.271075 seconds.
+Elapsed time is 69.725059 seconds.
+Elapsed time is 70.925563 seconds.
+Elapsed time is 80.319089 seconds.
+Elapsed time is 73.635054 seconds.
+Elapsed time is 72.756352 seconds.
+Elapsed time is 71.993460 seconds.
+Elapsed time is 74.412652 seconds.
+Elapsed time is 86.185957 seconds.
+Elapsed time is 102.105221 seconds.
+Elapsed time is 118.351453 seconds.
+Elapsed time is 108.594556 seconds.
+Elapsed time is 83.371145 seconds.
+Elapsed time is 92.213338 seconds.
+Elapsed time is 85.746340 seconds.
+Elapsed time is 88.643398 seconds.
+Elapsed time is 111.228210 seconds.
+Elapsed time is 110.202390 seconds.
+Elapsed time is 98.839228 seconds.
+Elapsed time is 91.612403 seconds.
+Elapsed time is 104.353898 seconds.
+Elapsed time is 77.154672 seconds.
+Elapsed time is 67.916137 seconds.
+Elapsed time is 70.786536 seconds.
+Elapsed time is 76.387331 seconds.
+Elapsed time is 73.561565 seconds.
+Elapsed time is 73.967298 seconds.
+Elapsed time is 77.237452 seconds.
+Elapsed time is 76.757905 seconds.
+Elapsed time is 90.030787 seconds.
+Elapsed time is 76.834467 seconds.
+Elapsed time is 79.107652 seconds.
+Elapsed time is 73.482730 seconds.
+Elapsed time is 69.464212 seconds.
+Elapsed time is 69.324850 seconds.
+Elapsed time is 72.184190 seconds.
+Elapsed time is 66.041003 seconds.
+Elapsed time is 64.319666 seconds.
+Elapsed time is 64.404422 seconds.
+Elapsed time is 63.723967 seconds.
+Elapsed time is 66.225042 seconds.
+Elapsed time is 65.301168 seconds.
+Elapsed time is 63.856535 seconds.
+Elapsed time is 62.397131 seconds.
+Elapsed time is 62.507067 seconds.
+Elapsed time is 61.646924 seconds.
+Elapsed time is 63.266298 seconds.
+Elapsed time is 61.534610 seconds.
+Elapsed time is 63.476879 seconds.
+Elapsed time is 61.866929 seconds.
+Elapsed time is 62.844818 seconds.
+Elapsed time is 62.449121 seconds.
+Elapsed time is 60.643841 seconds.
+Elapsed time is 61.408748 seconds.
+Elapsed time is 61.276520 seconds.
+Elapsed time is 59.981462 seconds.
+Elapsed time is 60.645169 seconds.
+Elapsed time is 60.237426 seconds.
+Elapsed time is 60.548163 seconds.
+Elapsed time is 60.196857 seconds.
+Elapsed time is 60.617073 seconds.
+Elapsed time is 60.757080 seconds.
+Elapsed time is 60.898147 seconds.
+Elapsed time is 63.565120 seconds.
+Elapsed time is 71.858517 seconds.
+Elapsed time is 67.293786 seconds.
+Elapsed time is 66.317639 seconds.
+Elapsed time is 66.118983 seconds.
+Elapsed time is 66.249853 seconds.
+Elapsed time is 67.161013 seconds.
+Elapsed time is 66.016089 seconds.
+Elapsed time is 65.201008 seconds.
+Elapsed time is 65.409843 seconds.
+Elapsed time is 67.825072 seconds.
+Elapsed time is 67.578895 seconds.
+Elapsed time is 69.071885 seconds.
+Elapsed time is 63.947719 seconds.
+Elapsed time is 68.572124 seconds.
+Elapsed time is 71.376566 seconds.
+Elapsed time is 69.763854 seconds.
+Elapsed time is 69.402883 seconds.
+Elapsed time is 77.977494 seconds.
+Elapsed time is 74.698414 seconds.
+Elapsed time is 70.999162 seconds.
+Elapsed time is 67.291125 seconds.
+Elapsed time is 66.936203 seconds.
+Elapsed time is 66.284373 seconds.
+Elapsed time is 64.826542 seconds.
+Elapsed time is 65.700298 seconds.
+Elapsed time is 63.788132 seconds.
+Elapsed time is 64.609592 seconds.
+Elapsed time is 67.463754 seconds.
+Elapsed time is 68.448039 seconds.
+Elapsed time is 69.663085 seconds.
+Elapsed time is 69.133853 seconds.
+Elapsed time is 70.225163 seconds.
+Elapsed time is 69.052677 seconds.
+Elapsed time is 70.043194 seconds.
+Elapsed time is 77.341111 seconds.
+Elapsed time is 76.125174 seconds.
+Elapsed time is 82.929807 seconds.
+Elapsed time is 72.718737 seconds.
+Elapsed time is 66.647158 seconds.
+Elapsed time is 69.066345 seconds.
+Elapsed time is 67.091703 seconds.
+Elapsed time is 64.267780 seconds.
+Elapsed time is 63.698456 seconds.
+Elapsed time is 63.635523 seconds.
+Elapsed time is 64.147546 seconds.
+Elapsed time is 64.616388 seconds.
+Elapsed time is 65.471531 seconds.
+Elapsed time is 64.209283 seconds.
+Elapsed time is 64.413963 seconds.
+Elapsed time is 63.387776 seconds.
+Elapsed time is 62.470745 seconds.
+Elapsed time is 61.938000 seconds.
+Elapsed time is 62.251621 seconds.
+Elapsed time is 60.808817 seconds.
+Elapsed time is 61.502583 seconds.
+Elapsed time is 62.233742 seconds.
+Elapsed time is 62.176708 seconds.
+Elapsed time is 63.186485 seconds.
+Elapsed time is 62.728184 seconds.
+Elapsed time is 62.208242 seconds.
+Elapsed time is 62.031130 seconds.
+Elapsed time is 62.095401 seconds.
+Elapsed time is 60.648076 seconds.
+Elapsed time is 60.512601 seconds.
+Elapsed time is 59.514128 seconds.
+Elapsed time is 60.837340 seconds.
+Elapsed time is 61.543915 seconds.
+Elapsed time is 61.853964 seconds.
+Elapsed time is 61.930577 seconds.
+Elapsed time is 61.472735 seconds.
+Elapsed time is 59.947584 seconds.
+Elapsed time is 61.305200 seconds.
+Elapsed time is 63.457551 seconds.
+Elapsed time is 65.522107 seconds.
+Elapsed time is 65.652938 seconds.
+Elapsed time is 64.487916 seconds.
+Elapsed time is 62.549184 seconds.
+Elapsed time is 63.457706 seconds.
+Elapsed time is 65.108532 seconds.
+Elapsed time is 64.291751 seconds.
+Elapsed time is 65.748178 seconds.
+Elapsed time is 66.726052 seconds.
+Elapsed time is 63.235116 seconds.
+Elapsed time is 62.874589 seconds.
+Elapsed time is 65.149983 seconds.
+Elapsed time is 64.221811 seconds.
+Elapsed time is 64.618752 seconds.
+Elapsed time is 64.389307 seconds.
+Elapsed time is 62.598803 seconds.
+Elapsed time is 63.133107 seconds.
+Elapsed time is 61.484366 seconds.
+Elapsed time is 64.470639 seconds.
+Elapsed time is 63.084643 seconds.
+Elapsed time is 62.140977 seconds.
+Elapsed time is 60.591804 seconds.
+Elapsed time is 60.487197 seconds.
+Elapsed time is 59.813181 seconds.
+Elapsed time is 60.144265 seconds.
+Elapsed time is 60.069265 seconds.
+Elapsed time is 60.471911 seconds.
+Elapsed time is 60.566445 seconds.
+Elapsed time is 61.656206 seconds.
+Elapsed time is 63.236847 seconds.
+Elapsed time is 62.647157 seconds.
+Elapsed time is 61.467342 seconds.
+Elapsed time is 60.660730 seconds.
+Elapsed time is 60.714284 seconds.
+Elapsed time is 60.843803 seconds.
+Elapsed time is 60.276273 seconds.
+Elapsed time is 60.851592 seconds.
+Elapsed time is 61.172969 seconds.
+Elapsed time is 60.607295 seconds.
+Elapsed time is 60.658906 seconds.
+Elapsed time is 60.276915 seconds.
+Elapsed time is 60.966618 seconds.
+Elapsed time is 60.989940 seconds.
+Elapsed time is 60.754465 seconds.
+Elapsed time is 60.787496 seconds.
+Elapsed time is 60.029441 seconds.
+Elapsed time is 60.446032 seconds.
+Elapsed time is 60.143778 seconds.
+Elapsed time is 60.271311 seconds.
+Elapsed time is 61.127515 seconds.
+Elapsed time is 59.877576 seconds.
+Elapsed time is 59.871575 seconds.
+     3         836         4386.02        1.23e+06        1e-05      0.0278053
+Elapsed time is 61.437097 seconds.
+Elapsed time is 62.394711 seconds.
+Elapsed time is 61.197647 seconds.
+Elapsed time is 61.126507 seconds.
+Elapsed time is 64.516214 seconds.
+Elapsed time is 62.605799 seconds.
+Elapsed time is 61.208065 seconds.
+Elapsed time is 60.744475 seconds.
+Elapsed time is 60.558538 seconds.
+Elapsed time is 60.020603 seconds.
+Elapsed time is 60.588584 seconds.
+Elapsed time is 60.620560 seconds.
+Elapsed time is 61.246669 seconds.
+Elapsed time is 60.150845 seconds.
+Elapsed time is 59.850556 seconds.
+Elapsed time is 60.759820 seconds.
+Elapsed time is 62.036436 seconds.
+Elapsed time is 61.694285 seconds.
+Elapsed time is 60.024163 seconds.
+Elapsed time is 60.280046 seconds.
+Elapsed time is 59.668740 seconds.
+Elapsed time is 60.133901 seconds.
+Elapsed time is 60.642947 seconds.
+Elapsed time is 60.949544 seconds.
+Elapsed time is 60.367532 seconds.
+Elapsed time is 60.654794 seconds.
+Elapsed time is 60.299894 seconds.
+Elapsed time is 60.694890 seconds.
+Elapsed time is 60.713536 seconds.
+Elapsed time is 61.244810 seconds.
+Elapsed time is 61.435006 seconds.
+Elapsed time is 61.299641 seconds.
+Elapsed time is 61.121631 seconds.
+Elapsed time is 60.984837 seconds.
+Elapsed time is 60.623874 seconds.
+Elapsed time is 60.817519 seconds.
+Elapsed time is 86.645744 seconds.
+Elapsed time is 91.299717 seconds.
+Elapsed time is 98.856351 seconds.
+Elapsed time is 74.778705 seconds.
+Elapsed time is 68.562384 seconds.
+Elapsed time is 63.728234 seconds.
+Elapsed time is 65.938519 seconds.
+Elapsed time is 64.406688 seconds.
+Elapsed time is 63.041074 seconds.
+Elapsed time is 62.250168 seconds.
+Elapsed time is 63.435522 seconds.
+Elapsed time is 64.598279 seconds.
+Elapsed time is 66.826099 seconds.
+Elapsed time is 66.265269 seconds.
+Elapsed time is 62.842120 seconds.
+Elapsed time is 71.801948 seconds.
+Elapsed time is 73.694089 seconds.
+Elapsed time is 94.938592 seconds.
+Elapsed time is 88.894804 seconds.
+Elapsed time is 85.661338 seconds.
+Elapsed time is 74.610417 seconds.
+Elapsed time is 77.810279 seconds.
+Elapsed time is 73.872670 seconds.
+Elapsed time is 71.132431 seconds.
+Elapsed time is 68.590264 seconds.
+Elapsed time is 69.371104 seconds.
+Elapsed time is 71.213775 seconds.
+Elapsed time is 65.533836 seconds.
+Elapsed time is 78.539298 seconds.
+Elapsed time is 79.276537 seconds.
+Elapsed time is 75.425279 seconds.
+Elapsed time is 68.164682 seconds.
+Elapsed time is 73.366507 seconds.
+Elapsed time is 97.581808 seconds.
+Elapsed time is 94.612792 seconds.
+Elapsed time is 105.272064 seconds.
+Elapsed time is 127.128118 seconds.
+Elapsed time is 122.155916 seconds.
+Elapsed time is 100.744692 seconds.
+Elapsed time is 109.484023 seconds.
+Elapsed time is 122.541387 seconds.
+Elapsed time is 119.803720 seconds.
+Elapsed time is 93.481531 seconds.
+Elapsed time is 88.261711 seconds.
+Elapsed time is 78.452896 seconds.
+Elapsed time is 77.127561 seconds.
+Elapsed time is 84.846096 seconds.
+Elapsed time is 72.088663 seconds.
+Elapsed time is 87.641307 seconds.
+Elapsed time is 74.756939 seconds.
+Elapsed time is 80.004050 seconds.
+Elapsed time is 112.502350 seconds.
+Elapsed time is 116.480668 seconds.
+Elapsed time is 89.646647 seconds.
+Elapsed time is 89.431920 seconds.
+Elapsed time is 101.008272 seconds.
+Elapsed time is 87.624418 seconds.
+Elapsed time is 97.349191 seconds.
+Elapsed time is 101.777833 seconds.
+Elapsed time is 90.212288 seconds.
+Elapsed time is 75.316083 seconds.
+Elapsed time is 75.955016 seconds.
+Elapsed time is 75.266403 seconds.
+Elapsed time is 67.730831 seconds.
+Elapsed time is 67.762444 seconds.
+Elapsed time is 73.257915 seconds.
+Elapsed time is 68.323459 seconds.
+Elapsed time is 67.846132 seconds.
+Elapsed time is 73.051795 seconds.
+Elapsed time is 79.315916 seconds.
+Elapsed time is 85.060398 seconds.
+Elapsed time is 95.736712 seconds.
+Elapsed time is 91.786230 seconds.
+Elapsed time is 73.524665 seconds.
+Elapsed time is 70.208365 seconds.
+Elapsed time is 68.318521 seconds.
+Elapsed time is 70.520619 seconds.
+Elapsed time is 68.929785 seconds.
+Elapsed time is 81.634170 seconds.
+Elapsed time is 73.621933 seconds.
+Elapsed time is 78.448291 seconds.
+Elapsed time is 74.990727 seconds.
+Elapsed time is 71.429628 seconds.
+Elapsed time is 73.196987 seconds.
+Elapsed time is 84.506827 seconds.
+Elapsed time is 87.244579 seconds.
+Elapsed time is 82.660818 seconds.
+Elapsed time is 91.911323 seconds.
+Elapsed time is 103.652261 seconds.
+Elapsed time is 122.916777 seconds.
+Elapsed time is 133.127799 seconds.
+Elapsed time is 154.257432 seconds.
+Elapsed time is 139.937155 seconds.
+Elapsed time is 126.581368 seconds.
+Elapsed time is 87.565920 seconds.
+Elapsed time is 70.613456 seconds.
+Elapsed time is 68.906865 seconds.
+Elapsed time is 67.542432 seconds.
+Elapsed time is 70.971286 seconds.
+Elapsed time is 72.790411 seconds.
+Elapsed time is 76.642053 seconds.
+Elapsed time is 87.474849 seconds.
+Elapsed time is 80.175470 seconds.
+Elapsed time is 80.581291 seconds.
+Elapsed time is 110.752892 seconds.
+Elapsed time is 101.126259 seconds.
+Elapsed time is 101.337031 seconds.
+Elapsed time is 85.621990 seconds.
+Elapsed time is 68.067814 seconds.
+Elapsed time is 67.959561 seconds.
+Elapsed time is 66.361198 seconds.
+Elapsed time is 66.871593 seconds.
+Elapsed time is 67.811252 seconds.
+Elapsed time is 70.470099 seconds.
+Elapsed time is 67.173259 seconds.
+Elapsed time is 67.439482 seconds.
+Elapsed time is 94.446432 seconds.
+Elapsed time is 101.764696 seconds.
+Elapsed time is 106.416042 seconds.
+Elapsed time is 91.978417 seconds.
+Elapsed time is 78.235276 seconds.
+Elapsed time is 85.940823 seconds.
+Elapsed time is 77.817714 seconds.
+Elapsed time is 87.816134 seconds.
+Elapsed time is 91.719343 seconds.
+Elapsed time is 99.362307 seconds.
+Elapsed time is 93.330694 seconds.
+Elapsed time is 89.300407 seconds.
+Elapsed time is 81.441478 seconds.
+Elapsed time is 82.127577 seconds.
+Elapsed time is 101.666574 seconds.
+Elapsed time is 111.180102 seconds.
+Elapsed time is 87.593789 seconds.
+Elapsed time is 94.654845 seconds.
+Elapsed time is 78.561223 seconds.
+Elapsed time is 93.032850 seconds.
+Elapsed time is 117.264133 seconds.
+Elapsed time is 110.436795 seconds.
+Elapsed time is 112.976758 seconds.
+Elapsed time is 88.569393 seconds.
+Elapsed time is 88.886133 seconds.
+Elapsed time is 93.125856 seconds.
+Elapsed time is 76.620522 seconds.
+Elapsed time is 143.257315 seconds.
+Elapsed time is 144.698862 seconds.
+Elapsed time is 133.542547 seconds.
+Elapsed time is 135.220868 seconds.
+Elapsed time is 130.911051 seconds.
+Elapsed time is 107.674819 seconds.
+Elapsed time is 107.458530 seconds.
+Elapsed time is 86.567240 seconds.
+Elapsed time is 76.720139 seconds.
+Elapsed time is 78.960712 seconds.
+Elapsed time is 95.645255 seconds.
+Elapsed time is 139.375849 seconds.
+Elapsed time is 153.202793 seconds.
+Elapsed time is 145.822405 seconds.
+Elapsed time is 137.897924 seconds.
+Elapsed time is 130.336610 seconds.
+Elapsed time is 109.313388 seconds.
+Elapsed time is 117.430502 seconds.
+Elapsed time is 145.087851 seconds.
+Elapsed time is 128.075529 seconds.
+Elapsed time is 110.182776 seconds.
+Elapsed time is 134.726452 seconds.
+Elapsed time is 118.052579 seconds.
+Elapsed time is 130.284350 seconds.
+Elapsed time is 103.329993 seconds.
+Elapsed time is 70.915355 seconds.
+Elapsed time is 108.637063 seconds.
+Elapsed time is 103.769751 seconds.
+Elapsed time is 117.890411 seconds.
+Elapsed time is 107.595919 seconds.
+     4        1045         3928.03        1.96e+05        1e-06       0.017765
+Elapsed time is 84.016172 seconds.
+Elapsed time is 66.662366 seconds.
+Elapsed time is 85.145994 seconds.
+Elapsed time is 68.505473 seconds.
+Elapsed time is 63.776784 seconds.
+Elapsed time is 67.701390 seconds.
+Elapsed time is 67.084868 seconds.
+Elapsed time is 71.518477 seconds.
+Elapsed time is 103.963507 seconds.
+Elapsed time is 103.518619 seconds.
+Elapsed time is 118.211914 seconds.
+Elapsed time is 102.061283 seconds.
+Elapsed time is 73.778874 seconds.
+Elapsed time is 66.684362 seconds.
+Elapsed time is 75.282687 seconds.
+Elapsed time is 88.753524 seconds.
+Elapsed time is 74.261943 seconds.
+Elapsed time is 87.543802 seconds.
+Elapsed time is 91.959023 seconds.
+Elapsed time is 109.509038 seconds.
+Elapsed time is 106.356819 seconds.
+Elapsed time is 114.875749 seconds.
+Elapsed time is 116.261291 seconds.
+Elapsed time is 105.038423 seconds.
+Elapsed time is 107.817082 seconds.
+Elapsed time is 117.643918 seconds.
+Elapsed time is 115.619822 seconds.
+Elapsed time is 102.250316 seconds.
+Elapsed time is 70.919888 seconds.
+Elapsed time is 81.820829 seconds.
+Elapsed time is 91.574143 seconds.
+Elapsed time is 76.503753 seconds.
+Elapsed time is 85.126291 seconds.
+Elapsed time is 67.487293 seconds.
+Elapsed time is 73.133983 seconds.
+Elapsed time is 81.415674 seconds.
+Elapsed time is 95.803223 seconds.
+Elapsed time is 100.356338 seconds.
+Elapsed time is 104.591810 seconds.
+Elapsed time is 113.240273 seconds.
+Elapsed time is 83.846159 seconds.
+Elapsed time is 96.281272 seconds.
+Elapsed time is 90.058859 seconds.
+Elapsed time is 93.827143 seconds.
+Elapsed time is 66.508895 seconds.
+Elapsed time is 66.581775 seconds.
+Elapsed time is 69.326271 seconds.
+Elapsed time is 77.033072 seconds.
+Elapsed time is 78.167417 seconds.
+Elapsed time is 93.733476 seconds.
+Elapsed time is 71.816724 seconds.
+Elapsed time is 93.388852 seconds.
+Elapsed time is 81.777170 seconds.
+Elapsed time is 88.145234 seconds.
+Elapsed time is 92.756674 seconds.
+Elapsed time is 75.541673 seconds.
+Elapsed time is 76.167229 seconds.
+Elapsed time is 71.912902 seconds.
+Elapsed time is 71.272589 seconds.
+Elapsed time is 68.339801 seconds.
+Elapsed time is 64.076418 seconds.
+Elapsed time is 65.332243 seconds.
+Elapsed time is 68.651168 seconds.
+Elapsed time is 63.938005 seconds.
+Elapsed time is 64.400300 seconds.
+Elapsed time is 65.411680 seconds.
+Elapsed time is 69.033453 seconds.
+Elapsed time is 70.670453 seconds.
+Elapsed time is 75.099260 seconds.
+Elapsed time is 71.506575 seconds.
+Elapsed time is 71.077824 seconds.
+Elapsed time is 71.676298 seconds.
+Elapsed time is 69.818949 seconds.
+Elapsed time is 66.833809 seconds.
+Elapsed time is 68.220273 seconds.
+Elapsed time is 72.940783 seconds.
+Elapsed time is 74.437482 seconds.
+Elapsed time is 68.612252 seconds.
+Elapsed time is 67.862335 seconds.
+Elapsed time is 66.047676 seconds.
+Elapsed time is 78.464266 seconds.
+Elapsed time is 93.236086 seconds.
+Elapsed time is 65.754563 seconds.
+Elapsed time is 66.694482 seconds.
+Elapsed time is 71.875171 seconds.
+Elapsed time is 73.462715 seconds.
+Elapsed time is 67.693405 seconds.
+Elapsed time is 69.193818 seconds.
+Elapsed time is 69.461802 seconds.
+Elapsed time is 69.726116 seconds.
+Elapsed time is 78.319632 seconds.
+Elapsed time is 73.877012 seconds.
+Elapsed time is 71.324828 seconds.
+Elapsed time is 85.286993 seconds.
+Elapsed time is 100.370694 seconds.
+Elapsed time is 105.062005 seconds.
+Elapsed time is 114.324755 seconds.
+Elapsed time is 129.166744 seconds.
+Elapsed time is 129.669970 seconds.
+Elapsed time is 116.814020 seconds.
+Elapsed time is 100.278245 seconds.
+Elapsed time is 112.201881 seconds.
+Elapsed time is 114.387064 seconds.
+Elapsed time is 117.157104 seconds.
+Elapsed time is 102.974046 seconds.
+Elapsed time is 82.171346 seconds.
+Elapsed time is 79.241407 seconds.
+Elapsed time is 65.184865 seconds.
+Elapsed time is 69.883336 seconds.
+Elapsed time is 78.556203 seconds.
+Elapsed time is 99.715684 seconds.
+Elapsed time is 106.802845 seconds.
+Elapsed time is 113.890267 seconds.
+Elapsed time is 119.239929 seconds.
+Elapsed time is 120.905122 seconds.
+Elapsed time is 115.964472 seconds.
+Elapsed time is 110.992966 seconds.
+Elapsed time is 133.459164 seconds.
+Elapsed time is 144.851487 seconds.
+Elapsed time is 161.573081 seconds.
+Elapsed time is 142.195754 seconds.
+Elapsed time is 129.470075 seconds.
+Elapsed time is 120.875199 seconds.
+Elapsed time is 95.010729 seconds.
+Elapsed time is 78.111437 seconds.
+Elapsed time is 71.231976 seconds.
+Elapsed time is 66.818512 seconds.
+Elapsed time is 94.192701 seconds.
+Elapsed time is 88.997907 seconds.
+Elapsed time is 74.609564 seconds.
+Elapsed time is 70.106468 seconds.
+Elapsed time is 69.520177 seconds.
+Elapsed time is 68.324130 seconds.
+Elapsed time is 76.927952 seconds.
+Elapsed time is 79.388103 seconds.
+Elapsed time is 73.718614 seconds.
+Elapsed time is 70.345649 seconds.
+Elapsed time is 71.382550 seconds.
+Elapsed time is 92.647118 seconds.
+Elapsed time is 90.378274 seconds.
+Elapsed time is 82.223983 seconds.
+Elapsed time is 89.018634 seconds.
+Elapsed time is 70.856497 seconds.
+Elapsed time is 65.007893 seconds.
+Elapsed time is 74.421005 seconds.
+Elapsed time is 93.678429 seconds.
+Elapsed time is 93.054224 seconds.
+Elapsed time is 80.067058 seconds.
+Elapsed time is 76.987796 seconds.
+Elapsed time is 73.924529 seconds.
+Elapsed time is 69.563749 seconds.
+Elapsed time is 69.616638 seconds.
+Elapsed time is 80.032346 seconds.
+Elapsed time is 74.635665 seconds.
+Elapsed time is 73.454778 seconds.
+Elapsed time is 89.059602 seconds.
+Elapsed time is 72.351457 seconds.
+Elapsed time is 86.812364 seconds.
+Elapsed time is 92.591158 seconds.
+Elapsed time is 103.986226 seconds.
+Elapsed time is 119.785500 seconds.
+Elapsed time is 132.679073 seconds.
+Elapsed time is 133.793436 seconds.
+Elapsed time is 110.532874 seconds.
+Elapsed time is 79.554181 seconds.
+Elapsed time is 67.627087 seconds.
+Elapsed time is 69.852600 seconds.
+Elapsed time is 101.907459 seconds.
+Elapsed time is 129.501035 seconds.
+Elapsed time is 130.271189 seconds.
+Elapsed time is 120.714494 seconds.
+Elapsed time is 126.021366 seconds.
+Elapsed time is 139.142463 seconds.
+Elapsed time is 136.960216 seconds.
+Elapsed time is 120.084239 seconds.
+Elapsed time is 105.648141 seconds.
+Elapsed time is 110.557643 seconds.
+Elapsed time is 100.204482 seconds.
+Elapsed time is 109.985305 seconds.
+Elapsed time is 104.651947 seconds.
+Elapsed time is 116.161753 seconds.
+Elapsed time is 100.826868 seconds.
+Elapsed time is 95.791781 seconds.
+Elapsed time is 73.997686 seconds.
+Elapsed time is 69.134647 seconds.
+Elapsed time is 68.105560 seconds.
+Elapsed time is 74.551363 seconds.
+Elapsed time is 76.276671 seconds.
+Elapsed time is 79.328584 seconds.
+Elapsed time is 71.362420 seconds.
+Elapsed time is 70.325399 seconds.
+Elapsed time is 75.638710 seconds.
+Elapsed time is 85.163609 seconds.
+Elapsed time is 82.110978 seconds.
+Elapsed time is 116.426660 seconds.
+Elapsed time is 85.399562 seconds.
+Elapsed time is 75.214033 seconds.
+Elapsed time is 79.663214 seconds.
+Elapsed time is 78.914998 seconds.
+Elapsed time is 72.673684 seconds.
+Elapsed time is 78.956332 seconds.
+Elapsed time is 74.902916 seconds.
+Elapsed time is 70.097982 seconds.
+Elapsed time is 67.798976 seconds.
+Elapsed time is 81.747949 seconds.
+Elapsed time is 74.432219 seconds.
+Elapsed time is 75.441035 seconds.
+Elapsed time is 70.167275 seconds.
+Elapsed time is 93.842914 seconds.
+     5        1254         3656.04        5.01e+05        1e-07      0.0225868
+Elapsed time is 85.117460 seconds.
+Elapsed time is 88.354699 seconds.
+Elapsed time is 88.767882 seconds.
+Elapsed time is 88.232803 seconds.
+Elapsed time is 91.356568 seconds.
+Elapsed time is 73.095696 seconds.
+Elapsed time is 70.464015 seconds.
+Elapsed time is 67.769449 seconds.
+Elapsed time is 75.577338 seconds.
+Elapsed time is 76.472615 seconds.
+Elapsed time is 68.683950 seconds.
+Elapsed time is 77.213979 seconds.
+Elapsed time is 81.766262 seconds.
+Elapsed time is 78.723018 seconds.
+Elapsed time is 92.277237 seconds.
+Elapsed time is 90.060839 seconds.
+Elapsed time is 90.720749 seconds.
+Elapsed time is 89.574314 seconds.
+Elapsed time is 85.348766 seconds.
+Elapsed time is 89.269185 seconds.
+Elapsed time is 79.105276 seconds.
+Elapsed time is 67.325372 seconds.
+Elapsed time is 73.444140 seconds.
+Elapsed time is 67.324134 seconds.
+Elapsed time is 67.598225 seconds.
+Elapsed time is 70.429965 seconds.
+Elapsed time is 77.363114 seconds.
+Elapsed time is 74.230471 seconds.
+Elapsed time is 99.933216 seconds.
+Elapsed time is 117.810195 seconds.
+Elapsed time is 112.542913 seconds.
+Elapsed time is 115.552734 seconds.
+Elapsed time is 114.226238 seconds.
+Elapsed time is 117.888307 seconds.
+Elapsed time is 117.293755 seconds.
+Elapsed time is 91.023165 seconds.
+Elapsed time is 76.597938 seconds.
+Elapsed time is 70.812550 seconds.
+Elapsed time is 71.774680 seconds.
+Elapsed time is 77.025277 seconds.
+Elapsed time is 72.288403 seconds.
+Elapsed time is 75.272919 seconds.
+Elapsed time is 78.999514 seconds.
+Elapsed time is 94.298658 seconds.
+Elapsed time is 81.431072 seconds.
+Elapsed time is 81.983533 seconds.
+Elapsed time is 81.700289 seconds.
+Elapsed time is 78.957562 seconds.
+Elapsed time is 79.540364 seconds.
+Elapsed time is 73.042823 seconds.
+Elapsed time is 78.841705 seconds.
+Elapsed time is 84.418110 seconds.
+Elapsed time is 86.671927 seconds.
+Elapsed time is 100.721057 seconds.
+Elapsed time is 93.744356 seconds.
+Elapsed time is 82.096720 seconds.
+Elapsed time is 64.877618 seconds.
+Elapsed time is 71.539422 seconds.
+Elapsed time is 80.109063 seconds.
+Elapsed time is 73.732287 seconds.
+Elapsed time is 69.044286 seconds.
+Elapsed time is 75.658552 seconds.
+Elapsed time is 72.658423 seconds.
+Elapsed time is 73.270390 seconds.
+Elapsed time is 72.277618 seconds.
+Elapsed time is 73.879549 seconds.
+Elapsed time is 71.167333 seconds.
+Elapsed time is 71.566096 seconds.
+Elapsed time is 75.088399 seconds.
+Elapsed time is 73.596145 seconds.
+Elapsed time is 74.223752 seconds.
+Elapsed time is 67.009776 seconds.
+Elapsed time is 96.622408 seconds.
+Elapsed time is 84.666330 seconds.
+Elapsed time is 91.616574 seconds.
+Elapsed time is 93.182677 seconds.
+Elapsed time is 74.783321 seconds.
+Elapsed time is 89.552289 seconds.
+Elapsed time is 74.531886 seconds.
+Elapsed time is 86.458747 seconds.
+Elapsed time is 79.814058 seconds.
+Elapsed time is 78.876286 seconds.
+Elapsed time is 71.919162 seconds.
+Elapsed time is 84.211408 seconds.
+Elapsed time is 67.743805 seconds.
+Elapsed time is 71.019470 seconds.
+Elapsed time is 69.739881 seconds.
+Elapsed time is 74.801245 seconds.
+Elapsed time is 79.839877 seconds.
+Elapsed time is 85.798582 seconds.
+Elapsed time is 73.782535 seconds.
+Elapsed time is 79.100966 seconds.
+Elapsed time is 100.766669 seconds.
+Elapsed time is 80.376600 seconds.
+Elapsed time is 65.869054 seconds.
+Elapsed time is 79.514202 seconds.
+Elapsed time is 71.420329 seconds.
+Elapsed time is 68.212607 seconds.
+Elapsed time is 70.283447 seconds.
+Elapsed time is 79.282008 seconds.
+Elapsed time is 89.783647 seconds.
+Elapsed time is 78.234131 seconds.
+Elapsed time is 81.352326 seconds.
+Elapsed time is 86.974973 seconds.
+Elapsed time is 80.458481 seconds.
+Elapsed time is 73.963246 seconds.
+Elapsed time is 69.204317 seconds.
+Elapsed time is 90.311746 seconds.
+Elapsed time is 81.292993 seconds.
+Elapsed time is 82.269742 seconds.
+Elapsed time is 90.017608 seconds.
+Elapsed time is 83.859274 seconds.
+Elapsed time is 65.145211 seconds.
+Elapsed time is 74.168764 seconds.
+Elapsed time is 83.592935 seconds.
+Elapsed time is 87.718494 seconds.
+Elapsed time is 75.894474 seconds.
+Elapsed time is 69.735862 seconds.
+Elapsed time is 73.775714 seconds.
+Elapsed time is 66.620539 seconds.
+Elapsed time is 79.957714 seconds.
+Elapsed time is 86.022625 seconds.
+Elapsed time is 80.254090 seconds.
+Elapsed time is 80.022947 seconds.
+Elapsed time is 83.081696 seconds.
+Elapsed time is 97.340178 seconds.
+Elapsed time is 101.746619 seconds.
+Elapsed time is 90.110458 seconds.
+Elapsed time is 82.533088 seconds.
+Elapsed time is 66.382734 seconds.
+Elapsed time is 70.101222 seconds.
+Elapsed time is 78.183232 seconds.
+Elapsed time is 77.003014 seconds.
+Elapsed time is 71.850096 seconds.
+Elapsed time is 76.724724 seconds.
+Elapsed time is 70.458126 seconds.
+Elapsed time is 76.797324 seconds.
+Elapsed time is 68.365023 seconds.
+Elapsed time is 75.605950 seconds.
+Elapsed time is 73.441267 seconds.
+Elapsed time is 66.864845 seconds.
+Elapsed time is 72.998501 seconds.
+Elapsed time is 80.877487 seconds.
+Elapsed time is 107.225162 seconds.
+Elapsed time is 120.129663 seconds.
+Elapsed time is 123.143616 seconds.
+Elapsed time is 133.348227 seconds.
+Elapsed time is 134.409953 seconds.
+Elapsed time is 143.485105 seconds.
+Elapsed time is 146.745507 seconds.
+Elapsed time is 115.821618 seconds.
+Elapsed time is 107.599359 seconds.
+Elapsed time is 110.857092 seconds.
+Elapsed time is 139.019497 seconds.
+Elapsed time is 121.477649 seconds.
+Elapsed time is 122.248380 seconds.
+Elapsed time is 121.641689 seconds.
+Elapsed time is 111.954313 seconds.
+Elapsed time is 125.384462 seconds.
+Elapsed time is 132.109141 seconds.
+Elapsed time is 104.851117 seconds.
+Elapsed time is 97.366067 seconds.
+Elapsed time is 88.667841 seconds.
+Elapsed time is 74.510731 seconds.
+Elapsed time is 67.901435 seconds.
+Elapsed time is 71.691736 seconds.
+Elapsed time is 107.546010 seconds.
+Elapsed time is 104.411926 seconds.
+Elapsed time is 95.716449 seconds.
+Elapsed time is 107.717858 seconds.
+Elapsed time is 82.429902 seconds.
+Elapsed time is 82.427743 seconds.
+Elapsed time is 76.165953 seconds.
+Elapsed time is 73.455949 seconds.
+Elapsed time is 72.551417 seconds.
+Elapsed time is 82.023279 seconds.
+Elapsed time is 95.399141 seconds.
+Elapsed time is 98.617823 seconds.
+Elapsed time is 90.247548 seconds.
+Elapsed time is 82.226299 seconds.
+Elapsed time is 73.991101 seconds.
+Elapsed time is 67.924965 seconds.
+Elapsed time is 65.224069 seconds.
+Elapsed time is 71.261910 seconds.
+Elapsed time is 67.515029 seconds.
+Elapsed time is 65.807611 seconds.
+Elapsed time is 77.494486 seconds.
+Elapsed time is 89.580268 seconds.
+Elapsed time is 76.516666 seconds.
+Elapsed time is 71.938520 seconds.
+Elapsed time is 70.493606 seconds.
+Elapsed time is 66.980348 seconds.
+Elapsed time is 68.504301 seconds.
+Elapsed time is 68.179865 seconds.
+Elapsed time is 66.349335 seconds.
+Elapsed time is 63.005436 seconds.
+Elapsed time is 63.892742 seconds.
+Elapsed time is 64.144893 seconds.
+Elapsed time is 69.665151 seconds.
+Elapsed time is 70.937980 seconds.
+Elapsed time is 77.115464 seconds.
+Elapsed time is 95.531780 seconds.
+Elapsed time is 77.755368 seconds.
+Elapsed time is 76.418474 seconds.
+Elapsed time is 88.685235 seconds.
+Elapsed time is 97.208147 seconds.
+Elapsed time is 73.820821 seconds.
+Elapsed time is 111.453667 seconds.
+Elapsed time is 108.213347 seconds.
+     6        1463         3500.52        1.05e+07        1e-08      0.0224347
+Elapsed time is 76.047219 seconds.
+Elapsed time is 94.754289 seconds.
+Elapsed time is 123.108830 seconds.
+Elapsed time is 146.156020 seconds.
+Elapsed time is 146.765751 seconds.
+Elapsed time is 132.837781 seconds.
+Elapsed time is 118.562552 seconds.
+Elapsed time is 124.001453 seconds.
+Elapsed time is 101.047310 seconds.
+Elapsed time is 90.287335 seconds.
+Elapsed time is 93.568940 seconds.
+Elapsed time is 104.934354 seconds.
+Elapsed time is 105.302423 seconds.
+Elapsed time is 89.028347 seconds.
+Elapsed time is 122.763688 seconds.
+Elapsed time is 104.341840 seconds.
+Elapsed time is 102.751642 seconds.
+Elapsed time is 134.538682 seconds.
+Elapsed time is 147.297097 seconds.
+Elapsed time is 128.384294 seconds.
+Elapsed time is 126.783907 seconds.
+Elapsed time is 109.386273 seconds.
+Elapsed time is 114.116776 seconds.
+Elapsed time is 72.917417 seconds.
+Elapsed time is 114.220401 seconds.
+Elapsed time is 150.274553 seconds.
+Elapsed time is 111.397193 seconds.
+Elapsed time is 126.355101 seconds.
+Elapsed time is 136.639576 seconds.
+Elapsed time is 132.820306 seconds.
+Elapsed time is 111.438246 seconds.
+Elapsed time is 96.882972 seconds.
+Elapsed time is 81.156500 seconds.
+Elapsed time is 89.149012 seconds.
+Elapsed time is 108.133606 seconds.
+Elapsed time is 126.449192 seconds.
+Elapsed time is 104.375826 seconds.
+Elapsed time is 112.872987 seconds.
+Elapsed time is 114.357691 seconds.
+Elapsed time is 122.024513 seconds.
+Elapsed time is 119.417380 seconds.
+Elapsed time is 125.021319 seconds.
+Elapsed time is 117.323235 seconds.
+Elapsed time is 109.082187 seconds.
+Elapsed time is 92.388766 seconds.
+Elapsed time is 99.880127 seconds.
+Elapsed time is 90.623890 seconds.
+Elapsed time is 115.381272 seconds.
+Elapsed time is 128.996644 seconds.
+Elapsed time is 120.907547 seconds.
+Elapsed time is 120.952719 seconds.
+Elapsed time is 111.308262 seconds.
+Elapsed time is 92.332520 seconds.
+Elapsed time is 72.436412 seconds.
+Elapsed time is 78.826360 seconds.
+Elapsed time is 92.787838 seconds.
+Elapsed time is 84.810754 seconds.
+Elapsed time is 97.296268 seconds.
+Elapsed time is 97.094898 seconds.
+Elapsed time is 81.029190 seconds.
+Elapsed time is 89.055087 seconds.
+Elapsed time is 67.319057 seconds.
+Elapsed time is 71.612748 seconds.
+Elapsed time is 72.236970 seconds.
+Elapsed time is 72.572386 seconds.
+Elapsed time is 84.159302 seconds.
+Elapsed time is 86.789534 seconds.
+Elapsed time is 98.670684 seconds.
+Elapsed time is 110.632714 seconds.
+Elapsed time is 125.464321 seconds.
+Elapsed time is 90.734810 seconds.
+Elapsed time is 70.466793 seconds.
+Elapsed time is 65.485446 seconds.
+Elapsed time is 65.587392 seconds.
+Elapsed time is 60.364262 seconds.
+Elapsed time is 60.962625 seconds.
+Elapsed time is 64.251279 seconds.
+Elapsed time is 64.368426 seconds.
+Elapsed time is 63.572961 seconds.
+Elapsed time is 65.078559 seconds.
+Elapsed time is 62.612721 seconds.
+Elapsed time is 69.987630 seconds.
+Elapsed time is 69.648379 seconds.
+Elapsed time is 65.184814 seconds.
+Elapsed time is 65.844717 seconds.
+Elapsed time is 66.756560 seconds.
+Elapsed time is 83.149825 seconds.
+Elapsed time is 80.862836 seconds.
+Elapsed time is 64.864251 seconds.
+Elapsed time is 68.942306 seconds.
+Elapsed time is 63.480961 seconds.
+Elapsed time is 70.859735 seconds.
+Elapsed time is 65.746246 seconds.
+Elapsed time is 75.134353 seconds.
+Elapsed time is 65.782493 seconds.
+Elapsed time is 62.310754 seconds.
+Elapsed time is 62.855203 seconds.
+Elapsed time is 62.501867 seconds.
+Elapsed time is 65.707168 seconds.
+Elapsed time is 67.685000 seconds.
+Elapsed time is 66.162490 seconds.
+Elapsed time is 66.031982 seconds.
+Elapsed time is 67.564059 seconds.
+Elapsed time is 65.038758 seconds.
+Elapsed time is 64.678912 seconds.
+Elapsed time is 72.528564 seconds.
+Elapsed time is 76.330043 seconds.
+Elapsed time is 91.811144 seconds.
+Elapsed time is 80.077132 seconds.
+Elapsed time is 73.234108 seconds.
+Elapsed time is 65.213765 seconds.
+Elapsed time is 68.195955 seconds.
+Elapsed time is 62.966824 seconds.
+Elapsed time is 63.512841 seconds.
+Elapsed time is 65.511288 seconds.
+Elapsed time is 74.576316 seconds.
+Elapsed time is 74.699397 seconds.
+Elapsed time is 75.440970 seconds.
+Elapsed time is 77.333441 seconds.
+Elapsed time is 78.499310 seconds.
+Elapsed time is 64.804438 seconds.
+Elapsed time is 64.470863 seconds.
+Elapsed time is 63.495069 seconds.
+Elapsed time is 64.152875 seconds.
+Elapsed time is 72.785044 seconds.
+Elapsed time is 66.919559 seconds.
+Elapsed time is 70.060151 seconds.
+Elapsed time is 66.322832 seconds.
+Elapsed time is 69.749275 seconds.
+Elapsed time is 62.955378 seconds.
+Elapsed time is 71.572329 seconds.
+Elapsed time is 71.952928 seconds.
+Elapsed time is 64.070483 seconds.
+Elapsed time is 73.327645 seconds.
+Elapsed time is 75.075234 seconds.
+Elapsed time is 69.373866 seconds.
+Elapsed time is 84.116254 seconds.
+Elapsed time is 102.626358 seconds.
+Elapsed time is 114.366442 seconds.
+Elapsed time is 120.335998 seconds.
+Elapsed time is 124.795425 seconds.
+Elapsed time is 103.509710 seconds.
+Elapsed time is 100.386179 seconds.
+Elapsed time is 85.296900 seconds.
+Elapsed time is 72.639516 seconds.
+Elapsed time is 66.517552 seconds.
+Elapsed time is 78.580100 seconds.
+Elapsed time is 66.036765 seconds.
+Elapsed time is 71.142914 seconds.
+Elapsed time is 65.545727 seconds.
+Elapsed time is 64.534699 seconds.
+Elapsed time is 78.417280 seconds.
+Elapsed time is 66.387126 seconds.
+Elapsed time is 66.046570 seconds.
+Elapsed time is 65.943009 seconds.
+Elapsed time is 79.530496 seconds.
+Elapsed time is 108.511123 seconds.
+Elapsed time is 165.230969 seconds.
+Elapsed time is 147.762261 seconds.
+Elapsed time is 96.998774 seconds.
+Elapsed time is 143.609488 seconds.
+Elapsed time is 136.386261 seconds.
+Elapsed time is 114.577016 seconds.
+Elapsed time is 85.838254 seconds.
+Elapsed time is 75.796083 seconds.
+Elapsed time is 95.643067 seconds.
+Elapsed time is 128.322935 seconds.
+Elapsed time is 103.918434 seconds.
+Elapsed time is 104.655870 seconds.
+Elapsed time is 79.791388 seconds.
+Elapsed time is 114.636059 seconds.
+Elapsed time is 112.141108 seconds.
+Elapsed time is 123.297940 seconds.
+Elapsed time is 101.879106 seconds.
+Elapsed time is 81.960703 seconds.
+Elapsed time is 94.349441 seconds.
+Elapsed time is 84.647217 seconds.
+Elapsed time is 79.512007 seconds.
+Elapsed time is 127.601647 seconds.
+Elapsed time is 113.050214 seconds.
+Elapsed time is 101.696540 seconds.
+Elapsed time is 82.117124 seconds.
+Elapsed time is 77.533871 seconds.
+Elapsed time is 85.963007 seconds.
+Elapsed time is 115.105349 seconds.
+Elapsed time is 124.448308 seconds.
+Elapsed time is 112.100767 seconds.
+Elapsed time is 126.088847 seconds.
+Elapsed time is 87.257190 seconds.
+Elapsed time is 98.345756 seconds.
+Elapsed time is 82.608524 seconds.
+Elapsed time is 100.896650 seconds.
+Elapsed time is 114.323965 seconds.
+Elapsed time is 122.562849 seconds.
+Elapsed time is 137.354651 seconds.
+Elapsed time is 140.503546 seconds.
+Elapsed time is 119.220558 seconds.
+Elapsed time is 101.823744 seconds.
+Elapsed time is 80.086821 seconds.
+Elapsed time is 85.785031 seconds.
+Elapsed time is 88.373666 seconds.
+Elapsed time is 127.391821 seconds.
+Elapsed time is 136.378803 seconds.
+Elapsed time is 120.665160 seconds.
+Elapsed time is 108.637934 seconds.
+Elapsed time is 104.578518 seconds.
+Elapsed time is 83.457508 seconds.
+Elapsed time is 80.289708 seconds.
+Elapsed time is 95.012492 seconds.
+     7        1672         3395.65        8.61e+05        1e-09      0.0166824
+Elapsed time is 96.122048 seconds.
+Elapsed time is 109.694477 seconds.
+Elapsed time is 129.631935 seconds.
+Elapsed time is 123.476894 seconds.
+Elapsed time is 123.501574 seconds.
+Elapsed time is 119.321169 seconds.
+Elapsed time is 89.483962 seconds.
+Elapsed time is 102.015335 seconds.
+Elapsed time is 85.420568 seconds.
+Elapsed time is 75.286009 seconds.
+Elapsed time is 84.522183 seconds.
+Elapsed time is 84.040925 seconds.
+Elapsed time is 78.382799 seconds.
+Elapsed time is 80.636487 seconds.
+Elapsed time is 86.710383 seconds.
+Elapsed time is 90.764496 seconds.
+Elapsed time is 104.919756 seconds.
+Elapsed time is 105.932216 seconds.
+Elapsed time is 100.937155 seconds.
+Elapsed time is 96.941805 seconds.
+Elapsed time is 97.529581 seconds.
+Elapsed time is 108.366521 seconds.
+Elapsed time is 113.304697 seconds.
+Elapsed time is 107.500933 seconds.
+Elapsed time is 103.922575 seconds.
+Elapsed time is 94.175569 seconds.
+Elapsed time is 71.068990 seconds.
+Elapsed time is 71.091261 seconds.
+Elapsed time is 131.169991 seconds.
+Elapsed time is 131.432854 seconds.
+Elapsed time is 94.917898 seconds.
+Elapsed time is 72.853179 seconds.
+Elapsed time is 95.693633 seconds.
+Elapsed time is 109.338559 seconds.
+Elapsed time is 111.571519 seconds.
+Elapsed time is 109.999284 seconds.
+Elapsed time is 83.856105 seconds.
+Elapsed time is 86.716137 seconds.
+Elapsed time is 84.132972 seconds.
+Elapsed time is 69.542048 seconds.
+Elapsed time is 79.267259 seconds.
+Elapsed time is 75.935572 seconds.
+Elapsed time is 86.757763 seconds.
+Elapsed time is 115.560700 seconds.
+Elapsed time is 114.500925 seconds.
+Elapsed time is 117.651748 seconds.
+Elapsed time is 112.267833 seconds.
+Elapsed time is 147.290505 seconds.
+Elapsed time is 164.774465 seconds.
+Elapsed time is 85.571285 seconds.
+Elapsed time is 103.246146 seconds.
+Elapsed time is 113.521289 seconds.
+Elapsed time is 127.023680 seconds.
+Elapsed time is 79.448089 seconds.
+Elapsed time is 89.861552 seconds.
+Elapsed time is 86.616922 seconds.
+Elapsed time is 91.814182 seconds.
+Elapsed time is 113.595936 seconds.
+Elapsed time is 107.396832 seconds.
+Elapsed time is 127.468968 seconds.
+Elapsed time is 125.880830 seconds.
+Elapsed time is 88.436913 seconds.
+Elapsed time is 100.014013 seconds.
+Elapsed time is 128.253904 seconds.
+Elapsed time is 116.052840 seconds.
+Elapsed time is 102.047805 seconds.
+Elapsed time is 69.449190 seconds.
+Elapsed time is 73.578895 seconds.
+Elapsed time is 88.257228 seconds.
+Elapsed time is 88.402212 seconds.
+Elapsed time is 114.955638 seconds.
+Elapsed time is 118.397325 seconds.
+Elapsed time is 100.681000 seconds.
+Elapsed time is 76.757245 seconds.
+Elapsed time is 62.282267 seconds.
+Elapsed time is 84.668895 seconds.
+Elapsed time is 134.995557 seconds.
+Elapsed time is 122.173948 seconds.
+Elapsed time is 114.728590 seconds.
+Elapsed time is 121.455150 seconds.
+Elapsed time is 85.808748 seconds.
+Elapsed time is 74.555518 seconds.
+Elapsed time is 91.995079 seconds.
+Elapsed time is 118.330496 seconds.
+Elapsed time is 119.093135 seconds.
+Elapsed time is 101.399259 seconds.
+Elapsed time is 91.067425 seconds.
+Elapsed time is 92.083920 seconds.
+Elapsed time is 100.130186 seconds.
+Elapsed time is 112.807837 seconds.
+Elapsed time is 103.295156 seconds.
+Elapsed time is 102.876122 seconds.
+Elapsed time is 91.371385 seconds.
+Elapsed time is 100.193300 seconds.
+Elapsed time is 91.935969 seconds.
+Elapsed time is 87.552146 seconds.
+Elapsed time is 84.974851 seconds.
+Elapsed time is 80.268162 seconds.
+Elapsed time is 77.975337 seconds.
+Elapsed time is 83.333593 seconds.
+Elapsed time is 103.854863 seconds.
+Elapsed time is 125.530433 seconds.
+Elapsed time is 111.617842 seconds.
+Elapsed time is 108.882078 seconds.
+Elapsed time is 126.506041 seconds.
+Elapsed time is 79.795073 seconds.
+Elapsed time is 69.330753 seconds.
+Elapsed time is 100.523222 seconds.
+Elapsed time is 102.074595 seconds.
+Elapsed time is 95.398834 seconds.
+Elapsed time is 94.065933 seconds.
+Elapsed time is 95.404200 seconds.
+Elapsed time is 93.940511 seconds.
+Elapsed time is 112.944566 seconds.
+Elapsed time is 94.482335 seconds.
+Elapsed time is 83.289184 seconds.
+Elapsed time is 82.041651 seconds.
+Elapsed time is 77.778127 seconds.
+Elapsed time is 95.208862 seconds.
+Elapsed time is 127.400687 seconds.
+Elapsed time is 133.541287 seconds.
+Elapsed time is 115.673097 seconds.
+Elapsed time is 112.006778 seconds.
+Elapsed time is 99.615112 seconds.
+Elapsed time is 91.792856 seconds.
+Elapsed time is 100.433799 seconds.
+Elapsed time is 127.964821 seconds.
+Elapsed time is 99.291143 seconds.
+Elapsed time is 114.512404 seconds.
+Elapsed time is 104.937132 seconds.
+Elapsed time is 87.015107 seconds.
+Elapsed time is 84.035950 seconds.
+Elapsed time is 78.657747 seconds.
+Elapsed time is 92.683484 seconds.
+Elapsed time is 103.897904 seconds.
+Elapsed time is 126.909848 seconds.
+Elapsed time is 103.093725 seconds.
+Elapsed time is 112.294083 seconds.
+Elapsed time is 115.954330 seconds.
+Elapsed time is 75.332953 seconds.
+Elapsed time is 95.248238 seconds.
+Elapsed time is 85.415907 seconds.
+Elapsed time is 121.715459 seconds.
+Elapsed time is 110.316591 seconds.
+Elapsed time is 88.679447 seconds.
+Elapsed time is 97.430664 seconds.
+Elapsed time is 115.640318 seconds.
+Elapsed time is 112.551331 seconds.
+Elapsed time is 126.987173 seconds.
+Elapsed time is 152.695807 seconds.
+Elapsed time is 147.582694 seconds.
+Elapsed time is 156.209255 seconds.
+Elapsed time is 177.878392 seconds.
+Elapsed time is 139.460052 seconds.
+Elapsed time is 81.965470 seconds.
+Elapsed time is 72.249830 seconds.
+Elapsed time is 114.311967 seconds.
+Elapsed time is 145.102336 seconds.
+Elapsed time is 132.411697 seconds.
+Elapsed time is 170.867216 seconds.
+Elapsed time is 125.566807 seconds.
+Elapsed time is 110.305703 seconds.
+Elapsed time is 102.156535 seconds.
+Elapsed time is 109.674213 seconds.
+Elapsed time is 108.272432 seconds.
+Elapsed time is 114.075799 seconds.
+Elapsed time is 85.026078 seconds.
+Elapsed time is 81.879391 seconds.
+Elapsed time is 73.837839 seconds.
+Elapsed time is 88.458819 seconds.
+Elapsed time is 97.554619 seconds.
+Elapsed time is 96.475954 seconds.
+Elapsed time is 99.751666 seconds.
+Elapsed time is 115.584253 seconds.
+Elapsed time is 84.226643 seconds.
+Elapsed time is 104.602525 seconds.
+Elapsed time is 98.779889 seconds.
+Elapsed time is 90.528685 seconds.
+Elapsed time is 87.720111 seconds.
+Elapsed time is 93.004327 seconds.
+Elapsed time is 104.337637 seconds.
+Elapsed time is 111.071101 seconds.
+Elapsed time is 109.598633 seconds.
+Elapsed time is 93.378230 seconds.
+Elapsed time is 115.747329 seconds.
+Elapsed time is 108.444105 seconds.
+Elapsed time is 134.435792 seconds.
+Elapsed time is 88.744694 seconds.
+Elapsed time is 65.749445 seconds.
+Elapsed time is 83.298872 seconds.
+Elapsed time is 123.381400 seconds.
+Elapsed time is 112.622799 seconds.
+Elapsed time is 102.672332 seconds.
+Elapsed time is 101.403723 seconds.
+Elapsed time is 84.048343 seconds.
+Elapsed time is 103.493918 seconds.
+Elapsed time is 105.808132 seconds.
+Elapsed time is 105.846331 seconds.
+Elapsed time is 114.880236 seconds.
+Elapsed time is 112.480823 seconds.
+Elapsed time is 125.857457 seconds.
+Elapsed time is 125.685927 seconds.
+Elapsed time is 115.002401 seconds.
+Elapsed time is 89.210941 seconds.
+Elapsed time is 122.863458 seconds.
+Elapsed time is 122.968979 seconds.
+Elapsed time is 139.440575 seconds.
+Elapsed time is 143.798094 seconds.
+Elapsed time is 156.273820 seconds.
+     8        1881         3314.63         1.1e+06        1e-10      0.0137479
+Elapsed time is 149.341496 seconds.
+Elapsed time is 142.572266 seconds.
+Elapsed time is 142.129390 seconds.
+Elapsed time is 125.560958 seconds.
+Elapsed time is 146.918570 seconds.
+Elapsed time is 121.151160 seconds.
+Elapsed time is 110.615498 seconds.
+Elapsed time is 120.927135 seconds.
+Elapsed time is 103.499833 seconds.
+Elapsed time is 110.929000 seconds.
+Elapsed time is 121.492267 seconds.
+Elapsed time is 106.857862 seconds.
+Elapsed time is 98.461164 seconds.
+Elapsed time is 105.946971 seconds.
+Elapsed time is 83.058842 seconds.
+Elapsed time is 128.753735 seconds.
+Elapsed time is 124.524802 seconds.
+Elapsed time is 84.372012 seconds.
+Elapsed time is 117.731455 seconds.
+Elapsed time is 78.955461 seconds.
+Elapsed time is 101.345438 seconds.
+Elapsed time is 89.245148 seconds.
+Elapsed time is 120.698490 seconds.
+Elapsed time is 107.802433 seconds.
+Elapsed time is 129.178979 seconds.
+Elapsed time is 124.265793 seconds.
+Elapsed time is 121.053348 seconds.
+Elapsed time is 131.663404 seconds.
+Elapsed time is 136.930917 seconds.
+Elapsed time is 105.042443 seconds.
+Elapsed time is 105.256735 seconds.
+Elapsed time is 110.822895 seconds.
+Elapsed time is 89.283176 seconds.
+Elapsed time is 74.959832 seconds.
+Elapsed time is 92.273865 seconds.
+Elapsed time is 103.821187 seconds.
+Elapsed time is 103.540369 seconds.
+Elapsed time is 85.829001 seconds.
+Elapsed time is 112.974966 seconds.
+Elapsed time is 98.421797 seconds.
+Elapsed time is 104.699593 seconds.
+Elapsed time is 115.716223 seconds.
+Elapsed time is 94.404825 seconds.
+Elapsed time is 78.809295 seconds.
+Elapsed time is 84.999063 seconds.
+Elapsed time is 100.956688 seconds.
+Elapsed time is 101.780206 seconds.
+Elapsed time is 104.554445 seconds.
+Elapsed time is 79.837152 seconds.
+Elapsed time is 125.093719 seconds.
+Elapsed time is 148.773245 seconds.
+Elapsed time is 129.371554 seconds.
+Elapsed time is 132.557771 seconds.
+Elapsed time is 91.384558 seconds.
+Elapsed time is 72.056923 seconds.
+Elapsed time is 81.458043 seconds.
+Elapsed time is 134.865165 seconds.
+Elapsed time is 143.582303 seconds.
+Elapsed time is 160.351717 seconds.
+Elapsed time is 168.509514 seconds.
+Elapsed time is 176.723816 seconds.
+Elapsed time is 156.617472 seconds.
+Elapsed time is 145.560272 seconds.
+Elapsed time is 177.810188 seconds.
+Elapsed time is 150.960617 seconds.
+Elapsed time is 159.443161 seconds.
+Elapsed time is 156.611541 seconds.
+Elapsed time is 160.150986 seconds.
+Elapsed time is 160.649553 seconds.
+Elapsed time is 114.375451 seconds.
+Elapsed time is 108.340343 seconds.
+Elapsed time is 111.485707 seconds.
+Elapsed time is 154.951899 seconds.
+Elapsed time is 100.715568 seconds.
+Elapsed time is 65.918340 seconds.
+Elapsed time is 77.169267 seconds.
+Elapsed time is 68.865085 seconds.
+Elapsed time is 106.015906 seconds.
+Elapsed time is 97.244660 seconds.
+Elapsed time is 117.156428 seconds.
+Elapsed time is 110.349680 seconds.
+Elapsed time is 131.731982 seconds.
+Elapsed time is 96.156841 seconds.
+Elapsed time is 87.626278 seconds.
+Elapsed time is 84.948523 seconds.
+Elapsed time is 146.755523 seconds.
+Elapsed time is 145.362184 seconds.
+Elapsed time is 94.500606 seconds.
+Elapsed time is 120.918946 seconds.
+Elapsed time is 89.047434 seconds.
+Elapsed time is 124.877456 seconds.
+Elapsed time is 123.513482 seconds.
+Elapsed time is 135.370972 seconds.
+Elapsed time is 118.986277 seconds.
+Elapsed time is 83.329197 seconds.
+Elapsed time is 74.787792 seconds.
+Elapsed time is 83.378963 seconds.
+Elapsed time is 132.100470 seconds.
+Elapsed time is 103.509530 seconds.
+Elapsed time is 91.387897 seconds.
+Elapsed time is 125.156793 seconds.
+Elapsed time is 108.790536 seconds.
+Elapsed time is 91.517365 seconds.
+Elapsed time is 101.486364 seconds.
+Elapsed time is 83.544535 seconds.
+Elapsed time is 71.305470 seconds.
+Elapsed time is 81.089613 seconds.
+Elapsed time is 86.453642 seconds.
+Elapsed time is 71.815518 seconds.
+Elapsed time is 121.031422 seconds.
+Elapsed time is 138.867193 seconds.
+Elapsed time is 105.615296 seconds.
+Elapsed time is 125.672420 seconds.
+Elapsed time is 105.453185 seconds.
+Elapsed time is 122.704996 seconds.
+Elapsed time is 99.096505 seconds.
+Elapsed time is 69.683194 seconds.
+Elapsed time is 77.589235 seconds.
+Elapsed time is 99.020516 seconds.
+Elapsed time is 104.894567 seconds.
+Elapsed time is 105.032224 seconds.
+Elapsed time is 103.588983 seconds.
+Elapsed time is 69.521255 seconds.
+Elapsed time is 71.833120 seconds.
+Elapsed time is 76.168515 seconds.
+Elapsed time is 93.068012 seconds.
+Elapsed time is 121.433003 seconds.
+Elapsed time is 125.677814 seconds.
+Elapsed time is 108.495723 seconds.
+Elapsed time is 126.247908 seconds.
+Elapsed time is 119.901604 seconds.
+Elapsed time is 100.295119 seconds.
+Elapsed time is 96.414492 seconds.
+Elapsed time is 90.247142 seconds.
+Elapsed time is 70.954826 seconds.
+Elapsed time is 74.057014 seconds.
+Elapsed time is 104.518037 seconds.
+Elapsed time is 113.469631 seconds.
+Elapsed time is 117.038371 seconds.
+Elapsed time is 113.373562 seconds.
+Elapsed time is 131.738859 seconds.
+Elapsed time is 77.370621 seconds.
+Elapsed time is 87.361140 seconds.
+Elapsed time is 132.926876 seconds.
+Elapsed time is 79.756832 seconds.
+Elapsed time is 77.082968 seconds.
+Elapsed time is 85.999665 seconds.
+Elapsed time is 95.101079 seconds.
+Elapsed time is 87.788591 seconds.
+Elapsed time is 87.096992 seconds.
+Elapsed time is 82.893967 seconds.
+Elapsed time is 72.595019 seconds.
+Elapsed time is 66.616505 seconds.
+Elapsed time is 84.519030 seconds.
+Elapsed time is 77.342295 seconds.
+Elapsed time is 102.365528 seconds.
+Elapsed time is 109.668000 seconds.
+Elapsed time is 108.524063 seconds.
+Elapsed time is 107.234214 seconds.
+Elapsed time is 93.613555 seconds.
+Elapsed time is 65.743620 seconds.
+Elapsed time is 76.344162 seconds.
+Elapsed time is 90.029625 seconds.
+Elapsed time is 92.348660 seconds.
+Elapsed time is 107.699737 seconds.
+Elapsed time is 106.244509 seconds.
+Elapsed time is 103.460524 seconds.
+Elapsed time is 93.919953 seconds.
+Elapsed time is 76.938682 seconds.
+Elapsed time is 74.420866 seconds.
+Elapsed time is 70.480603 seconds.
+Elapsed time is 87.406825 seconds.
+Elapsed time is 66.260223 seconds.
+Elapsed time is 81.863358 seconds.
+Elapsed time is 80.024131 seconds.
+Elapsed time is 83.145704 seconds.
+Elapsed time is 85.223479 seconds.
+Elapsed time is 77.678336 seconds.
+Elapsed time is 73.324149 seconds.
+Elapsed time is 75.486567 seconds.
+Elapsed time is 74.306890 seconds.
+Elapsed time is 73.728527 seconds.
+Elapsed time is 78.196399 seconds.
+Elapsed time is 80.021385 seconds.
+Elapsed time is 93.541003 seconds.
+Elapsed time is 104.507778 seconds.
+Elapsed time is 79.217312 seconds.
+Elapsed time is 76.588520 seconds.
+Elapsed time is 98.660003 seconds.
+Elapsed time is 75.889176 seconds.
+Elapsed time is 70.171293 seconds.
+Elapsed time is 78.239869 seconds.
+Elapsed time is 74.340569 seconds.
+Elapsed time is 78.517749 seconds.
+Elapsed time is 59.463932 seconds.
+Elapsed time is 77.078622 seconds.
+Elapsed time is 82.903394 seconds.
+Elapsed time is 107.561456 seconds.
+Elapsed time is 103.041063 seconds.
+Elapsed time is 108.368278 seconds.
+Elapsed time is 97.969433 seconds.
+Elapsed time is 110.220960 seconds.
+Elapsed time is 96.356721 seconds.
+Elapsed time is 72.622279 seconds.
+Elapsed time is 69.572630 seconds.
+Elapsed time is 62.628641 seconds.
+Elapsed time is 63.014591 seconds.
+Elapsed time is 97.767187 seconds.
+Elapsed time is 105.308426 seconds.
+     9        2090         3260.03         2.7e+05        1e-11       0.012147
+Elapsed time is 76.375199 seconds.
+Elapsed time is 123.783067 seconds.
+Elapsed time is 139.512127 seconds.
+Elapsed time is 131.450153 seconds.
+Elapsed time is 125.195995 seconds.
+Elapsed time is 107.128607 seconds.
+Elapsed time is 127.956384 seconds.
+Elapsed time is 92.722303 seconds.
+Elapsed time is 129.790837 seconds.
+Elapsed time is 163.194493 seconds.
+Elapsed time is 132.709451 seconds.
+Elapsed time is 106.722834 seconds.
+Elapsed time is 70.405731 seconds.
+Elapsed time is 74.208040 seconds.
+Elapsed time is 83.000546 seconds.
+Elapsed time is 105.704074 seconds.
+Elapsed time is 87.998274 seconds.
+Elapsed time is 104.542325 seconds.
+Elapsed time is 93.577658 seconds.
+Elapsed time is 80.404389 seconds.
+Elapsed time is 86.523207 seconds.
+Elapsed time is 120.819715 seconds.
+Elapsed time is 132.865437 seconds.
+Elapsed time is 98.423180 seconds.
+Elapsed time is 90.224303 seconds.
+Elapsed time is 91.729258 seconds.
+Elapsed time is 96.213587 seconds.
+Elapsed time is 68.366310 seconds.
+Elapsed time is 67.885674 seconds.
+Elapsed time is 94.614599 seconds.
+Elapsed time is 101.879028 seconds.
+Elapsed time is 76.657642 seconds.
+Elapsed time is 70.961860 seconds.
+Elapsed time is 66.045021 seconds.
+Elapsed time is 72.503271 seconds.
+Elapsed time is 77.659714 seconds.
+Elapsed time is 90.350859 seconds.
+Elapsed time is 107.768707 seconds.
+Elapsed time is 94.535152 seconds.
+Elapsed time is 101.251003 seconds.
+Elapsed time is 76.021050 seconds.
+Elapsed time is 69.755010 seconds.
+Elapsed time is 67.240369 seconds.
+Elapsed time is 95.626942 seconds.
+Elapsed time is 88.730891 seconds.
+Elapsed time is 98.440584 seconds.
+Elapsed time is 116.346196 seconds.
+Elapsed time is 83.610261 seconds.
+Elapsed time is 110.301319 seconds.
+Elapsed time is 96.186414 seconds.
+Elapsed time is 77.981222 seconds.
+Elapsed time is 112.738723 seconds.
+Elapsed time is 79.366340 seconds.
+Elapsed time is 65.717624 seconds.
+Elapsed time is 97.209668 seconds.
+Elapsed time is 120.576042 seconds.
+Elapsed time is 161.718629 seconds.
+Elapsed time is 135.848746 seconds.
+Elapsed time is 127.432637 seconds.
+Elapsed time is 127.041247 seconds.
+Elapsed time is 118.888944 seconds.
+Elapsed time is 92.600438 seconds.
+Elapsed time is 68.550503 seconds.
+Elapsed time is 73.112068 seconds.
+Elapsed time is 75.056638 seconds.
+Elapsed time is 107.034400 seconds.
+Elapsed time is 106.887161 seconds.
+Elapsed time is 128.462999 seconds.
+Elapsed time is 131.332057 seconds.
+Elapsed time is 95.411658 seconds.
+Elapsed time is 89.036679 seconds.
+Elapsed time is 88.046013 seconds.
+Elapsed time is 90.576133 seconds.
+Elapsed time is 80.756883 seconds.
+Elapsed time is 82.636555 seconds.
+Elapsed time is 81.222378 seconds.
+Elapsed time is 91.654234 seconds.
+Elapsed time is 115.357035 seconds.
+Elapsed time is 122.952592 seconds.
+Elapsed time is 92.481854 seconds.
+Elapsed time is 103.940144 seconds.
+Elapsed time is 130.788360 seconds.
+Elapsed time is 90.644757 seconds.
+Elapsed time is 84.147887 seconds.
+Elapsed time is 93.233120 seconds.
+Elapsed time is 98.164359 seconds.
+Elapsed time is 104.127881 seconds.
+Elapsed time is 94.492547 seconds.
+Elapsed time is 74.147690 seconds.
+Elapsed time is 70.458239 seconds.
+Elapsed time is 80.203271 seconds.
+Elapsed time is 98.196040 seconds.
+Elapsed time is 88.501454 seconds.
+Elapsed time is 67.291743 seconds.
+Elapsed time is 75.389153 seconds.
+Elapsed time is 101.616371 seconds.
+Elapsed time is 87.729195 seconds.
+Elapsed time is 84.108243 seconds.
+Elapsed time is 87.967150 seconds.
+Elapsed time is 91.585853 seconds.
+Elapsed time is 111.400192 seconds.
+Elapsed time is 90.838626 seconds.
+Elapsed time is 95.182035 seconds.
+Elapsed time is 106.339797 seconds.
+Elapsed time is 97.034613 seconds.
+Elapsed time is 74.572527 seconds.
+Elapsed time is 78.570277 seconds.
+Elapsed time is 73.250868 seconds.
+Elapsed time is 80.111458 seconds.
+Elapsed time is 117.108201 seconds.
+Elapsed time is 112.799131 seconds.
+Elapsed time is 118.420654 seconds.
+Elapsed time is 125.176149 seconds.
+Elapsed time is 125.837733 seconds.
+Elapsed time is 133.452866 seconds.
+Elapsed time is 121.888556 seconds.
+Elapsed time is 109.982302 seconds.
+Elapsed time is 98.494320 seconds.
+Elapsed time is 113.958203 seconds.
+Elapsed time is 83.655174 seconds.
+Elapsed time is 68.875284 seconds.
+Elapsed time is 80.838877 seconds.
+Elapsed time is 82.978363 seconds.
+Elapsed time is 109.803515 seconds.
+Elapsed time is 100.540834 seconds.
+Elapsed time is 88.597479 seconds.
+Elapsed time is 95.401094 seconds.
+Elapsed time is 94.050488 seconds.
+Elapsed time is 71.223376 seconds.
+Elapsed time is 74.872585 seconds.
+Elapsed time is 85.010006 seconds.
+Elapsed time is 91.744533 seconds.
+Elapsed time is 68.680999 seconds.
+Elapsed time is 69.653867 seconds.
+Elapsed time is 75.019505 seconds.
+Elapsed time is 82.165908 seconds.
+Elapsed time is 91.390891 seconds.
+Elapsed time is 78.534223 seconds.
+Elapsed time is 73.272930 seconds.
+Elapsed time is 80.942913 seconds.
+Elapsed time is 81.462970 seconds.
+Elapsed time is 100.440686 seconds.
+Elapsed time is 112.658148 seconds.
+Elapsed time is 94.974301 seconds.
+Elapsed time is 116.663825 seconds.
+Elapsed time is 91.978073 seconds.
+Elapsed time is 83.626872 seconds.
+Elapsed time is 70.617350 seconds.
+Elapsed time is 77.005111 seconds.
+Elapsed time is 92.599252 seconds.
+Elapsed time is 101.861086 seconds.
+Elapsed time is 113.075074 seconds.
+Elapsed time is 87.536491 seconds.
+Elapsed time is 67.581575 seconds.
+Elapsed time is 71.068924 seconds.
+Elapsed time is 79.382708 seconds.
+Elapsed time is 107.805984 seconds.
+Elapsed time is 137.403756 seconds.
+Elapsed time is 126.307944 seconds.
+Elapsed time is 98.401602 seconds.
+Elapsed time is 83.814774 seconds.
+Elapsed time is 90.869086 seconds.
+Elapsed time is 71.086314 seconds.
+Elapsed time is 69.015604 seconds.
+Elapsed time is 68.604511 seconds.
+Elapsed time is 73.261675 seconds.
+Elapsed time is 92.936164 seconds.
+Elapsed time is 76.853252 seconds.
+Elapsed time is 74.515766 seconds.
+Elapsed time is 79.879571 seconds.
+Elapsed time is 76.660752 seconds.
+Elapsed time is 71.923125 seconds.
+Elapsed time is 80.414241 seconds.
+Elapsed time is 87.362402 seconds.
+Elapsed time is 94.297031 seconds.
+Elapsed time is 82.178222 seconds.
+Elapsed time is 75.318755 seconds.
+Elapsed time is 85.575213 seconds.
+Elapsed time is 92.265696 seconds.
+Elapsed time is 99.699232 seconds.
+Elapsed time is 97.376969 seconds.
+Elapsed time is 107.689176 seconds.
+Elapsed time is 90.419549 seconds.
+Elapsed time is 71.170578 seconds.
+Elapsed time is 66.574642 seconds.
+Elapsed time is 72.690860 seconds.
+Elapsed time is 85.143891 seconds.
+Elapsed time is 77.900922 seconds.
+Elapsed time is 69.842161 seconds.
+Elapsed time is 64.478574 seconds.
+Elapsed time is 65.388615 seconds.
+Elapsed time is 64.193758 seconds.
+Elapsed time is 67.943991 seconds.
+Elapsed time is 70.349176 seconds.
+Elapsed time is 84.821391 seconds.
+Elapsed time is 85.557360 seconds.
+Elapsed time is 91.997626 seconds.
+Elapsed time is 94.681617 seconds.
+Elapsed time is 94.237983 seconds.
+Elapsed time is 99.123553 seconds.
+Elapsed time is 71.314720 seconds.
+Elapsed time is 71.435207 seconds.
+Elapsed time is 73.569453 seconds.
+Elapsed time is 78.211072 seconds.
+Elapsed time is 99.867016 seconds.
+Elapsed time is 80.589882 seconds.
+Elapsed time is 67.379275 seconds.
+Elapsed time is 75.814727 seconds.
+Elapsed time is 71.160021 seconds.
+    10        2299         3230.28        1.43e+05        1e-12      0.0158856
+Elapsed time is 88.798739 seconds.
+Elapsed time is 87.519630 seconds.
+Elapsed time is 90.454451 seconds.
+Elapsed time is 96.579544 seconds.
+Elapsed time is 78.723984 seconds.
+Elapsed time is 84.829041 seconds.
+Elapsed time is 76.557810 seconds.
+Elapsed time is 64.939505 seconds.
+Elapsed time is 81.709577 seconds.
+Elapsed time is 88.739964 seconds.
+Elapsed time is 125.100533 seconds.
+Elapsed time is 104.745842 seconds.
+Elapsed time is 112.205908 seconds.
+Elapsed time is 132.988870 seconds.
+Elapsed time is 75.807400 seconds.
+Elapsed time is 75.017816 seconds.
+Elapsed time is 84.593065 seconds.
+Elapsed time is 80.695543 seconds.
+Elapsed time is 79.372708 seconds.
+Elapsed time is 77.236896 seconds.
+Elapsed time is 80.122852 seconds.
+Elapsed time is 73.270840 seconds.
+Elapsed time is 85.842572 seconds.
+Elapsed time is 89.180438 seconds.
+Elapsed time is 80.863063 seconds.
+Elapsed time is 83.417106 seconds.
+Elapsed time is 81.491960 seconds.
+Elapsed time is 78.230113 seconds.
+Elapsed time is 79.637132 seconds.
+Elapsed time is 80.649789 seconds.
+Elapsed time is 74.288118 seconds.
+Elapsed time is 67.519632 seconds.
+Elapsed time is 70.225744 seconds.
+Elapsed time is 92.854403 seconds.
+Elapsed time is 79.159324 seconds.
+Elapsed time is 78.973876 seconds.
+Elapsed time is 64.067844 seconds.
+Elapsed time is 73.292336 seconds.
+Elapsed time is 96.212875 seconds.
+Elapsed time is 90.816715 seconds.
+Elapsed time is 98.883879 seconds.
+Elapsed time is 126.505527 seconds.
+Elapsed time is 106.238971 seconds.
+Elapsed time is 85.572479 seconds.
+Elapsed time is 89.637641 seconds.
+Elapsed time is 87.307281 seconds.
+Elapsed time is 79.691158 seconds.
+Elapsed time is 89.719722 seconds.
+Elapsed time is 79.014159 seconds.
+Elapsed time is 71.376514 seconds.
+Elapsed time is 68.222802 seconds.
+Elapsed time is 72.492768 seconds.
+Elapsed time is 73.324926 seconds.
+Elapsed time is 93.448559 seconds.
+Elapsed time is 98.507922 seconds.
+Elapsed time is 87.687965 seconds.
+Elapsed time is 93.688063 seconds.
+Elapsed time is 83.010541 seconds.
+Elapsed time is 91.569462 seconds.
+Elapsed time is 83.292681 seconds.
+Elapsed time is 68.780594 seconds.
+Elapsed time is 65.669435 seconds.
+Elapsed time is 82.585969 seconds.
+Elapsed time is 97.129679 seconds.
+Elapsed time is 72.347075 seconds.
+Elapsed time is 63.089325 seconds.
+Elapsed time is 67.513382 seconds.
+Elapsed time is 66.795591 seconds.
+Elapsed time is 82.354312 seconds.
+Elapsed time is 73.516668 seconds.
+Elapsed time is 104.034486 seconds.
+Elapsed time is 96.208397 seconds.
+Elapsed time is 76.893416 seconds.
+Elapsed time is 64.193293 seconds.
+Elapsed time is 75.504008 seconds.
+Elapsed time is 66.041086 seconds.
+Elapsed time is 70.740294 seconds.
+Elapsed time is 82.230482 seconds.
+Elapsed time is 104.390420 seconds.
+Elapsed time is 78.166858 seconds.
+Elapsed time is 75.039382 seconds.
+Elapsed time is 75.710757 seconds.
+Elapsed time is 82.663095 seconds.
+Elapsed time is 90.653547 seconds.
+Elapsed time is 82.072430 seconds.
+Elapsed time is 70.803272 seconds.
+Elapsed time is 81.483616 seconds.
+Elapsed time is 76.932160 seconds.
+Elapsed time is 67.413965 seconds.
+Elapsed time is 71.850608 seconds.
+Elapsed time is 83.729817 seconds.
+Elapsed time is 102.328205 seconds.
+Elapsed time is 110.381115 seconds.
+Elapsed time is 103.317365 seconds.
+Elapsed time is 104.189773 seconds.
+Elapsed time is 117.850375 seconds.
+Elapsed time is 103.479852 seconds.
+Elapsed time is 105.581774 seconds.
+Elapsed time is 105.216933 seconds.
+Elapsed time is 63.485202 seconds.
+Elapsed time is 68.852842 seconds.
+Elapsed time is 96.521675 seconds.
+Elapsed time is 78.923234 seconds.
+Elapsed time is 87.749871 seconds.
+Elapsed time is 99.614239 seconds.
+Elapsed time is 95.331127 seconds.
+Elapsed time is 115.936831 seconds.
+Elapsed time is 109.019557 seconds.
+Elapsed time is 119.724610 seconds.
+Elapsed time is 114.832998 seconds.
+Elapsed time is 116.937930 seconds.
+Elapsed time is 107.276861 seconds.
+Elapsed time is 104.629954 seconds.
+Elapsed time is 104.553247 seconds.
+Elapsed time is 95.231757 seconds.
+Elapsed time is 100.981183 seconds.
+Elapsed time is 92.791881 seconds.
+Elapsed time is 87.769413 seconds.
+Elapsed time is 67.806003 seconds.
+Elapsed time is 71.012572 seconds.
+Elapsed time is 75.885522 seconds.
+Elapsed time is 113.782186 seconds.
+Elapsed time is 95.432414 seconds.
+Elapsed time is 99.764735 seconds.
+Elapsed time is 98.653922 seconds.
+Elapsed time is 66.537033 seconds.
+Elapsed time is 68.191441 seconds.
+Elapsed time is 85.324037 seconds.
+Elapsed time is 94.331343 seconds.
+Elapsed time is 97.250948 seconds.
+Elapsed time is 95.382546 seconds.
+Elapsed time is 95.027260 seconds.
+Elapsed time is 73.011810 seconds.
+Elapsed time is 70.312079 seconds.
+Elapsed time is 66.328949 seconds.
+Elapsed time is 71.038073 seconds.
+Elapsed time is 68.795891 seconds.
+Elapsed time is 68.707119 seconds.
+Elapsed time is 73.024740 seconds.
+Elapsed time is 66.820771 seconds.
+Elapsed time is 66.789002 seconds.
+Elapsed time is 71.112083 seconds.
+Elapsed time is 80.856578 seconds.
+Elapsed time is 80.529805 seconds.
+Elapsed time is 79.037586 seconds.
+Elapsed time is 73.125850 seconds.
+Elapsed time is 66.874579 seconds.
+Elapsed time is 67.376453 seconds.
+Elapsed time is 73.655283 seconds.
+Elapsed time is 75.883725 seconds.
+Elapsed time is 77.556230 seconds.
+Elapsed time is 90.611947 seconds.
+Elapsed time is 79.799416 seconds.
+Elapsed time is 71.963329 seconds.
+Elapsed time is 92.411599 seconds.
+Elapsed time is 89.650071 seconds.
+Elapsed time is 88.926937 seconds.
+Elapsed time is 85.494810 seconds.
+Elapsed time is 74.690153 seconds.
+Elapsed time is 74.922950 seconds.
+Elapsed time is 68.786044 seconds.
+Elapsed time is 72.936773 seconds.
+Elapsed time is 77.988034 seconds.
+Elapsed time is 94.998621 seconds.
+Elapsed time is 92.179720 seconds.
+Elapsed time is 98.085949 seconds.
+Elapsed time is 87.244746 seconds.
+Elapsed time is 89.769692 seconds.
+Elapsed time is 88.917832 seconds.
+Elapsed time is 97.035830 seconds.
+Elapsed time is 88.358989 seconds.
+Elapsed time is 92.438935 seconds.
+Elapsed time is 98.651818 seconds.
+Elapsed time is 64.710521 seconds.
+Elapsed time is 77.509543 seconds.
+Elapsed time is 81.565875 seconds.
+Elapsed time is 77.778760 seconds.
+Elapsed time is 74.176905 seconds.
+Elapsed time is 79.272702 seconds.
+Elapsed time is 78.681265 seconds.
+Elapsed time is 78.090202 seconds.
+Elapsed time is 76.017628 seconds.
+Elapsed time is 69.513908 seconds.
+Elapsed time is 74.576978 seconds.
+Elapsed time is 69.974415 seconds.
+Elapsed time is 68.958346 seconds.
+Elapsed time is 63.410243 seconds.
+Elapsed time is 68.774947 seconds.
+Elapsed time is 67.051113 seconds.
+Elapsed time is 70.990384 seconds.
+Elapsed time is 72.070437 seconds.
+Elapsed time is 73.268353 seconds.
+Elapsed time is 76.252511 seconds.
+Elapsed time is 76.401572 seconds.
+Elapsed time is 76.844824 seconds.
+Elapsed time is 69.839324 seconds.
+Elapsed time is 71.661974 seconds.
+Elapsed time is 68.424977 seconds.
+Elapsed time is 72.847240 seconds.
+Elapsed time is 71.384462 seconds.
+Elapsed time is 71.348056 seconds.
+Elapsed time is 76.167495 seconds.
+Elapsed time is 79.105874 seconds.
+Elapsed time is 93.931466 seconds.
+Elapsed time is 101.905096 seconds.
+Elapsed time is 113.491367 seconds.
+Elapsed time is 81.660976 seconds.
+Elapsed time is 75.758271 seconds.
+Elapsed time is 70.848626 seconds.
+    11        2508         3176.68        5.05e+05        1e-13      0.0147794
+Elapsed time is 81.839514 seconds.
+Elapsed time is 66.854092 seconds.
+Elapsed time is 71.247014 seconds.
+Elapsed time is 74.599503 seconds.
+Elapsed time is 66.695718 seconds.
+Elapsed time is 73.614772 seconds.
+Elapsed time is 76.779928 seconds.
+Elapsed time is 79.987001 seconds.
+Elapsed time is 83.097241 seconds.
+Elapsed time is 80.844563 seconds.
+Elapsed time is 90.460619 seconds.
+Elapsed time is 88.090184 seconds.
+Elapsed time is 101.444106 seconds.
+Elapsed time is 85.563853 seconds.
+Elapsed time is 75.500990 seconds.
+Elapsed time is 89.727352 seconds.
+Elapsed time is 113.760672 seconds.
+Elapsed time is 91.154922 seconds.
+Elapsed time is 80.713445 seconds.
+Elapsed time is 94.209616 seconds.
+Elapsed time is 111.906227 seconds.
+Elapsed time is 81.867136 seconds.
+Elapsed time is 70.067359 seconds.
+Elapsed time is 71.312097 seconds.
+Elapsed time is 69.253883 seconds.
+Elapsed time is 88.715240 seconds.
+Elapsed time is 91.465339 seconds.
+Elapsed time is 86.345554 seconds.
+Elapsed time is 85.064401 seconds.
+Elapsed time is 77.796066 seconds.
+Elapsed time is 71.953238 seconds.
+Elapsed time is 65.234425 seconds.
+Elapsed time is 67.987502 seconds.
+Elapsed time is 67.045134 seconds.
+Elapsed time is 70.162614 seconds.
+Elapsed time is 68.192963 seconds.
+Elapsed time is 69.011751 seconds.
+Elapsed time is 69.914559 seconds.
+Elapsed time is 68.498515 seconds.
+Elapsed time is 66.274977 seconds.
+Elapsed time is 66.450015 seconds.
+Elapsed time is 70.303857 seconds.
+Elapsed time is 75.133081 seconds.
+Elapsed time is 83.986576 seconds.
+Elapsed time is 77.685977 seconds.
+Elapsed time is 71.635632 seconds.
+Elapsed time is 69.533029 seconds.
+Elapsed time is 66.909755 seconds.
+Elapsed time is 67.811101 seconds.
+Elapsed time is 66.501575 seconds.
+Elapsed time is 68.956704 seconds.
+Elapsed time is 70.576060 seconds.
+Elapsed time is 74.235237 seconds.
+Elapsed time is 68.448964 seconds.
+Elapsed time is 68.236020 seconds.
+Elapsed time is 67.755932 seconds.
+Elapsed time is 70.725570 seconds.
+Elapsed time is 78.730820 seconds.
+Elapsed time is 75.884476 seconds.
+Elapsed time is 72.949960 seconds.
+Elapsed time is 65.658319 seconds.
+Elapsed time is 68.070906 seconds.
+Elapsed time is 65.368483 seconds.
+Elapsed time is 64.136794 seconds.
+Elapsed time is 70.260870 seconds.
+Elapsed time is 71.541301 seconds.
+Elapsed time is 72.472026 seconds.
+Elapsed time is 76.597412 seconds.
+Elapsed time is 81.160175 seconds.
+Elapsed time is 85.339596 seconds.
+Elapsed time is 85.903039 seconds.
+Elapsed time is 86.213847 seconds.
+Elapsed time is 103.740545 seconds.
+Elapsed time is 100.948640 seconds.
+Elapsed time is 107.521138 seconds.
+Elapsed time is 75.241101 seconds.
+Elapsed time is 73.866000 seconds.
+Elapsed time is 83.992856 seconds.
+Elapsed time is 71.499508 seconds.
+Elapsed time is 71.630976 seconds.
+Elapsed time is 71.566220 seconds.
+Elapsed time is 69.907791 seconds.
+Elapsed time is 71.000071 seconds.
+Elapsed time is 69.154376 seconds.
+Elapsed time is 70.765220 seconds.
+Elapsed time is 74.742749 seconds.
+Elapsed time is 68.092110 seconds.
+Elapsed time is 74.790389 seconds.
+Elapsed time is 93.044251 seconds.
+Elapsed time is 94.308401 seconds.
+Elapsed time is 82.393132 seconds.
+Elapsed time is 75.994383 seconds.
+Elapsed time is 81.967498 seconds.
+Elapsed time is 82.389348 seconds.
+Elapsed time is 80.818715 seconds.
+Elapsed time is 67.226337 seconds.
+Elapsed time is 70.791266 seconds.
+Elapsed time is 81.857796 seconds.
+Elapsed time is 84.365804 seconds.
+Elapsed time is 85.530159 seconds.
+Elapsed time is 87.248420 seconds.
+Elapsed time is 99.154763 seconds.
+Elapsed time is 107.932774 seconds.
+Elapsed time is 97.098031 seconds.
+Elapsed time is 108.729591 seconds.
+Elapsed time is 84.569114 seconds.
+Elapsed time is 80.063495 seconds.
+Elapsed time is 76.781123 seconds.
+Elapsed time is 66.084499 seconds.
+Elapsed time is 73.035541 seconds.
+Elapsed time is 69.325986 seconds.
+Elapsed time is 78.890196 seconds.
+Elapsed time is 70.167093 seconds.
+Elapsed time is 87.147950 seconds.
+Elapsed time is 90.059556 seconds.
+Elapsed time is 96.094162 seconds.
+Elapsed time is 83.904556 seconds.
+Elapsed time is 79.975290 seconds.
+Elapsed time is 71.968412 seconds.
+Elapsed time is 76.651442 seconds.
+Elapsed time is 75.430756 seconds.
+Elapsed time is 95.283585 seconds.
+Elapsed time is 103.713028 seconds.
+Elapsed time is 112.868562 seconds.
+Elapsed time is 88.058725 seconds.
+Elapsed time is 71.223038 seconds.
+Elapsed time is 69.448611 seconds.
+Elapsed time is 78.556205 seconds.
+Elapsed time is 80.813895 seconds.
+Elapsed time is 85.856759 seconds.
+Elapsed time is 97.173961 seconds.
+Elapsed time is 92.006499 seconds.
+Elapsed time is 90.617719 seconds.
+Elapsed time is 97.885293 seconds.
+Elapsed time is 112.828516 seconds.
+Elapsed time is 110.354642 seconds.
+Elapsed time is 80.852070 seconds.
+Elapsed time is 65.540827 seconds.
+Elapsed time is 72.175822 seconds.
+Elapsed time is 88.226939 seconds.
+Elapsed time is 93.106919 seconds.
+Elapsed time is 129.293466 seconds.
+Elapsed time is 115.985667 seconds.
+Elapsed time is 95.382210 seconds.
+Elapsed time is 115.923113 seconds.
+Elapsed time is 92.861002 seconds.
+Elapsed time is 67.592031 seconds.
+Elapsed time is 71.327480 seconds.
+Elapsed time is 77.536857 seconds.
+Elapsed time is 87.706166 seconds.
+Elapsed time is 89.935930 seconds.
+Elapsed time is 105.847351 seconds.
+Elapsed time is 105.016382 seconds.
+Elapsed time is 93.670931 seconds.
+Elapsed time is 72.486740 seconds.
+Elapsed time is 65.417399 seconds.
+Elapsed time is 70.871591 seconds.
+Elapsed time is 71.004493 seconds.
+Elapsed time is 67.524796 seconds.
+Elapsed time is 67.066435 seconds.
+Elapsed time is 73.209659 seconds.
+Elapsed time is 76.557984 seconds.
+Elapsed time is 86.235230 seconds.
+Elapsed time is 92.597330 seconds.
+Elapsed time is 94.647324 seconds.
+Elapsed time is 100.031781 seconds.
+Elapsed time is 92.743531 seconds.
+Elapsed time is 100.790465 seconds.
+Elapsed time is 106.236567 seconds.
+Elapsed time is 94.422304 seconds.
+Elapsed time is 82.380554 seconds.
+Elapsed time is 67.598794 seconds.
+Elapsed time is 79.647759 seconds.
+Elapsed time is 80.996501 seconds.
+Elapsed time is 101.414050 seconds.
+Elapsed time is 76.558165 seconds.
+Elapsed time is 69.830511 seconds.
+Elapsed time is 73.427196 seconds.
+Elapsed time is 81.873740 seconds.
+Elapsed time is 83.499015 seconds.
+Elapsed time is 91.956889 seconds.
+Elapsed time is 80.950177 seconds.
+Elapsed time is 81.488089 seconds.
+Elapsed time is 86.278553 seconds.
+Elapsed time is 100.755358 seconds.
+Elapsed time is 86.708101 seconds.
+Elapsed time is 75.339453 seconds.
+Elapsed time is 65.330549 seconds.
+Elapsed time is 66.728312 seconds.
+Elapsed time is 75.219274 seconds.
+Elapsed time is 89.332198 seconds.
+Elapsed time is 89.779282 seconds.
+Elapsed time is 87.789445 seconds.
+Elapsed time is 87.924786 seconds.
+Elapsed time is 95.608359 seconds.
+Elapsed time is 91.348011 seconds.
+Elapsed time is 98.393817 seconds.
+Elapsed time is 98.118409 seconds.
+Elapsed time is 95.111951 seconds.
+Elapsed time is 96.484280 seconds.
+Elapsed time is 94.568252 seconds.
+Elapsed time is 77.914795 seconds.
+Elapsed time is 83.629853 seconds.
+Elapsed time is 81.105872 seconds.
+Elapsed time is 68.175345 seconds.
+Elapsed time is 81.367100 seconds.
+Elapsed time is 83.064380 seconds.
+Elapsed time is 69.641552 seconds.
+Elapsed time is 77.924791 seconds.
+    12        2717          3062.8        8.87e+04        1e-14      0.0122913
+Elapsed time is 77.946512 seconds.
+Elapsed time is 81.951205 seconds.
+Elapsed time is 103.805231 seconds.
+Elapsed time is 91.737807 seconds.
+Elapsed time is 106.761995 seconds.
+Elapsed time is 100.752854 seconds.
+Elapsed time is 102.128109 seconds.
+Elapsed time is 88.081538 seconds.
+Elapsed time is 72.818070 seconds.
+Elapsed time is 69.657367 seconds.
+Elapsed time is 73.553715 seconds.
+Elapsed time is 69.594005 seconds.
+Elapsed time is 66.289989 seconds.
+Elapsed time is 67.958805 seconds.
+Elapsed time is 71.194388 seconds.
+Elapsed time is 75.573973 seconds.
+Elapsed time is 68.320106 seconds.
+Elapsed time is 70.223337 seconds.
+Elapsed time is 71.915875 seconds.
+Elapsed time is 73.713034 seconds.
+Elapsed time is 76.254118 seconds.
+Elapsed time is 83.469476 seconds.
+Elapsed time is 79.442367 seconds.
+Elapsed time is 81.321942 seconds.
+Elapsed time is 89.923227 seconds.
+Elapsed time is 81.028301 seconds.
+Elapsed time is 70.746116 seconds.
+Elapsed time is 71.238736 seconds.
+Elapsed time is 79.146715 seconds.
+Elapsed time is 95.693465 seconds.
+Elapsed time is 91.295019 seconds.
+Elapsed time is 80.167315 seconds.
+Elapsed time is 71.880066 seconds.
+Elapsed time is 66.164667 seconds.
+Elapsed time is 71.516282 seconds.
+Elapsed time is 83.983443 seconds.
+Elapsed time is 84.274709 seconds.
+Elapsed time is 104.645410 seconds.
+Elapsed time is 94.991624 seconds.
+Elapsed time is 73.212573 seconds.
+Elapsed time is 76.212843 seconds.
+Elapsed time is 69.062300 seconds.
+Elapsed time is 73.193621 seconds.
+Elapsed time is 79.863667 seconds.
+Elapsed time is 91.122869 seconds.
+Elapsed time is 121.213473 seconds.
+Elapsed time is 125.472725 seconds.
+Elapsed time is 116.905592 seconds.
+Elapsed time is 130.154819 seconds.
+Elapsed time is 120.377223 seconds.
+Elapsed time is 104.558381 seconds.
+Elapsed time is 99.116732 seconds.
+Elapsed time is 88.951375 seconds.
+Elapsed time is 85.875586 seconds.
+Elapsed time is 82.617742 seconds.
+Elapsed time is 91.797373 seconds.
+Elapsed time is 87.613809 seconds.
+Elapsed time is 82.654621 seconds.
+Elapsed time is 86.846359 seconds.
+Elapsed time is 105.501960 seconds.
+Elapsed time is 99.670270 seconds.
+Elapsed time is 82.280790 seconds.
+Elapsed time is 68.058333 seconds.
+Elapsed time is 74.296118 seconds.
+Elapsed time is 71.391100 seconds.
+Elapsed time is 71.388698 seconds.
+Elapsed time is 87.525817 seconds.
+Elapsed time is 82.795370 seconds.
+Elapsed time is 71.567657 seconds.
+Elapsed time is 77.183494 seconds.
+Elapsed time is 102.034355 seconds.
+Elapsed time is 97.738163 seconds.
+Elapsed time is 79.546275 seconds.
+Elapsed time is 92.339912 seconds.
+Elapsed time is 78.963327 seconds.
+Elapsed time is 75.163399 seconds.
+Elapsed time is 69.688829 seconds.
+Elapsed time is 69.414219 seconds.
+Elapsed time is 73.938587 seconds.
+Elapsed time is 75.925201 seconds.
+Elapsed time is 90.303436 seconds.
+Elapsed time is 91.144442 seconds.
+Elapsed time is 92.325456 seconds.
+Elapsed time is 96.585987 seconds.
+Elapsed time is 86.992040 seconds.
+Elapsed time is 76.420094 seconds.
+Elapsed time is 64.544695 seconds.
+Elapsed time is 72.312103 seconds.
+Elapsed time is 79.635703 seconds.
+Elapsed time is 108.698149 seconds.
+Elapsed time is 90.277502 seconds.
+Elapsed time is 78.760678 seconds.
+Elapsed time is 89.518614 seconds.
+Elapsed time is 101.340743 seconds.
+Elapsed time is 89.227790 seconds.
+Elapsed time is 75.465665 seconds.
+Elapsed time is 95.788471 seconds.
+Elapsed time is 90.057832 seconds.
+Elapsed time is 83.076252 seconds.
+Elapsed time is 75.274447 seconds.
+Elapsed time is 64.178179 seconds.
+Elapsed time is 62.533241 seconds.
+Elapsed time is 63.539592 seconds.
+Elapsed time is 69.013898 seconds.
+Elapsed time is 62.815760 seconds.
+Elapsed time is 69.108422 seconds.
+Elapsed time is 68.823242 seconds.
+Elapsed time is 74.689323 seconds.
+Elapsed time is 69.480869 seconds.
+Elapsed time is 71.232130 seconds.
+Elapsed time is 73.557303 seconds.
+Elapsed time is 81.452704 seconds.
+Elapsed time is 77.501069 seconds.
+Elapsed time is 80.612355 seconds.
+Elapsed time is 86.256269 seconds.
+Elapsed time is 84.973270 seconds.
+Elapsed time is 82.140318 seconds.
+Elapsed time is 79.630249 seconds.
+Elapsed time is 86.882244 seconds.
+Elapsed time is 87.956540 seconds.
+Elapsed time is 90.392827 seconds.
+Elapsed time is 98.357082 seconds.
+Elapsed time is 84.394601 seconds.
+Elapsed time is 75.464927 seconds.
+Elapsed time is 92.316339 seconds.
+Elapsed time is 80.131997 seconds.
+Elapsed time is 73.520572 seconds.
+Elapsed time is 66.948262 seconds.
+Elapsed time is 71.376985 seconds.
+Elapsed time is 83.551922 seconds.
+Elapsed time is 80.263502 seconds.
+Elapsed time is 73.070337 seconds.
+Elapsed time is 71.213990 seconds.
+Elapsed time is 74.292490 seconds.
+Elapsed time is 71.370322 seconds.
+Elapsed time is 69.680818 seconds.
+Elapsed time is 73.375552 seconds.
+Elapsed time is 70.277095 seconds.
+Elapsed time is 70.921706 seconds.
+Elapsed time is 64.693992 seconds.
+Elapsed time is 69.448776 seconds.
+Elapsed time is 62.973583 seconds.
+Elapsed time is 59.754920 seconds.
+Elapsed time is 82.505401 seconds.
+Elapsed time is 83.901685 seconds.
+Elapsed time is 99.022183 seconds.
+Elapsed time is 82.319831 seconds.
+Elapsed time is 90.568320 seconds.
+Elapsed time is 97.561773 seconds.
+Elapsed time is 90.214902 seconds.
+Elapsed time is 67.882349 seconds.
+Elapsed time is 67.337161 seconds.
+Elapsed time is 90.303222 seconds.
+Elapsed time is 93.408097 seconds.
+Elapsed time is 95.628534 seconds.
+Elapsed time is 139.806227 seconds.
+Elapsed time is 101.889945 seconds.
+Elapsed time is 93.704718 seconds.
+Elapsed time is 112.291840 seconds.
+Elapsed time is 102.899799 seconds.
+Elapsed time is 71.703040 seconds.
+Elapsed time is 64.088520 seconds.
+Elapsed time is 71.588102 seconds.
+Elapsed time is 66.212809 seconds.
+Elapsed time is 67.268988 seconds.
+Elapsed time is 64.777540 seconds.
+Elapsed time is 71.333340 seconds.
+Elapsed time is 71.652438 seconds.
+Elapsed time is 80.935305 seconds.
+Elapsed time is 83.288091 seconds.
+Elapsed time is 83.931855 seconds.
+Elapsed time is 76.302025 seconds.
+Elapsed time is 73.273048 seconds.
+Elapsed time is 75.027788 seconds.
+Elapsed time is 80.724851 seconds.
+Elapsed time is 87.922291 seconds.
+Elapsed time is 94.199863 seconds.
+Elapsed time is 80.486098 seconds.
+Elapsed time is 66.452978 seconds.
+Elapsed time is 63.767859 seconds.
+Elapsed time is 68.913939 seconds.
+Elapsed time is 76.681882 seconds.
+Elapsed time is 71.960228 seconds.
+Elapsed time is 74.106060 seconds.
+Elapsed time is 68.805965 seconds.
+Elapsed time is 72.716429 seconds.
+Elapsed time is 66.565240 seconds.
+Elapsed time is 65.689210 seconds.
+Elapsed time is 72.332045 seconds.
+Elapsed time is 64.475287 seconds.
+Elapsed time is 69.527413 seconds.
+Elapsed time is 69.690399 seconds.
+Elapsed time is 74.995748 seconds.
+Elapsed time is 70.797176 seconds.
+Elapsed time is 67.897276 seconds.
+Elapsed time is 69.119769 seconds.
+Elapsed time is 73.136090 seconds.
+Elapsed time is 72.353864 seconds.
+Elapsed time is 75.399004 seconds.
+Elapsed time is 77.535785 seconds.
+Elapsed time is 86.312808 seconds.
+Elapsed time is 77.112766 seconds.
+Elapsed time is 63.671955 seconds.
+Elapsed time is 63.857704 seconds.
+Elapsed time is 81.337555 seconds.
+Elapsed time is 77.884315 seconds.
+Elapsed time is 73.441765 seconds.
+Elapsed time is 80.442013 seconds.
+Elapsed time is 100.669871 seconds.
+    13        2926         3030.62        6.07e+06        1e-15       0.011261
+Elapsed time is 70.807338 seconds.
+Elapsed time is 72.899465 seconds.
+Elapsed time is 70.736262 seconds.
+Elapsed time is 70.808284 seconds.
+Elapsed time is 68.502024 seconds.
+Elapsed time is 72.440279 seconds.
+Elapsed time is 77.295263 seconds.
+Elapsed time is 94.082409 seconds.
+Elapsed time is 77.025797 seconds.
+Elapsed time is 78.050551 seconds.
+Elapsed time is 74.247965 seconds.
+Elapsed time is 75.911201 seconds.
+Elapsed time is 104.507488 seconds.
+Elapsed time is 91.825768 seconds.
+Elapsed time is 77.788500 seconds.
+Elapsed time is 73.102476 seconds.
+Elapsed time is 70.134896 seconds.
+Elapsed time is 73.408200 seconds.
+Elapsed time is 84.550268 seconds.
+Elapsed time is 83.880909 seconds.
+Elapsed time is 73.413545 seconds.
+Elapsed time is 68.707093 seconds.
+Elapsed time is 69.673873 seconds.
+Elapsed time is 70.170894 seconds.
+Elapsed time is 74.522283 seconds.
+Elapsed time is 82.643681 seconds.
+Elapsed time is 79.997202 seconds.
+Elapsed time is 74.303503 seconds.
+Elapsed time is 72.506609 seconds.
+Elapsed time is 66.498095 seconds.
+Elapsed time is 61.884022 seconds.
+Elapsed time is 70.801889 seconds.
+Elapsed time is 73.034743 seconds.
+Elapsed time is 76.712102 seconds.
+Elapsed time is 73.759342 seconds.
+Elapsed time is 78.650007 seconds.
+Elapsed time is 82.305955 seconds.
+Elapsed time is 72.065965 seconds.
+Elapsed time is 74.575774 seconds.
+Elapsed time is 73.325192 seconds.
+Elapsed time is 85.835069 seconds.
+Elapsed time is 76.522639 seconds.
+Elapsed time is 64.960738 seconds.
+Elapsed time is 70.082362 seconds.
+Elapsed time is 66.616046 seconds.
+Elapsed time is 82.653284 seconds.
+Elapsed time is 112.827267 seconds.
+Elapsed time is 78.633284 seconds.
+Elapsed time is 75.987071 seconds.
+Elapsed time is 86.761833 seconds.
+Elapsed time is 78.110534 seconds.
+Elapsed time is 74.046088 seconds.
+Elapsed time is 75.827453 seconds.
+Elapsed time is 76.957034 seconds.
+Elapsed time is 81.338480 seconds.
+Elapsed time is 73.757746 seconds.
+Elapsed time is 73.350488 seconds.
+Elapsed time is 80.130988 seconds.
+Elapsed time is 81.753446 seconds.
+Elapsed time is 74.355472 seconds.
+Elapsed time is 69.824229 seconds.
+Elapsed time is 76.507397 seconds.
+Elapsed time is 81.923680 seconds.
+Elapsed time is 71.540057 seconds.
+Elapsed time is 70.990253 seconds.
+Elapsed time is 72.929008 seconds.
+Elapsed time is 78.735768 seconds.
+Elapsed time is 71.769623 seconds.
+Elapsed time is 76.842967 seconds.
+Elapsed time is 75.416743 seconds.
+Elapsed time is 77.876389 seconds.
+Elapsed time is 69.476862 seconds.
+Elapsed time is 70.295331 seconds.
+Elapsed time is 64.471660 seconds.
+Elapsed time is 67.688375 seconds.
+Elapsed time is 72.512848 seconds.
+Elapsed time is 76.942418 seconds.
+Elapsed time is 69.104464 seconds.
+Elapsed time is 69.680715 seconds.
+Elapsed time is 73.732504 seconds.
+Elapsed time is 69.727325 seconds.
+Elapsed time is 71.799353 seconds.
+Elapsed time is 75.362078 seconds.
+Elapsed time is 82.947787 seconds.
+Elapsed time is 79.528715 seconds.
+Elapsed time is 73.931439 seconds.
+Elapsed time is 75.843353 seconds.
+Elapsed time is 72.187887 seconds.
+Elapsed time is 75.681525 seconds.
+Elapsed time is 77.436597 seconds.
+Elapsed time is 68.607088 seconds.
+Elapsed time is 73.108521 seconds.
+Elapsed time is 71.969052 seconds.
+Elapsed time is 81.173387 seconds.
+Elapsed time is 74.480270 seconds.
+Elapsed time is 77.655257 seconds.
+Elapsed time is 80.268354 seconds.
+Elapsed time is 75.401267 seconds.
+Elapsed time is 104.788435 seconds.
+Elapsed time is 86.750853 seconds.
+Elapsed time is 76.474109 seconds.
+Elapsed time is 75.359604 seconds.
+Elapsed time is 71.030486 seconds.
+Elapsed time is 67.657141 seconds.
+Elapsed time is 70.319788 seconds.
+Elapsed time is 74.663971 seconds.
+Elapsed time is 67.946850 seconds.
+Elapsed time is 67.165404 seconds.
+Elapsed time is 72.786202 seconds.
+Elapsed time is 70.090947 seconds.
+Elapsed time is 70.694451 seconds.
+Elapsed time is 67.039243 seconds.
+Elapsed time is 67.600882 seconds.
+Elapsed time is 73.151768 seconds.
+Elapsed time is 79.727416 seconds.
+Elapsed time is 71.168020 seconds.
+Elapsed time is 66.852123 seconds.
+Elapsed time is 68.228375 seconds.
+Elapsed time is 68.978829 seconds.
+Elapsed time is 69.882687 seconds.
+Elapsed time is 71.450476 seconds.
+Elapsed time is 71.015125 seconds.
+Elapsed time is 65.226134 seconds.
+Elapsed time is 65.767543 seconds.
+Elapsed time is 61.662616 seconds.
+Elapsed time is 65.597435 seconds.
+Elapsed time is 61.913506 seconds.
+Elapsed time is 70.367046 seconds.
+Elapsed time is 74.185862 seconds.
+Elapsed time is 84.535618 seconds.
+Elapsed time is 92.868271 seconds.
+Elapsed time is 87.579725 seconds.
+Elapsed time is 78.386081 seconds.
+Elapsed time is 62.753095 seconds.
+Elapsed time is 67.005674 seconds.
+Elapsed time is 80.126927 seconds.
+Elapsed time is 88.356498 seconds.
+Elapsed time is 87.939736 seconds.
+Elapsed time is 85.242739 seconds.
+Elapsed time is 69.197534 seconds.
+Elapsed time is 73.774862 seconds.
+Elapsed time is 70.683417 seconds.
+Elapsed time is 73.266086 seconds.
+Elapsed time is 73.102060 seconds.
+Elapsed time is 72.414417 seconds.
+Elapsed time is 74.998592 seconds.
+Elapsed time is 69.594473 seconds.
+Elapsed time is 72.170828 seconds.
+Elapsed time is 71.026409 seconds.
+Elapsed time is 70.211100 seconds.
+Elapsed time is 67.792971 seconds.
+Elapsed time is 65.527046 seconds.
+Elapsed time is 66.777855 seconds.
+Elapsed time is 71.957065 seconds.
+Elapsed time is 73.046024 seconds.
+Elapsed time is 73.462635 seconds.
+Elapsed time is 78.370540 seconds.
+Elapsed time is 65.734620 seconds.
+Elapsed time is 68.138162 seconds.
+Elapsed time is 78.293043 seconds.
+Elapsed time is 89.843279 seconds.
+Elapsed time is 96.361758 seconds.
+Elapsed time is 85.795895 seconds.
+Elapsed time is 75.894984 seconds.
+Elapsed time is 83.393704 seconds.
+Elapsed time is 89.199743 seconds.
+Elapsed time is 79.682271 seconds.
+Elapsed time is 72.449758 seconds.
+Elapsed time is 67.631291 seconds.
+Elapsed time is 61.538514 seconds.
+Elapsed time is 63.267436 seconds.
+Elapsed time is 63.153098 seconds.
+Elapsed time is 72.106147 seconds.
+Elapsed time is 77.255590 seconds.
+Elapsed time is 72.978719 seconds.
+Elapsed time is 66.223278 seconds.
+Elapsed time is 72.043878 seconds.
+Elapsed time is 70.032631 seconds.
+Elapsed time is 66.580387 seconds.
+Elapsed time is 65.534146 seconds.
+Elapsed time is 70.774550 seconds.
+Elapsed time is 70.141904 seconds.
+Elapsed time is 75.585744 seconds.
+Elapsed time is 75.899395 seconds.
+Elapsed time is 64.473271 seconds.
+Elapsed time is 62.158843 seconds.
+Elapsed time is 63.317139 seconds.
+Elapsed time is 65.346684 seconds.
+Elapsed time is 81.008723 seconds.
+Elapsed time is 81.399690 seconds.
+Elapsed time is 89.745446 seconds.
+Elapsed time is 94.087307 seconds.
+Elapsed time is 82.186103 seconds.
+Elapsed time is 75.152529 seconds.
+Elapsed time is 73.069951 seconds.
+Elapsed time is 75.492788 seconds.
+Elapsed time is 73.011360 seconds.
+Elapsed time is 72.787250 seconds.
+Elapsed time is 64.464287 seconds.
+Elapsed time is 80.541187 seconds.
+Elapsed time is 99.768277 seconds.
+Elapsed time is 83.566924 seconds.
+Elapsed time is 65.695251 seconds.
+Elapsed time is 74.283387 seconds.
+Elapsed time is 87.951894 seconds.
+Elapsed time is 80.289927 seconds.
+Elapsed time is 77.443681 seconds.
+Elapsed time is 69.522608 seconds.
+Elapsed time is 89.465776 seconds.
+    14        3135         3024.26        1.06e+06        1e-16      0.0178923
+Elapsed time is 63.609660 seconds.
+Elapsed time is 70.109267 seconds.
+Elapsed time is 81.771834 seconds.
+Elapsed time is 76.431614 seconds.
+Elapsed time is 85.749754 seconds.
+Elapsed time is 69.726017 seconds.
+Elapsed time is 69.106893 seconds.
+Elapsed time is 75.455725 seconds.
+Elapsed time is 74.103749 seconds.
+Elapsed time is 67.529933 seconds.
+Elapsed time is 78.190852 seconds.
+Elapsed time is 73.022778 seconds.
+Elapsed time is 96.592807 seconds.
+Elapsed time is 97.377780 seconds.
+Elapsed time is 113.354045 seconds.
+Elapsed time is 103.472024 seconds.
+Elapsed time is 85.155308 seconds.
+Elapsed time is 82.799663 seconds.
+Elapsed time is 72.812497 seconds.
+Elapsed time is 69.786266 seconds.
+Elapsed time is 70.990833 seconds.
+Elapsed time is 75.494359 seconds.
+Elapsed time is 77.791745 seconds.
+Elapsed time is 92.956526 seconds.
+Elapsed time is 81.360054 seconds.
+Elapsed time is 94.416084 seconds.
+Elapsed time is 90.524295 seconds.
+Elapsed time is 87.145028 seconds.
+Elapsed time is 95.968688 seconds.
+Elapsed time is 117.712752 seconds.
+Elapsed time is 95.984438 seconds.
+Elapsed time is 85.637442 seconds.
+Elapsed time is 80.229363 seconds.
+Elapsed time is 73.071186 seconds.
+Elapsed time is 74.658785 seconds.
+Elapsed time is 81.902792 seconds.
+Elapsed time is 82.444419 seconds.
+Elapsed time is 95.211397 seconds.
+Elapsed time is 82.031759 seconds.
+Elapsed time is 80.162938 seconds.
+Elapsed time is 74.696069 seconds.
+Elapsed time is 69.861274 seconds.
+Elapsed time is 71.282248 seconds.
+Elapsed time is 70.882417 seconds.
+Elapsed time is 70.000086 seconds.
+Elapsed time is 66.226159 seconds.
+Elapsed time is 65.388967 seconds.
+Elapsed time is 66.717601 seconds.
+Elapsed time is 67.675743 seconds.
+Elapsed time is 68.770736 seconds.
+Elapsed time is 62.844367 seconds.
+Elapsed time is 63.014159 seconds.
+Elapsed time is 67.149664 seconds.
+Elapsed time is 72.635194 seconds.
+Elapsed time is 74.487130 seconds.
+Elapsed time is 67.363069 seconds.
+Elapsed time is 63.305303 seconds.
+Elapsed time is 63.030406 seconds.
+Elapsed time is 65.439672 seconds.
+Elapsed time is 67.305699 seconds.
+Elapsed time is 71.776922 seconds.
+Elapsed time is 85.413948 seconds.
+Elapsed time is 128.286041 seconds.
+Elapsed time is 131.941776 seconds.
+Elapsed time is 109.558672 seconds.
+Elapsed time is 91.541812 seconds.
+Elapsed time is 89.761806 seconds.
+Elapsed time is 77.138912 seconds.
+Elapsed time is 72.773249 seconds.
+Elapsed time is 93.656379 seconds.
+Elapsed time is 94.515341 seconds.
+Elapsed time is 105.507371 seconds.
+Elapsed time is 119.762715 seconds.
+Elapsed time is 101.051597 seconds.
+Elapsed time is 98.930759 seconds.
+Elapsed time is 73.832993 seconds.
+Elapsed time is 82.120450 seconds.
+Elapsed time is 99.268493 seconds.
+Elapsed time is 96.184187 seconds.
+Elapsed time is 103.320034 seconds.
+Elapsed time is 109.428505 seconds.
+Elapsed time is 118.213745 seconds.
+Elapsed time is 92.134641 seconds.
+Elapsed time is 75.610577 seconds.
+Elapsed time is 107.765594 seconds.
+Elapsed time is 118.322893 seconds.
+Elapsed time is 93.823632 seconds.
+Elapsed time is 77.964320 seconds.
+Elapsed time is 90.945653 seconds.
+Elapsed time is 75.193418 seconds.
+Elapsed time is 92.796602 seconds.
+Elapsed time is 98.916552 seconds.
+Elapsed time is 87.557219 seconds.
+Elapsed time is 86.908532 seconds.
+Elapsed time is 77.305368 seconds.
+Elapsed time is 62.861127 seconds.
+Elapsed time is 94.954227 seconds.
+Elapsed time is 106.681030 seconds.
+Elapsed time is 120.706855 seconds.
+Elapsed time is 93.798818 seconds.
+Elapsed time is 90.210694 seconds.
+Elapsed time is 88.850959 seconds.
+Elapsed time is 69.233947 seconds.
+Elapsed time is 71.222683 seconds.
+Elapsed time is 73.528500 seconds.
+Elapsed time is 71.230006 seconds.
+Elapsed time is 79.852416 seconds.
+Elapsed time is 85.921758 seconds.
+Elapsed time is 76.867786 seconds.
+Elapsed time is 72.029237 seconds.
+Elapsed time is 70.108741 seconds.
+Elapsed time is 68.900343 seconds.
+Elapsed time is 67.050779 seconds.
+Elapsed time is 69.599208 seconds.
+Elapsed time is 70.036535 seconds.
+Elapsed time is 75.171441 seconds.
+Elapsed time is 71.919402 seconds.
+Elapsed time is 74.802418 seconds.
+Elapsed time is 66.458519 seconds.
+Elapsed time is 68.049859 seconds.
+Elapsed time is 66.928350 seconds.
+Elapsed time is 67.776315 seconds.
+Elapsed time is 68.362249 seconds.
+Elapsed time is 68.636150 seconds.
+Elapsed time is 69.520607 seconds.
+Elapsed time is 68.842693 seconds.
+Elapsed time is 69.499670 seconds.
+Elapsed time is 69.944444 seconds.
+Elapsed time is 68.879074 seconds.
+Elapsed time is 75.570891 seconds.
+Elapsed time is 67.279026 seconds.
+Elapsed time is 68.193683 seconds.
+Elapsed time is 66.836298 seconds.
+Elapsed time is 67.112506 seconds.
+Elapsed time is 67.715428 seconds.
+Elapsed time is 66.141105 seconds.
+Elapsed time is 66.829541 seconds.
+Elapsed time is 67.771889 seconds.
+Elapsed time is 73.873357 seconds.
+Elapsed time is 65.971169 seconds.
+Elapsed time is 65.435106 seconds.
+Elapsed time is 63.788025 seconds.
+Elapsed time is 65.353425 seconds.
+Elapsed time is 65.390522 seconds.
+Elapsed time is 65.771024 seconds.
+Elapsed time is 66.340301 seconds.
+Elapsed time is 64.291511 seconds.
+Elapsed time is 65.032110 seconds.
+Elapsed time is 64.956883 seconds.
+Elapsed time is 62.814909 seconds.
+Elapsed time is 67.439922 seconds.
+Elapsed time is 63.560682 seconds.
+Elapsed time is 64.570865 seconds.
+Elapsed time is 65.427245 seconds.
+Elapsed time is 66.784532 seconds.
+Elapsed time is 71.098784 seconds.
+Elapsed time is 95.765632 seconds.
+Elapsed time is 109.113349 seconds.
+Elapsed time is 87.589110 seconds.
+Elapsed time is 75.445652 seconds.
+Elapsed time is 73.594341 seconds.
+Elapsed time is 73.400002 seconds.
+Elapsed time is 68.014631 seconds.
+Elapsed time is 63.910022 seconds.
+Elapsed time is 63.666311 seconds.
+Elapsed time is 63.383662 seconds.
+Elapsed time is 65.346542 seconds.
+Elapsed time is 63.731992 seconds.
+Elapsed time is 66.050145 seconds.
+Elapsed time is 68.964892 seconds.
+Elapsed time is 70.915713 seconds.
+Elapsed time is 71.040400 seconds.
+Elapsed time is 63.482711 seconds.
+Elapsed time is 69.430032 seconds.
+Elapsed time is 70.245787 seconds.
+Elapsed time is 69.371506 seconds.
+Elapsed time is 62.969975 seconds.
+Elapsed time is 64.399071 seconds.
+Elapsed time is 67.094130 seconds.
+Elapsed time is 66.150350 seconds.
+Elapsed time is 66.607317 seconds.
+Elapsed time is 65.085894 seconds.
+Elapsed time is 64.878217 seconds.
+Elapsed time is 65.585840 seconds.
+Elapsed time is 66.941393 seconds.
+Elapsed time is 69.932584 seconds.
+Elapsed time is 67.149529 seconds.
+Elapsed time is 68.982937 seconds.
+Elapsed time is 70.942959 seconds.
+Elapsed time is 68.010242 seconds.
+Elapsed time is 68.703437 seconds.
+Elapsed time is 67.637293 seconds.
+Elapsed time is 67.161642 seconds.
+Elapsed time is 66.488294 seconds.
+Elapsed time is 67.307902 seconds.
+Elapsed time is 65.321967 seconds.
+Elapsed time is 67.206324 seconds.
+Elapsed time is 67.605125 seconds.
+Elapsed time is 67.762574 seconds.
+Elapsed time is 68.655908 seconds.
+Elapsed time is 67.621097 seconds.
+Elapsed time is 68.223823 seconds.
+Elapsed time is 64.558224 seconds.
+Elapsed time is 64.820044 seconds.
+Elapsed time is 65.453071 seconds.
+Elapsed time is 65.967886 seconds.
+Elapsed time is 68.477667 seconds.
+Elapsed time is 70.574717 seconds.
+Elapsed time is 66.746439 seconds.
+    15        3344         2973.97        1.85e+06        1e-17       0.015941
+Elapsed time is 74.212423 seconds.
+Elapsed time is 73.114526 seconds.
+Elapsed time is 77.428025 seconds.
+Elapsed time is 64.042259 seconds.
+Elapsed time is 65.173184 seconds.
+Elapsed time is 69.954347 seconds.
+Elapsed time is 79.062034 seconds.
+Elapsed time is 68.821804 seconds.
+Elapsed time is 62.703423 seconds.
+Elapsed time is 64.692132 seconds.
+Elapsed time is 69.408119 seconds.
+Elapsed time is 70.972636 seconds.
+Elapsed time is 70.165674 seconds.
+Elapsed time is 66.695367 seconds.
+Elapsed time is 74.709154 seconds.
+Elapsed time is 66.173141 seconds.
+Elapsed time is 70.230837 seconds.
+Elapsed time is 64.914299 seconds.
+Elapsed time is 62.728846 seconds.
+Elapsed time is 64.837545 seconds.
+Elapsed time is 67.701722 seconds.
+Elapsed time is 77.528819 seconds.
+Elapsed time is 81.921871 seconds.
+Elapsed time is 67.620768 seconds.
+Elapsed time is 82.580453 seconds.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+map�����Ż������ڲ���Ϊ
+   1.0e+03 *
+
+    1.3792         0    0.9498
+         0    1.3637    0.5387
+         0         0    0.0010
+
+Parallel pool using the 'local' profile is shutting down.
+Elapsed time is 80.708951 seconds.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 34 workers.
+Elapsed time is 2972.195385 seconds.
+Elapsed time is 3383.099242 seconds.
+Elapsed time is 3407.958557 seconds.
+Elapsed time is 3470.230282 seconds.
+Elapsed time is 3574.453702 seconds.
+Elapsed time is 3576.876323 seconds.
+Elapsed time is 3619.570691 seconds.
+Elapsed time is 3628.176579 seconds.
+Elapsed time is 3648.782381 seconds.
+Elapsed time is 3690.843522 seconds.
+Elapsed time is 3733.489844 seconds.
+Elapsed time is 3758.162267 seconds.
+Elapsed time is 3842.623392 seconds.
+Elapsed time is 3859.306755 seconds.
+Elapsed time is 3867.114964 seconds.
+Elapsed time is 3942.188816 seconds.
+Elapsed time is 4046.646441 seconds.
+Elapsed time is 4056.932335 seconds.
+Elapsed time is 4082.050993 seconds.
+Elapsed time is 4117.459604 seconds.
+Elapsed time is 4149.423634 seconds.
+Elapsed time is 4162.281216 seconds.
+Elapsed time is 4182.082136 seconds.
+Elapsed time is 4204.815170 seconds.
+Elapsed time is 4209.573719 seconds.
+Elapsed time is 4276.768759 seconds.
+Elapsed time is 4375.252606 seconds.
+Elapsed time is 4871.817162 seconds.
+Elapsed time is 5098.466096 seconds.
+Elapsed time is 5211.005450 seconds.
+Elapsed time is 5444.515305 seconds.
+Elapsed time is 5497.719346 seconds.
+Elapsed time is 5761.308160 seconds.
+Elapsed time is 6933.926452 seconds.
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 34 workers.
+Elapsed time is 4027.715238 seconds.
+Elapsed time is 4117.058761 seconds.
+Elapsed time is 4308.668751 seconds.
+Elapsed time is 4425.050937 seconds.
+Elapsed time is 4906.152561 seconds.
+Elapsed time is 4913.429059 seconds.
+Elapsed time is 5036.111005 seconds.
+Elapsed time is 5046.815592 seconds.
+Elapsed time is 5058.398483 seconds.
+Elapsed time is 5082.445597 seconds.
+Elapsed time is 5133.679727 seconds.
+Elapsed time is 5159.458509 seconds.
+Elapsed time is 5196.632737 seconds.
+Elapsed time is 5199.608504 seconds.
+Elapsed time is 5240.299262 seconds.
+Elapsed time is 5579.352656 seconds.
+Elapsed time is 5603.144080 seconds.
+Elapsed time is 5622.278980 seconds.
+Elapsed time is 5665.374447 seconds.
+Elapsed time is 5797.671347 seconds.
+Elapsed time is 5884.355648 seconds.
+Elapsed time is 5978.056940 seconds.
+Elapsed time is 6000.842945 seconds.
+Elapsed time is 6001.223216 seconds.
+Elapsed time is 6075.109383 seconds.
+Elapsed time is 6267.758994 seconds.
+Elapsed time is 6386.922714 seconds.
+Elapsed time is 6590.753537 seconds.
+Elapsed time is 6858.861935 seconds.
+Elapsed time is 6872.636167 seconds.
+Elapsed time is 6963.296996 seconds.
+Elapsed time is 7341.858691 seconds.
+Elapsed time is 7826.878751 seconds.
+Elapsed time is 8416.726311 seconds.
+Parallel pool using the 'local' profile is shutting down.
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the relative size of the current step is less than
+the default value of the step size tolerance.
+
+
+
+
+A =
+
+   1.0e+03 *
+
+   1.379501390801437                   0   0.948889480409802
+                   0   1.364049317937261   0.538455426665245
+                   0                   0   0.001000000000000
+
+
+initres =
+
+   0.076023227184716
+
+  message with properties:
+
+    Identifier: 'MATLAB:connector:connector:ConnectorNotRunning'
+     Arguments: {}
+
